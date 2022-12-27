@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Action/02 Projects/Second Brain.md",
-                "mode": "source",
+                "file": "02 Action/03 Goals/03 Goals.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -185,15 +185,15 @@
   },
   "active": "6afec4db0601dbf0",
   "lastOpenFiles": [
-    "01 Notes/Dotfiles.md",
+    "02 Action/03 Goals/Review Subscriptions.md",
+    "02 Action/03 Goals/03 Goals.md",
+    "01 Notes/Clipped/Naming Tokens in Design Systems.md",
     "02 Action/02 Projects/Second Brain.md",
     "01 Notes/Obsidian.md",
-    "01 Notes/ArchiveBox.md",
-    "01 Notes/Migrate/Praxisprojekt-Bericht.md",
-    "01 Notes/Migrate/Notizen Telekom Ausschreibung 20191018.md",
-    "01 Notes/Migrate/Angebot Gewinnspielplattform Telekom.md",
-    "01 Notes/Clipped/Naming Tokens in Design Systems.md",
-    "Naming Tokens in Design Systems 2.md",
-    "Naming Tokens in Design Systems 1.md"
+    "02 Action/02 Projects/02 Projects.md",
+    "02 Action/03 Goals/Find focus.md",
+    "02 Action/03 Goals/Keep time.md",
+    "01 Notes/Dotfiles.md",
+    "01 Notes/ArchiveBox.md"
   ]
 }

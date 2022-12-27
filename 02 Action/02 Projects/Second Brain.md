@@ -4,7 +4,7 @@ tags: project
 # Second Brain
 
 [Goal :: [[Find focus]]]  ⠀•⠀ [Deadline :: 📅 2022-01-31 ] ⠀•⠀ [Complete :: ❌]
-[Target :: Daily note taking]
+[Target :: Daily note taking] ⠀•⠀ [Area :: Obsidian]
 
 
 ---
@@ -18,3 +18,4 @@ tags: project
 - [ ] [[Obsidian]]: Create macro for notes (+ Note)
 - [ ] [[ArchiveBox]]: De-activate archive_org submittal
 - [ ] [[ArchiveBox]]: Automate archival of links
+- [ ] [[Obsidian]]: Link notes, projects, tasks, goals, values by tags?
