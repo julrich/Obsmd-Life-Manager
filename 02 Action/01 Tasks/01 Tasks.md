@@ -1,5 +1,7 @@
 ---
 banner: https://onedesblog.com/wp-content/uploads/2021/07/landscape-minimal-mountains-art-wallpaper.jpg
+banner_x: 0.5
+banner_y: 0.5
 ---
 ⠀
 [[‼️ Overdue Tasks]]  ⠀•⠀ [[🗓️ Upcoming Tasks]]  ⠀•⠀ [[☑️ Completed Tasks]]
