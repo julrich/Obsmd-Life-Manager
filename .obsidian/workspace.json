@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "76fdb37381ff2338",
+        "id": "9591a4d518e39af9",
         "type": "tabs",
         "children": [
           {
-            "id": "0be73de874223c57",
+            "id": "dc77824df4a7b9c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Action/02 Projects/Second Brain.md",
-                "mode": "source",
+                "file": "02 Action/04 Values/Be Focused.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +31,7 @@
       {
         "id": "61cef96a664d8557",
         "type": "tabs",
-        "dimension": 66.7004048582996,
+        "dimension": 66.70040485829959,
         "children": [
           {
             "id": "d6300da5d0e1f0c2",
@@ -71,7 +71,7 @@
       {
         "id": "8f2ff99843a19150",
         "type": "tabs",
-        "dimension": 33.29959514170041,
+        "dimension": 33.2995951417004,
         "children": [
           {
             "id": "856979b6214bb80f",
@@ -113,23 +113,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "551dd6ceb59c778b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02 Action/02 Projects/Second Brain.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ]
       },
@@ -150,31 +133,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501.5,
-    "collapsed": true
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "periodic-notes:Open today": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
       "canvas:Create new canvas": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0be73de874223c57",
+  "active": "dc77824df4a7b9c1",
   "lastOpenFiles": [
-    "02 Action/03 Goals/Find focus.md",
-    "02 Action/03 Goals/Learn to make pastas.md",
-    "02 Action/02 Projects/Make homemade pesto.md",
-    "02 Action/04 Values/Be Focused.md",
-    "02 Action/04 Values/Prolific.md",
     "02 Action/04 Values/04 Values.md",
-    "02 Action/03 Goals/Create Cool Stuff.md",
     "02 Action/03 Goals/03 Goals.md",
-    "02 Action/02 Projects/Second Brain.md",
-    "02 Action/02 Projects/Build OLM Repo.md"
+    "02 Action/02 Projects/02 Projects.md",
+    "02 Action/01 Tasks/01 Tasks.md",
+    "02 Action/03 Goals/Find focus.md",
+    "02 Action/03 Goals/Untitled 1.md",
+    "02 Action/03 Goals/Untitled.md",
+    "06 Guide/Quick Start.md",
+    "06 Guide/Tasks.md",
+    "02 Action/02 Projects/Second Brain.md"
   ]
 }
