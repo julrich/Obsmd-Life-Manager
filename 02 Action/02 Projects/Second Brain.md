@@ -11,3 +11,6 @@ tags: project
 ### Tasks
 
 - [ ] Add Obsidian config to dotfiles 🔼
+- [ ] Combine PARA / GTD / OBSLM
+- [ ] Add reading material to [[Obsidian]]
+- [ ] Adapt color theme to **kickstartDS**
