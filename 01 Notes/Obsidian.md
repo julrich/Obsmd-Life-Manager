@@ -1,0 +1,9 @@
+# Inspiration
+## GTD
+* https://daryl.wakatara.com/my-obsidian-gtd-setup/
+* https://github.com/EliWimmer/Obsmd-Life-Manager
+* https://www.youtube.com/watch?v=lKYBB-Uw1IM
+## Web Clipper
+- https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3
+- https://www.youtube.com/watch?v=Vy1MdjickAI
+- https://github.com/aleksey-rezvov/obsidian-local-images

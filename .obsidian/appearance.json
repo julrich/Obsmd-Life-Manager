@@ -7,5 +7,6 @@
   ],
   "accentColor": "#ecff00",
   "showViewHeader": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "monospaceFontFamily": "Hack Nerd Font Mono"
 }

@@ -8,11 +8,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiStickyNoteLine",
       "RiEyeLine",
       "RiCheckLine",
       "RiLineHeight",
-      "RiCalendar2Line",
-      "RiCalendarEventLine"
+      "RiCalendar2Line"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -34,5 +34,6 @@
   "03 Periodic/02 Weekly": "RiCalendar2Line",
   "03 Periodic/03 Monthly": "RiCalendarEventLine",
   "02 Action/01 Tasks/Views": "RiEyeLine",
-  "02 Action/01 Tasks": "RiCheckLine"
+  "02 Action/01 Tasks": "RiCheckLine",
+  "01 Notes": "RiStickyNoteLine"
 }
