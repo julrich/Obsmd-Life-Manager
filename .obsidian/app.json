@@ -4,5 +4,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "05 Attachments",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "promptDelete": false
 }

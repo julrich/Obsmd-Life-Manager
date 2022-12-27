@@ -34,19 +34,16 @@ hide task count
 ####  ↻ DAILIES
 
 ###### ◧ MORNING JOURNAL
-[Morning Gratitude :: ]
 [Daily Intention :: ]
 
 ###### ↻ HABITS
-[Wake Early :: ➖]
-[Meditate :: ➖]
 [Exercise :: ➖]
 [Plan Next Day :: ➖]
+[Keep Time :: ➖]
 
-###### ◷ RUN LOG
-[Run Time :: 0]
-[Run Distance :: 0]
+###### ◷ BIKE LOG
+[Bike Time :: 0]
+[Bike Distance :: 0]
 
 ###### ◨ EVENING JOURNAL
-[Evening Gratitude ::]
-[Do Better :: ]
+[Focus status ::]

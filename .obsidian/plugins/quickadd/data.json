@@ -419,6 +419,12 @@
         }
       ],
       "runOnStartup": false
+    },
+    {
+      "name": "+ Note",
+      "id": "64b9fe98-41e8-41bd-939a-a3483018b26f",
+      "commands": [],
+      "runOnStartup": false
     }
   ],
   "inputPrompt": "single-line"
