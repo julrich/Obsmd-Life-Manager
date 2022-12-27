@@ -5,5 +5,7 @@
     "supercharged-links-gen",
     "banner"
   ],
-  "accentColor": ""
+  "accentColor": "#ecff00",
+  "showViewHeader": false,
+  "nativeMenus": false
 }
