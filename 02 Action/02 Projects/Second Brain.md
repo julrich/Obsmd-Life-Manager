@@ -19,3 +19,4 @@ tags: project
 - [ ] [[ArchiveBox]]: De-activate archive_org submittal
 - [ ] [[ArchiveBox]]: Automate archival of links
 - [ ] [[Obsidian]]: Link notes, projects, tasks, goals, values by tags?
+- [ ] [[Obsidian]]: Optimize banner styling: https://github.com/noatpad/obsidian-banners/issues/19#issuecomment-1064587173
