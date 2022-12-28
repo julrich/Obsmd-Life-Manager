@@ -50,11 +50,7 @@ Let’s move to a visual metaphor:
 
 ![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*fmPLJLQEainUZG8TF1PSIA.jpeg?w=900&ssl=1)
 
-![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*fmPLJLQEainUZG8TF1PSIA.jpeg?w=900&ssl=1)
-
 We spend our days completing tasks, which are grouped naturally into projects, which fall under areas of responsibility.
-
-![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*mIbRz1u8UTyehp309rFoXw.jpeg?w=900&ssl=1)
 
 ![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*mIbRz1u8UTyehp309rFoXw.jpeg?w=900&ssl=1)
 
@@ -65,8 +61,6 @@ For example, you might find yourself writing the first draft of a blog post, whi
 These definitions seem fairly straightforward, but I want to zero in on the difference between projects and areas of responsibility. After much trial and error, and seeing many people struggle to differentiate between them, I’ve come to believe that even the smallest confusion between these two categories is a deeply rooted cause of many personal productivity problems.
 
 Let’s break down the definitions for these two categories into two parts each:
-
-![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*eojTu3-9xxnc8QwfjW4gYQ.jpeg?w=900&ssl=1)
 
 ![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*eojTu3-9xxnc8QwfjW4gYQ.jpeg?w=900&ssl=1)
 
@@ -91,8 +85,6 @@ Now that we’ve laid the groundwork, let me show you how even subtle confusion 
 When working with a client as a productivity coach, one of the first things I will ask them is to show me their Project List. I need this to get a sense of what kind of work they do, their current workload, and what outcomes they are actively working toward.
 
 They usually hand me something that looks like this:
-
-![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*8Cla5DB2dc1yn8lf9kzl5g.jpeg?w=900&ssl=1)
 
 ![](https://i0.wp.com/cdn-images-1.medium.com/max/800/1*8Cla5DB2dc1yn8lf9kzl5g.jpeg?w=900&ssl=1)
 

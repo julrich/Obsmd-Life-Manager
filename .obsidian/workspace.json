@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c613160bd658d7d",
+        "id": "9a994d365074f2e4",
         "type": "tabs",
         "children": [
           {
-            "id": "0bef3583d2f8edae",
+            "id": "a029f55090bf7d6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The PARA Method A Universal System for Organizing Digital Information - 1.md",
+                "file": "01 Notes/02 Resources/Clipped/My Obsidian GTD setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The PARA Method A Universal System for Organizing Digital Information - 1.md",
+                "file": "01 Notes/02 Resources/Clipped/My Obsidian GTD setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,17 +175,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0bef3583d2f8edae",
+  "active": "a029f55090bf7d6f",
   "lastOpenFiles": [
+    "01 Notes/02 Resources/Clipped/PARA+GTD Obsidian setup.md",
+    "01 Notes/02 Resources/Clipped/PARA Part 1 A Universal System for Organizing Digital Information.md",
     "01 Notes/Obsidian.md",
-    "02 Action/02 Projects/Second Brain.md",
-    "The PARA Method A Universal System for Organizing Digital Information - 1.md",
-    "The PARA Method A Universal System for Organizing Digital Information - Forte Labs 1.md",
-    "02 Action/01 Tasks/01 Tasks.md",
-    "Home.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
-    "02 Action/02 Projects/02 Projects.md",
-    "02 Action/02 Projects/Test.md",
-    "02 Action/01 Tasks/Views/⏭️ Next Tasks.md"
+    "01 Notes/02 Resources/Clipped/PARA Part 2 Operations Manual.md",
+    "01 Notes/02 Resources/Clipped/PARA Part 8 Core Principles of Digital Organization.md",
+    "01 Notes/02 Resources/Clipped/PARA Part 7 Creating a Project Network.md",
+    "01 Notes/02 Resources/Clipped/PARA Part 6 Small-Batch Projects for Focus, Creativity, and Perspective.md",
+    "01 Notes/02 Resources/Clipped/PARA Part 5 The Project List Mindsweep.md",
+    "01 Notes/02 Resources/Clipped/PARA Part 4 Setup Guide.md",
+    "01 Notes/02 Resources/Clipped/PARA Part 3 RandomNote – Building an Idea Generator.md"
   ]
 }
