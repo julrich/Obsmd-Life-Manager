@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Action/03 Goals/03 Goals.md",
+                "file": "02 Action/02 Projects/Ergonomic Keyboard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7286895d6a5ade7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,9 +147,9 @@
     "type": "split",
     "children": [
       {
-        "id": "d6c645e36fe025a2",
+        "id": "0003c837686956b2",
         "type": "tabs",
-        "dimension": 71.55425219941348,
+        "dimension": 66.59919028340082,
         "children": [
           {
             "id": "dcaa2e4e44144a89",
@@ -145,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Action/01 Tasks/01 Tasks.md",
+                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
                 "mode": "preview",
                 "source": false
               }
@@ -156,7 +168,7 @@
       {
         "id": "6084d959b6f01e01",
         "type": "tabs",
-        "dimension": 28.44574780058651,
+        "dimension": 33.40080971659919,
         "children": [
           {
             "id": "0b3c00f50d062893",
@@ -170,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,17 +195,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6afec4db0601dbf0",
+  "active": "7286895d6a5ade7f",
   "lastOpenFiles": [
-    "02 Action/03 Goals/Review Subscriptions.md",
-    "02 Action/03 Goals/03 Goals.md",
-    "01 Notes/Clipped/Naming Tokens in Design Systems.md",
-    "02 Action/02 Projects/Second Brain.md",
+    "01 Notes/Mechanical Keyboards.md",
     "01 Notes/Obsidian.md",
-    "02 Action/02 Projects/02 Projects.md",
-    "02 Action/03 Goals/Find focus.md",
-    "02 Action/03 Goals/Keep time.md",
     "01 Notes/Dotfiles.md",
-    "01 Notes/ArchiveBox.md"
+    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
+    "01 Notes/ArchiveBox.md",
+    "05 Attachments/Pasted image 20221228120218.png",
+    "02 Action/02 Projects/Second Brain.md",
+    "02 Action/01 Tasks/01 Tasks.md",
+    "03 Periodic/01 Daily/01 Daily.md",
+    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md"
   ]
 }

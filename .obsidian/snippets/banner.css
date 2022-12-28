@@ -11,3 +11,26 @@
     background: rgba(0,0,0,.15);
     box-shadow: none;
 }
+
+/* ====== Hide YAML in LP ======== */
+.is-live-preview .cm-hmd-frontmatter {
+    display: none;
+}
+
+/* ====== Make the start of the text editor immediately after the banner by not displaying the banner spacer AND displaying banner icon as inline-block ======== */
+.is-live-preview .obsidian-banner-spacer {
+    display: none;
+}
+.is-live-preview .obsidian-banner-icon {
+    display: inline-block;
+}
+/* ====== On my mobile, the banner spacer needs to be turned ON and repositioned up -50px ======== */
+.is-mobile .obsidian-banner-spacer {
+    display: block;
+    margin-top: -50px;
+}
+
+/* ====== Move the Embedded Note Title down to the lower portion of the banner, overlying the banner faded gradient ======== */
+.is-live-preview h1.cm-line.embedded-note-title{
+  margin-top: calc(var(--banner-height) - 50px);
+}
