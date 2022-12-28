@@ -15,3 +15,36 @@ TABLE
 FROM "02 Action/02 Projects"
 WHERE file.name != "02 Projects"
 ```
+# Next Tasks
+```dataviewjs
+let projects = dv.pages('outgoing([[02 Projects]])')  
+let rows = projects.flatMap(  
+  page => page.file.tasks  
+    .filter(t => !t.completed && t.text.includes('#next'))  
+    .map(task => [page.file.link, task.text.replace('#next', '')]  
+  )  
+)  
+dv.table(['Project', 'Next'], rows)
+```
+# Stuck Projects
+
+```dataviewjs
+let projects = dv.pages('outgoing([[02 Projects]])')  
+let stuck = projects.filter(page =>  
+  page.file.tasks.filter(t =>   
+    !t.completed && (  
+      t.text.includes('#next') ||   
+      t.text.includes('#wait')  
+    )  
+  ).length == 0  
+).map(page => page.file.link)  
+if (stuck.length > 0) {
+  dv.list(stuck);
+} else {
+  dv.paragraph('No stuck projects 🙌')
+}
+```
+# All Projects
+
+- [[Ergonomic Keyboard]]
+- [[Second Brain]]

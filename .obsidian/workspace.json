@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfc042b80690ef69",
+        "id": "3c613160bd658d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "f28faa330d711919",
+            "id": "0bef3583d2f8edae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/Obsidian.md",
+                "file": "02 Action/02 Projects/Second Brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "fe67485288c71cbe",
@@ -102,6 +102,18 @@
         "type": "tabs",
         "dimension": 66.59919028340082,
         "children": [
+          {
+            "id": "aab476c12dc0c7ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Action/01 Tasks/01 Tasks.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
           {
             "id": "dcaa2e4e44144a89",
             "type": "leaf",
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/Obsidian.md",
+                "file": "02 Action/02 Projects/Second Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 491.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,17 +175,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f28faa330d711919",
+  "active": "0bef3583d2f8edae",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
-    "01 Notes/ArchiveBox.md",
-    "01 Notes/Dotfiles.md",
-    "01 Notes/Mechanical Keyboards.md",
     "01 Notes/Obsidian.md",
-    "02 Action/02 Action.md",
-    "02 Action/01 Tasks/01 Tasks.md",
     "02 Action/02 Projects/02 Projects.md",
-    "02 Action/04 Values/04 Values.md",
-    "02 Action/03 Goals/03 Goals.md"
+    "02 Action/02 Projects/Test.md",
+    "02 Action/01 Tasks/Views/⏭️ Next Tasks.md",
+    "02 Action/01 Tasks/Views/🗓️ Upcoming Tasks.md",
+    "02 Action/01 Tasks/Views/⚡ Overdue Tasks.md",
+    "02 Action/01 Tasks/Views/☑️ Completed Tasks.md",
+    "02 Action/01 Tasks/01 Tasks.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
+    "02 Action/02 Projects/Second Brain.md"
   ]
 }

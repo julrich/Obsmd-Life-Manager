@@ -180,7 +180,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "\n---\n### Tasks\n\n"
+              "format": "\n---\n### Tasks\n\n\n### Links\n\n\n### Resources\n"
             },
             "insertAfter": {
               "enabled": false,

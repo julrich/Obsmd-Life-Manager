@@ -8,7 +8,7 @@ The folders [[01 Tasks]], [[02 Projects]], [[03 Goals]], and [[04 Values]] all c
 The main task views shows all tasks seperated by general tasks, and tasks in projects.
 The dashboard also containes links to 3 other views:
 - [[🗓️ Upcoming Tasks]]
-- [[‼️ Overdue Tasks]]
+- [[⚡ Overdue Tasks]]
 - [[☑️ Completed Tasks]]
 
 *[[Tasks|View code and more info]]*

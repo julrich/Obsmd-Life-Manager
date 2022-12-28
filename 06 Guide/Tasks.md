@@ -1,4 +1,4 @@
-[[‼️ Overdue Tasks]]  ⠀•⠀ [[🗓️ Upcoming Tasks]]  ⠀•⠀ [[☑️ Completed Tasks]]
+[[⚡ Overdue Tasks]]  ⠀•⠀ [[🗓️ Upcoming Tasks]]  ⠀•⠀ [[☑️ Completed Tasks]]
   
 ---
 ## All Tasks

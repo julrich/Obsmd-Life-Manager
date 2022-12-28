@@ -4,9 +4,10 @@ banner_x: 0.5
 banner_y: 0.5
 ---
 ⠀
-[[‼️ Overdue Tasks]]  ⠀•⠀ [[🗓️ Upcoming Tasks]]  ⠀•⠀ [[☑️ Completed Tasks]]
+[[⚡ Overdue Tasks]]  ⠀•  ⠀[[⏭️ Next Tasks]]  ⠀•  ⠀[[🗓️ Upcoming Tasks]]  ⠀•  ⠀[[☑️ Completed Tasks]]
   
 ---
+
 ## All Tasks
 ```tasks
 not done

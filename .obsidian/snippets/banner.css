@@ -12,18 +12,3 @@
     box-shadow: none;
 }
 
-/* ====== Hide YAML ======== */
-
-.is-live-preview .cm-hmd-frontmatter {
-
-display: none;
-
-}
-
-/* ====== Move Banner Up ======== */
-
-.obsidian-banner-spacer {
-
-height: calc(var(--banner-height) - 10rem);
-
-}

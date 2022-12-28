@@ -1,6 +1,6 @@
 ---
 ```tasks
 not done
-due after today
+due before today
 sort by due
 ```

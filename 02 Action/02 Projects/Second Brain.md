@@ -10,13 +10,19 @@ tags: project
 ---
 ### Tasks
 
-- [ ] [[Dotfiles]]: Add Obsidian config to dotfiles 🔼
-- [ ] [[Obsidian]]: Combine PARA / GTD / OBSLM
+- [ ] [[Dotfiles]]: Add Obsidian config to dotfiles #next 🔼
+- [ ] [[Obsidian]]: Combine PARA / GTD / OBSLM 
 - [ ] [[Obsidian]]: Add reading material to [[Obsidian]]
-- [ ] [[Obsidian]]: Adapt color theme to **kickstartDS** (define color palette in Figma)
-- [ ] [[Obsidian]]: Add cover images to main categories / projects (define template in Figma)
-- [ ] [[Obsidian]]: Create macro for notes (+ Note)
+- [ ] [[Obsidian]]: Adapt color theme to **kickstartDS** (define color palette in Figma) #wait 
+- [ ] [[Obsidian]]: Add cover images to main categories / projects (define template in Figma) #wait 
+- [ ] [[Obsidian]]: Create macro for notes (+ Note) #wait 
 - [ ] [[ArchiveBox]]: De-activate archive_org submittal
 - [ ] [[ArchiveBox]]: Automate archival of links
 - [ ] [[Obsidian]]: Link notes, projects, tasks, goals, values by tags?
 - [ ] [[Obsidian]]: Optimize banner styling: https://github.com/noatpad/obsidian-banners/issues/19#issuecomment-1064587173
+- [ ] [[Obsidian]]: Automatically add new Project to [[02 Projects]] (list at the end of the page)
+
+### Links
+
+
+### Resources
