@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Action/02 Projects/Second Brain.md",
+                "file": "The PARA Method A Universal System for Organizing Digital Information - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 270.5
   },
   "right": {
     "id": "fe67485288c71cbe",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Action/02 Projects/Second Brain.md",
+                "file": "The PARA Method A Universal System for Organizing Digital Information - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,14 +178,14 @@
   "active": "0bef3583d2f8edae",
   "lastOpenFiles": [
     "01 Notes/Obsidian.md",
+    "02 Action/02 Projects/Second Brain.md",
+    "The PARA Method A Universal System for Organizing Digital Information - 1.md",
+    "The PARA Method A Universal System for Organizing Digital Information - Forte Labs 1.md",
+    "02 Action/01 Tasks/01 Tasks.md",
+    "Home.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
     "02 Action/02 Projects/02 Projects.md",
     "02 Action/02 Projects/Test.md",
-    "02 Action/01 Tasks/Views/⏭️ Next Tasks.md",
-    "02 Action/01 Tasks/Views/🗓️ Upcoming Tasks.md",
-    "02 Action/01 Tasks/Views/⚡ Overdue Tasks.md",
-    "02 Action/01 Tasks/Views/☑️ Completed Tasks.md",
-    "02 Action/01 Tasks/01 Tasks.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
-    "02 Action/02 Projects/Second Brain.md"
+    "02 Action/01 Tasks/Views/⏭️ Next Tasks.md"
   ]
 }

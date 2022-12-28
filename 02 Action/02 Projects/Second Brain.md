@@ -21,6 +21,7 @@ tags: project
 - [ ] [[Obsidian]]: Link notes, projects, tasks, goals, values by tags?
 - [ ] [[Obsidian]]: Optimize banner styling: https://github.com/noatpad/obsidian-banners/issues/19#issuecomment-1064587173
 - [ ] [[Obsidian]]: Automatically add new Project to [[02 Projects]] (list at the end of the page)
+- [ ] [[Obsidian]]: Auto-download images for web clippings
 
 ### Links
 
