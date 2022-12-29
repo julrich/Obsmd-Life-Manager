@@ -1,17 +1,25 @@
 # Open tasks
 
+- [ ] Merge mixtapes and setlists, find good separation between live and pre-planned
 - [ ] Check for all media on old Facebook pages
 	- [ ] LAMBDA MAXIMAL: https://de-de.facebook.com/lambda.maximal/photos
 	- [ ] TSNM: https://www.facebook.com/tsnm.22hz/photos
 - [ ] Add correct covers
 - [ ] Check for all mp3 files
 - [ ] Add correct date to every recording
+- [ ] Possibly split entries into their own files, maybe using metadata / Frontmatter
+- [ ] Re-activate contacts to get back lost files / episodes (Facebook profile, Re-Post Tracks on SoundCloud, Dad, etc)
+- [ ] Add links to hosted versions of audio
+- [ ] Search for high quality version of Pineal Gland video
+- [ ] Add links to local versions of (backed up!) files
 
 # Mixtapes
 
 ## TSNM presents NO EXCUSES
 
-Originally aired on https://www.di.fm/ on the "Electro House" channel (~800-1300 average listeners). ~1 1/2 years and 35 episodes recorded.
+![[Pasted image 20221229211353.png]]
+
+Originally aired bi-weekly on https://www.di.fm/ on the "Electro House" channel (~800-1300 average listeners). ~1 1/2 years and 35 episodes recorded. Roughly 60mins per episode.
 
 Some seem to be missing or mislabeled.
 
@@ -23,15 +31,15 @@ Some seem to be missing or mislabeled.
 
 #### Tracklist
 
-01. Ali Nadem - Resident Evil 6 (Original Mix)
-02. Dead Cat Bounce - XIII (Original Mix)
-03. Rocket - Suicide in Venice (Original Mix)
-04. Drivepilot - Devils In Milan (Liberty Redux Remix)
-05. Dilemn - Don't Break It (Original Mix)
-06. NuBreed, Burufunk, Brett Holla - Intercontinental (Imprintz & Kloe Remix)
-07. The Noisy Freaks - God's Calling
-08. GIO.ELECTRO - Armageddon (Original Mix)
-09. BitRedux - Trinity (Original Mix)
+1. Ali Nadem - Resident Evil 6 (Original Mix)
+2. Dead Cat Bounce - XIII (Original Mix)
+3. Rocket - Suicide in Venice (Original Mix)
+4. Drivepilot - Devils In Milan (Liberty Redux Remix)
+5. Dilemn - Don't Break It (Original Mix)
+6. NuBreed, Burufunk, Brett Holla - Intercontinental (Imprintz & Kloe Remix)
+7. The Noisy Freaks - God's Calling
+8. GIO.ELECTRO - Armageddon (Original Mix)
+9. BitRedux - Trinity (Original Mix)
 10. Mr Tools - The Pyramid (Nation Remix)
 11. Kolt13 - Pussy of Glass (Original Mix)
 12. F.O.O.L. - Invasion (The S Remix)
@@ -48,15 +56,15 @@ Some seem to be missing or mislabeled.
 
 #### Tracklist
 
-01. Aaren Reale - Black (Original Mix)
-02. Zeds Dead - 1975 (Original Mix)
-03. Life Express - Wistful Idiot (F.O.O.L Remix)
-04. Utok2ome? - Volodia (StereoHeroes 'Punisher' Remix)
-05. Demolition Disco - Big Mama (Hanuman Tribe Remix)
-06. Liberty - Middle Fingers Up (Original Mix)
-07. Dead Cat Bounce feat. You Killing Me - Justice (Tits&Clits Remix)
-08. Dilemn - Clapping (Nation Remix)
-09. GIO.ELECTRO - Heartbreaker (Original Mix)
+1. Aaren Reale - Black (Original Mix)
+2. Zeds Dead - 1975 (Original Mix)
+3. Life Express - Wistful Idiot (F.O.O.L Remix)
+4. Utok2ome? - Volodia (StereoHeroes 'Punisher' Remix)
+5. Demolition Disco - Big Mama (Hanuman Tribe Remix)
+6. Liberty - Middle Fingers Up (Original Mix)
+7. Dead Cat Bounce feat. You Killing Me - Justice (Tits&Clits Remix)
+8. Dilemn - Clapping (Nation Remix)
+9. GIO.ELECTRO - Heartbreaker (Original Mix)
 10. Millions Like Us - Don't Let Go (Far Too Loud Remix)
 11. Rotze - Redux (The 'S' Remix)
 12. Belzebass - Rise Of Brutality (Original Mix)
@@ -74,15 +82,15 @@ Some seem to be missing or mislabeled.
 
 #### Tracklist
 
-01. The Zombie Kids - Drums of Death (Original Mix)
-02. Dead Cat Bounce - Religion (Q.G. Remix)
-03. Belzebass - Hell Yeah (Original Mix)
-04. F.O.O.L. - Invasion (Neus Remix)
-05. No Hesitation - Disfigure (Original Mix)
-06. Dumme Jungs - Daylight (Beef Theatre Remix)
-07. Johnny Muse - Noone Likes Spinach (Tits & Clits Remix)
-08. You Killing Me - Grieg!
-09. Dead Cat Bounce - Jouissance Accablante (Seb Danova Remix)
+1. The Zombie Kids - Drums of Death (Original Mix)
+2. Dead Cat Bounce - Religion (Q.G. Remix)
+3. Belzebass - Hell Yeah (Original Mix)
+4. F.O.O.L. - Invasion (Neus Remix)
+5. No Hesitation - Disfigure (Original Mix)
+6. Dumme Jungs - Daylight (Beef Theatre Remix)
+7. Johnny Muse - Noone Likes Spinach (Tits & Clits Remix)
+8. You Killing Me - Grieg!
+9. Dead Cat Bounce - Jouissance Accablante (Seb Danova Remix)
 10. Uppermost - System32 (Original Mix)
 11. Rico Tubbs - Feel It (Lazy Rich Remix)
 12. Darth & Vader - Return Of The Jedi (Original Mix)
@@ -96,19 +104,23 @@ Some seem to be missing or mislabeled.
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229221314.png]]
+
+#### Description
+
+Fourth show, as run on 18.05.2011 on di.fm. :) Enjoy it!
 
 #### Tracklist
 
-01. V&Z – Immortal (Original Mix)
-02. Dead CaT Bounce & You Killing Me – Abyss! (Original Mix)
-03. Asian Trash Boy – Whisper (Just For Fun Remix)
-04. Access Denied – Intrigant (Original Mix)
-05. Dead Cat Bounce – Jouissance Accablante (Hack The System Remix)
-06. Andy’s iLL & Overwerk – Stop, Drop & Roll (Original Mix)
-07. K12 – Breakdown VIP (Original Mix)
-08. Oopart – Outside The Box (Original Mix)
-09. WASA3I – KillerKing (Original Mix)
+1. V&Z – Immortal (Original Mix)
+2. Dead CaT Bounce & You Killing Me – Abyss! (Original Mix)
+3. Asian Trash Boy – Whisper (Just For Fun Remix)
+4. Access Denied – Intrigant (Original Mix)
+5. Dead Cat Bounce – Jouissance Accablante (Hack The System Remix)
+6. Andy’s iLL & Overwerk – Stop, Drop & Roll (Original Mix)
+7. K12 – Breakdown VIP (Original Mix)
+8. Oopart – Outside The Box (Original Mix)
+9. WASA3I – KillerKing (Original Mix)
 10. NaDaDrop – The Revenge of The Happy Krew (Original Mix)
 11. Whoppers – Esorcista (Original Mix)
 12. Karasho – Epidemy (Original Mix)
@@ -128,15 +140,15 @@ Some seem to be missing or mislabeled.
 
 #### Tracklist
 
-01. Jungle Fiction - Transhuman (F.O.O.L Remix)
-02. ULTRNX - Stormlight (Original Mix)
-03. Whoppers - From Hell (Original Mix)
-04. ASCII Demon - Flying V (Original Mix)
-05. Mr. Akitar - Lundi (Original Mix)
-06. Guess Watt - **** In The Twilight (Original Mix)
-07. Rocket - Suicide in Venice (RDHS Remix)
-08. Nation - Kepler (Original Mix)
-09. You Killing Me - Hallelujah (Original Mix)
+1. Jungle Fiction - Transhuman (F.O.O.L Remix)
+2. ULTRNX - Stormlight (Original Mix)
+3. Whoppers - From Hell (Original Mix)
+4. ASCII Demon - Flying V (Original Mix)
+5. Mr. Akitar - Lundi (Original Mix)
+6. Guess Watt - **** In The Twilight (Original Mix)
+7. Rocket - Suicide in Venice (RDHS Remix)
+8. Nation - Kepler (Original Mix)
+9. You Killing Me - Hallelujah (Original Mix)
 10. Dumme Jungs - Daylight (Liberty Redux)
 11. The Mastertrons - Attack The Train (Drivepilot Remix)
 12. Pelussje vs Kisbeat! & Chemical - cJJJJ (Fist) (Original Mix)
@@ -159,15 +171,15 @@ Some seem to be missing or mislabeled.
 
 #### Tracklist
 
-01. Something A La Mode - Versailles No Bara (The Bloody Beetroots Remix)
-02. BitRedux - Hexagon (Blastaguyz Remix)
-03. Drivepilot - Ruthless (Original Mix)
-04. Nation - Sensible (Original Mix)
-05. NaDaDrop - Requiem For A Break Rework 2011 (Original Mix)
-06. Liberty! feat. Whiskey Pete - ThunderFist (Original Mix)
-07. StereoHeroes - Wild Child (Le Castle Vania Remix)
-08. Beef Theatre - Optimus Prime (Original Mix)
-09. The Mastertrons - Attack The Train (Andy's iLL Re****)
+1. Something A La Mode - Versailles No Bara (The Bloody Beetroots Remix)
+2. BitRedux - Hexagon (Blastaguyz Remix)
+3. Drivepilot - Ruthless (Original Mix)
+4. Nation - Sensible (Original Mix)
+5. NaDaDrop - Requiem For A Break Rework 2011 (Original Mix)
+6. Liberty! feat. Whiskey Pete - ThunderFist (Original Mix)
+7. StereoHeroes - Wild Child (Le Castle Vania Remix)
+8. Beef Theatre - Optimus Prime (Original Mix)
+9. The Mastertrons - Attack The Train (Andy's iLL Re****)
 10. Beef Theatre - Purple Pain (Dead Cat Bounce Remix)
 11. F.O.O.L - Fortune (Original Mix)
 12. Hack The System - End Game (Kisbeat!&Chemical Remix)
@@ -187,15 +199,15 @@ Some seem to be missing or mislabeled.
 
 #### Tracklist
 
-01. Cosmic Sand - Back To The Moonlight Sonata Mvt.1 (Patient Zero Remix)
-02. Black Is Not A Color - Dim Mak Can Suck This! (Original Mix)
-03. Silvijo & Silly - Ooookeeeybandover! (Original Mix)
-04. Fw2 & Stm - Bad Girl (Hack The System Remix)
-05. Beef Theatre - The Dentalist (Original Mix)
-06. Access Denied - Bad Religion (Original Mix)
-07. Cyberpunkers - **** The System (Access Denied Remix)
-08. Q.G. - Razor (Nation Remix)
-09. Pelussje & Eternal September - Coresplash (Kisbeat!&Chemical Remix)
+1. Cosmic Sand - Back To The Moonlight Sonata Mvt.1 (Patient Zero Remix)
+2. Black Is Not A Color - Dim Mak Can Suck This! (Original Mix)
+3. Silvijo & Silly - Ooookeeeybandover! (Original Mix)
+4. Fw2 & Stm - Bad Girl (Hack The System Remix)
+5. Beef Theatre - The Dentalist (Original Mix)
+6. Access Denied - Bad Religion (Original Mix)
+7. Cyberpunkers - **** The System (Access Denied Remix)
+8. Q.G. - Razor (Nation Remix)
+9. Pelussje & Eternal September - Coresplash (Kisbeat!&Chemical Remix)
 10. K12 - Terrorist (Original Mix)
 11. Karasho - Yantra (Original Mix)
 12. Hate Mosh - Game Over (Boylerz Remix)
@@ -211,19 +223,31 @@ Some seem to be missing or mislabeled.
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229225532.png]]
+
+#### Description
+
+8th show, as heard on di.fm. Starting off hard again, transitioning into a bit more technoid style to the end. Hope you'll enjoy it :).
+
+Special thanks this time around go to @[fetoo](https://soundcloud.com/fetoo) & @[rocket01](https://soundcloud.com/rocket01) for the great promos! They both blew me away with their tracks. Destructo will be released on 26th, so keep your eyes open! (Pretty much all the tracks by FetOo are completely top-notch, too, so be sure to check out his soundcloud!)
+
+Next show in 2 weeks, 03.08., same place, same time!  
+Follow me on Facebook, too, if you like ;)  
+[facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=440687-1-1672349759781 "http://facebook.com/tsnm.22hz")
+
+As always, leave feedback, comment, favorite, share! <3
 
 #### Tracklist
 
-01. Ennio Morricone - Rabbia E Tarantella (No Fake Remix)
-02. Anton Dvorak - Symphonie du Nouveau Monde Num9 4ème Mouvement (FetOo Remix)
-03. Blaster - Chainsaw (Dead Cat Bounce Remix)
-04. Rocky Horror - Destructo (Rocket Remix)
-05. KeseK - Plutonium (Tits & Clits Remix)
-06. Crimen - 3 (Comic Strips Remix)
-07. Haezer - WTFIH (K12 Remix)
-08. The Mastertrons - Ritual (Original Mix)
-09. PANDAmic - Phrantic (WASA3i Remix)
+1. Ennio Morricone - Rabbia E Tarantella (No Fake Remix)
+2. Anton Dvorak - Symphonie du Nouveau Monde Num9 4ème Mouvement (FetOo Remix)
+3. Blaster - Chainsaw (Dead Cat Bounce Remix)
+4. Rocky Horror - Destructo (Rocket Remix)
+5. KeseK - Plutonium (Tits & Clits Remix)
+6. Crimen - 3 (Comic Strips Remix)
+7. Haezer - WTFIH (K12 Remix)
+8. The Mastertrons - Ritual (Original Mix)
+9. PANDAmic - Phrantic (WASA3i Remix)
 10. Crimen - Invasion (Q.G. Remix)
 11. You Killing Me - You Are Killing Me (Belzebass Remix)
 12. The S - Death & Rainbows (Original Mix)
@@ -240,19 +264,32 @@ Some seem to be missing or mislabeled.
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229225457.png]]
+
+#### Description
+
+thanks alot for tuning in again, to 'NO EXCUSES' vol. 09 on di.fm, and for all the listeners here. i'm really pleased how this one turned out. i was on a VERY close schedule, haha. most of those tracks were mixed for the first time for me :D.
+
+special, special thanks this week go out to @[rocket01](https://soundcloud.com/rocket01), [soundcloud.com/silvijozylfi/](https://soundcloud.com/silvijozylfi/), @[akitar](https://soundcloud.com/akitar), @[fetoo](https://soundcloud.com/fetoo), @[acetronik](https://soundcloud.com/acetronik) and @[nadadrop](https://soundcloud.com/nadadrop) for those special promos! <3 <3 <3
+
+and keep an eye on @[acetronik](https://soundcloud.com/acetronik), def. caught me off guard with that track! :D
+
+see you next time, 17.08. hopefully on time at 6pm CET then ;). as always comments, favourites, shares. feel free :D.
+
+facebook: [facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=9b0687-1-1672349758953 "http://facebook.com/tsnm.22hz")  
+twitter: @[tsnmp](https://soundcloud.com/tsnmp)
 
 #### Tracklist
 
-01. Monophonique - Protoss (Original Mix)
-02. Wodz - WTF (Original Mix)
-03. Rocket - Plathmenya (Original Mix)
-04. Asdek - Funky F*ck (Original Mix)
-05. Vecho - Ripper (Original Mix)
-06. Silvijo Zylfi - Avada Kedavra (Original Mix)
-07. You Killing Me - Renaissance! (Bassrover! Remix)
-08. Lucky Date & Midnight Conspiracy- Veyron (Skitsnygg Remix)
-09. MR. AKITAR - Black Knight (Original Mix)
+1. Monophonique - Protoss (Original Mix)
+2. Wodz - WTF (Original Mix)
+3. Rocket - Plathmenya (Original Mix)
+4. Asdek - Funky F*ck (Original Mix)
+5. Vecho - Ripper (Original Mix)
+6. Silvijo Zylfi - Avada Kedavra (Original Mix)
+7. You Killing Me - Renaissance! (Bassrover! Remix)
+8. Lucky Date & Midnight Conspiracy- Veyron (Skitsnygg Remix)
+9. MR. AKITAR - Black Knight (Original Mix)
 10. Hack The System - Apocalypse (Original Mix)
 11. SubVibe & Fuzion - 30 Million (Nation Remix)
 12. FetOo & Dirty Job - Loud Protest (Original Mix)
@@ -264,68 +301,134 @@ Some seem to be missing or mislabeled.
 18. Karasho - It Aliens (Original Mix)
 19. NaDaDrop - Rave On (Original Mix)
 
-### TSNM presents NO EXCUSES vol. 10
+### TSNM & slaminA present NO EXCUSES vol. 10
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229225358.png]]
+
+#### Description
+
+I just have to give out maaaaaad love to everyone! This was already the 10th show, and I'll not stop! You guys make my day! tnkx so much <3!
+
+Biggest "thank you" most definitely goes out to @[slaminA](https://soundcloud.com/slaminA) for taking over half two of the show! Kick-ass set, and if you block me on facebook... you know! :D  
+Check him out on facebook, too! (He's from germany, too, btw :D)
+
+[facebook.com/iamslaminA](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2FiamslaminA&token=2d4921-1-1672349757515 "http://facebook.com/iamslaminA")  
+@[slaminA](https://soundcloud.com/slaminA) @ Soundcloud, follow him!!!
+
+Additionally I'd like to thank every supporter from the past shows, and a special huge shoutout to @[onion-records](https://soundcloud.com/onion-records), @[then-1](https://soundcloud.com/then-1), @[libertydjs](https://soundcloud.com/libertydjs), @[fetoo](https://soundcloud.com/fetoo), @[hackthesystem](https://soundcloud.com/hackthesystem), @[drivepilot](https://soundcloud.com/drivepilot) and @[akitar](https://soundcloud.com/akitar) for supporting me on this show! Some really hot promos on this show :).
+
+And take a special look on @[fetOo](https://soundcloud.com/fetOo) as he's just on straight fire lately! Shoots tracks like a gatling, kinda unbelievable :D:
+
+[www.facebook.com/FetOoOfficial](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2FFetOoOfficial&token=aa5dae-1-1672349757515 "https://www.facebook.com/FetOoOfficial")  
+@[fetOo](https://soundcloud.com/fetOo) @ Soundcloud
+
+and check out his teaser vid for his two upcoming EPs, 'Fuck The Police' (containing remixes) and 'Methylamine' containing originals:  
+[www.youtube.com/watch?v=W6u8hkgxRxY](https://gate.sc?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DW6u8hkgxRxY&token=bd545e-1-1672349757515 "http://www.youtube.com/watch?v=W6u8hkgxRxY")
+
+Comment, share, <3, dance, sweat, download, spread, tilt, enjoy; you know the deal! AND CELEBRATE 10 SHOWS WITHOUT ANY EXCUSES!!! :D
+
+Next show 07.09., same place, same time! (And sorry for the slight delay, again ;) ).
+
+Yours truly,  
+tsnm  
+[facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=ca0687-1-1672349757515 "http://facebook.com/tsnm.22hz")
 
 #### Tracklist
 
 ##### TSNM
-01. The Barber of Seville - Largo Al Factotum (Mustard Pimp Remix)
-02. The Noisy Freaks - Altar (Original Mix)
-03. Liberty - Laser Horse (Original Mix)
-04. FetOo - The Game (Original Mix)
-05. Spunker - Stop The Attack (Hack The System Remix)
-06. Mastertrons - Attack the Train (Geometry Remix)
-07. Drivepilot - Sentinel (Original Mix)
-08. Dare2Disco & FutureFlashs - Rich Freaks (No Hesitation Remix)
-09. MR. AKITAR - Young Modern (Original Mix)
+1. The Barber of Seville - Largo Al Factotum (Mustard Pimp Remix)
+2. The Noisy Freaks - Altar (Original Mix)
+3. Liberty - Laser Horse (Original Mix)
+4. FetOo - The Game (Original Mix)
+5. Spunker - Stop The Attack (Hack The System Remix)
+6. Mastertrons - Attack the Train (Geometry Remix)
+7. Drivepilot - Sentinel (Original Mix)
+8. Dare2Disco & FutureFlashs - Rich Freaks (No Hesitation Remix)
+9. MR. AKITAR - Young Modern (Original Mix)
 10. Le Castle Vania - Awake (Original Mix)
 
 ##### slaminA
-01. DJ Antention - Start The Machinery (Original Mix)
-02. Knife Party - Internet Friends (Original Mix)
-03. Pantha - Creep Mode (Comic Strips Remix)
-04. Noisy Freaks - The Dirty Vader Skreed Me (Original Mix)
-05. The Proxy - Who Are You (Trumpdisco Remix)
-06. Q.G. - Razor (The Phat Crew Remix)
-07. R∆UPE - Blind Man (Original Mix)
-08. The Chemical Brothers - Hey Boy Hey Girl (Far Too Loud Re-fix)
-09. Krool Kickz & Partysmartie - So Not Berlin (Original Mix)
+1. DJ Antention - Start The Machinery (Original Mix)
+2. Knife Party - Internet Friends (Original Mix)
+3. Pantha - Creep Mode (Comic Strips Remix)
+4. Noisy Freaks - The Dirty Vader Skreed Me (Original Mix)
+5. The Proxy - Who Are You (Trumpdisco Remix)
+6. Q.G. - Razor (The Phat Crew Remix)
+7. R∆UPE - Blind Man (Original Mix)
+8. The Chemical Brothers - Hey Boy Hey Girl (Far Too Loud Re-fix)
+9. Krool Kickz & Partysmartie - So Not Berlin (Original Mix)
 
-### TSNM presents NO EXCUSES vol. 11
+### TSNM & Beef Theatre present NO EXCUSES vol. 11
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229225204.png]]
+
+#### Description
+
+Welcome to 'NO EXCUSES' vol. 11. This time around we even managed to air the show in time :). First 30mins are kind of a roller coaster ride, alot of style switchups, hopefully not too many, let me know! :)
+
+Special thanks for this show go out to @[beef-theatre](https://soundcloud.com/beef-theatre) and @[latourette](https://soundcloud.com/latourette)!
+
+Beef Theatre, who are currently signed to TechnoChangedMyLife for playing their 30min guestmix, consisting only of original tracks and remixes done by @[beef-theatre](https://soundcloud.com/beef-theatre) themselves! Check out their debut EP Optimus Prime released on Mähtrasher Records (and buy it! support your artists!):
+
+[Beef-theatre – Beef-theatre-optimus-prime-ep](https://soundcloud.com/beef-theatre/beef-theatre-optimus-prime-ep)
+
+They've also officially remixed some of my very favorites like F.O.O.L., Dumme Jungs, The S, Pelussje, Noize Generation and many more!  
+Be sure to follow those two bavarian outlaws, currently residing in Salzburg, Austria to keep up to date (next EP 'President Evil EP' on TechnoChangedMyLife out late 2011):
+
+@[beef-theatre](https://soundcloud.com/beef-theatre)  
+[facebook.com/beeftheatre](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Fbeeftheatre&token=b5c749-1-1672349756750 "http://facebook.com/beeftheatre")
+
+Big up you beefy fellas! :D
+
+Secondly @[latourette](https://soundcloud.com/latourette), who provided the show with his super nice remix of @[dead-cat-bounce](https://soundcloud.com/dead-cat-bounce) & @[youkillingme](https://soundcloud.com/youkillingme) - Justice! The track will be released alongside two other remixes of Justice! by A.G. Trio & Tits & Clits and two remixes of Abyss by Kolt13 & Playma on the 'Dead Cat Bounce & You Killing Me - Abyss Remixes" EP (MHTRSH018) on Mähtrasher / Traktor Records 30th september, 2011.
+
+Check out @[latourette](https://soundcloud.com/latourette) on Soundcloud, Facebook, on his website, and everywhere else! :)
+
+@[latourette](https://soundcloud.com/latourette)  
+[www.facebook.com/LaTouretteOfficial](https://gate.sc?url=http%3A%2F%2Fwww.facebook.com%2FLaTouretteOfficial&token=673cfa-1-1672349756750 "http://www.facebook.com/LaTouretteOfficial")  
+[blog.latourettemusic.com/](https://gate.sc?url=http%3A%2F%2Fblog.latourettemusic.com%2F&token=a6b7fd-1-1672349756750 "http://blog.latourettemusic.com/")
+
+And he does a radio show himself, so maybe you'll catch him on TCY Radio Tokyo!  
+[www.tcyradio.com/](https://gate.sc?url=http%3A%2F%2Fwww.tcyradio.com%2F&token=b02044-1-1672349756750 "http://www.tcyradio.com/")
+
+Big up LaTourette!!
+
+Lastly I'd like to thank Hanuman Tribe for the excellent promo for Flatline -> \m/ mates!!
+
+And now I'm done rambling about the show, would love to hear your feedback. Too crazy? Too many style switches? Just about right? Let me know!  
+And follow me on Facebook to keep up to date:
+
+[facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=d10686-1-1672349756750 "http://facebook.com/tsnm.22hz")
 
 #### Tracklist
 
 ##### TSNM
-01. SebastiAn - Rode (Hack The System)
-02. Lo-Fi Bitches - Disco Crush (Original Mix)
-03. Eternal September vs Pelussje - Coresplash (No Fake? Remix)
-04. F.O.O.L. - Machine Gun (Zip It Up Original Mix)
-05. Coyote Kisses - Acid Wolfpack (Original Mix)
-06. The S - Yuk It Up (Original Mix)
-07. Dead Cat Bounce & You Killing Me - Justice (LaTourette Remix)
-08. Mustard Pimp feat. Alec Empire - Catch Me (Access Denied Remix)
-09. Access Denied - Goodbye Mother, Goodbye Father (Original Mix)
+1. SebastiAn - Rode (Hack The System)
+2. Lo-Fi Bitches - Disco Crush (Original Mix)
+3. Eternal September vs Pelussje - Coresplash (No Fake? Remix)
+4. F.O.O.L. - Machine Gun (Zip It Up Original Mix)
+5. Coyote Kisses - Acid Wolfpack (Original Mix)
+6. The S - Yuk It Up (Original Mix)
+7. Dead Cat Bounce & You Killing Me - Justice (LaTourette Remix)
+8. Mustard Pimp feat. Alec Empire - Catch Me (Access Denied Remix)
+9. Access Denied - Goodbye Mother, Goodbye Father (Original Mix)
 10. Gooseflesh - Insanely (Dilemn Remix)
 11. X-Ettl - Flatline (Hanuman Tribe Remix)
 
 ##### Beef Theatre
-01. Beef Theatre – Optimus Prime (Original Mix)
-02. Spunker – Stop The Attack (Beef Theatre Remix)
-03. tba - tba (Beef Theatre Remix)
-04. Beef Theatre – Blades of Steel (Original Mix)
-05. Beef Theatre – Disco Tank (Original Mix)
-06. Dumme Jungs – Daylight (Beef Theatre Remix)
-07. Eternal September vs. Pelussje – Coresplash (Beef Theatre Remix)
-08. Beef Theatre – The Dentalist (Original Mix)
-09. Beef Theatre – Purple Pain (Dead Cat Bounce Remix)
+1. Beef Theatre – Optimus Prime (Original Mix)
+2. Spunker – Stop The Attack (Beef Theatre Remix)
+3. tba - tba (Beef Theatre Remix)
+4. Beef Theatre – Blades of Steel (Original Mix)
+5. Beef Theatre – Disco Tank (Original Mix)
+6. Dumme Jungs – Daylight (Beef Theatre Remix)
+7. Eternal September vs. Pelussje – Coresplash (Beef Theatre Remix)
+8. Beef Theatre – The Dentalist (Original Mix)
+9. Beef Theatre – Purple Pain (Dead Cat Bounce Remix)
 10. Beef Theatre – Purple Pain (Original Mix)
 11. tba - tba (Beef Theatre Remix)
 12. 12 Inch Plastic Toys – Cluck & Cling (Beef Theatre Remix)
@@ -338,19 +441,34 @@ Some seem to be missing or mislabeled.
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229225109.png]]
+
+#### Description
+
+You ready for 60mins of maximal and complextro? 12th show, as aired on di.fm just about an hour ago. Big thanks to everyone who tuned in, or listens to it here!
+
+After two shows with guestmixes, this is completely and 100% tsnm in here. Some orchestral elements, alot of noise and distortion, some nice & complex beats, everything you've come to expect by now, i hope :).
+
+Special thanks for this episode go out to @[wasa3i](https://soundcloud.com/wasa3i), @[drivepilot](https://soundcloud.com/drivepilot), @[your-ol-lady](https://soundcloud.com/your-ol-lady) & @[nation_music](https://soundcloud.com/nation_music) for the support! You guys make this possible!
+
+And now I'll just hope you'll like what you hear! As always, leave comments, fav, share, download, upload to bittorrent. Whatever you feel like! :D
+
+Yours truly,  
+tsnm
+
+[facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=8b0687-1-1672349754692 "http://facebook.com/tsnm.22hz")
 
 #### Tracklist
 
-01. Andy's iLL & MDMK - W.C.I.A.F.N. (Original Mix)
-02. Your Ol' Lady - Rorque (Original Mix)
-03. Cosmic Sand - Back To The Moonlight Sonata Mvt.1 (WASA3I Remix)
-04. Whoppers - Final Joke (Original Mix)
-05. San Andreas - One Night (Original Mix)
-06. Cool Project, BBK - Bring It On (Access Denied Remix)
-07. Nation - Review of the issue (Original Mix)
-08. Liberty - Prototype (Original Mix)
-09. Far Too Loud - Hear Dem Style (Original Mix)
+1. Andy's iLL & MDMK - W.C.I.A.F.N. (Original Mix)
+2. Your Ol' Lady - Rorque (Original Mix)
+3. Cosmic Sand - Back To The Moonlight Sonata Mvt.1 (WASA3I Remix)
+4. Whoppers - Final Joke (Original Mix)
+5. San Andreas - One Night (Original Mix)
+6. Cool Project, BBK - Bring It On (Access Denied Remix)
+7. Nation - Review of the issue (Original Mix)
+8. Liberty - Prototype (Original Mix)
+9. Far Too Loud - Hear Dem Style (Original Mix)
 10. Tommie Keeston - I'm Back (Original Mix)
 11. Karetus - Madhouse (Dr. Who Remix)
 12. Jess, Alex Mind, Metzo - Don't Let Me Go (Dub Mix)
@@ -363,19 +481,27 @@ Some seem to be missing or mislabeled.
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229224829.png]]
+
+#### Description
+
+After a turbulent weekend and a small cold, I welcome you to NO EXCUSES vol. 13. Some trash in this one.
+
+Special thanks for this episode go out to @[spunkermusik](https://soundcloud.com/spunkermusik), @[tits-and-clits](https://soundcloud.com/tits-and-clits) and @[fetoo](https://soundcloud.com/fetoo) for supporting this installment with excellent promos, <3!
+
+Next show will be 19.10., 6pm cet as always :)
 
 #### Tracklist
 
-01. Flux Capacitor - Argo (Original Mix)
-02. Beatbender - Mask Off (Spunker Remix)
-03. Tom Deluxx - Troopers (Original Mix)
-04. Noisia feat. Bex Riley - Gutterpunk (Mason Remix, Access Denied Refix)
-05. X-Ettl - Flatline (Wazabi Remix)
-06. Whiskey Pete, Liberty - Thunderfist (LesStrobelights Remix)
-07. The S - Big Red Planet (Original Mix)
-08. Emily Valentine - Oh La La (Black Is Not A Color Remix)
-09. Dead C.A.T. Bounce & You Killing Me - Justice! (A.G. Trio Remix)
+1. Flux Capacitor - Argo (Original Mix)
+2. Beatbender - Mask Off (Spunker Remix)
+3. Tom Deluxx - Troopers (Original Mix)
+4. Noisia feat. Bex Riley - Gutterpunk (Mason Remix, Access Denied Refix)
+5. X-Ettl - Flatline (Wazabi Remix)
+6. Whiskey Pete, Liberty - Thunderfist (LesStrobelights Remix)
+7. The S - Big Red Planet (Original Mix)
+8. Emily Valentine - Oh La La (Black Is Not A Color Remix)
+9. Dead C.A.T. Bounce & You Killing Me - Justice! (A.G. Trio Remix)
 10. Q.G. - Razor (Dead C.A.T. Bounce Remix)
 11. Uppermost - Positive (Original Mix)
 12. Uppermost - Action (Original Mix)
@@ -385,38 +511,72 @@ Some seem to be missing or mislabeled.
 16. Tits & Clits - Ariadne (Original Mix)
 17. Kingdom - Take Me (Middle Of Nowhere Remix)
 
-### TSNM presents NO EXCUSES vol. 14
+### TSNM & wasa3i present NO EXCUSES vol. 14
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229224651.png]]
+
+#### Description
+
+'NO EXCUSES' vol. 14, as aired just 2 hours ago. Alot of very nice material in this one again.
+
+Special guest for this show is the voice from hell himself, @[wasa3i](https://soundcloud.com/wasa3i)!  
+He starts his Portugal tour on 28.10., so if you're from the vicinity go and watch the infection spread:  
+[www.facebook.com/WASA3IKILLER?ref…_123966167614127](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2FWASA3IKILLER%3Fref%3Dts%26sk%3Dapp_123966167614127&token=51c0db-1-1672349751427 "https://www.facebook.com/WASA3IKILLER?ref=ts&sk=app_123966167614127")
+
+Be sure to like him on Facebook and follow him here on Soundcloud, too:  
+[www.facebook.com/WASA3IKILLER](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2FWASA3IKILLER&token=a04d7a-1-1672349751428 "https://www.facebook.com/WASA3IKILLER")
+
+And finally [info@wasa3i.com](mailto:info@wasa3i.com) for booking requests! (And if I had one wish, bring him to germany again as soon as possible. We need some cleaning here ;) ), because:
+
+"When there's no more room in hell, the dead will dance on earth"
+
+Special thanks (in no particular order, I love you all :D) also go to:  
+@[libertydjs](https://soundcloud.com/libertydjs), watch out for their 'Laserhorse EP'. Soon to be released on Oh My God It's Techno Music.  
+@[owlvision](https://soundcloud.com/owlvision) for providing the show with his spaking new original 'Zybersect'.  
+@[iamraupe](https://soundcloud.com/iamraupe), who only put out top-notch material so far, for producing and sharing with me his remixes of 'Molotow Premium' & 'Vtopia'.  
+@[youkillingme](https://soundcloud.com/youkillingme), for their more than excellent remix for 'Haezer - Monkey'. You guys rock BIG time, so much great output!  
+@[akitar](https://soundcloud.com/akitar) for continuing to produce very original Electro, and providing it to the show :),  
+and finally @[nation_music](https://soundcloud.com/nation_music) for that beautiful remix of 'Air Wankers - Rupture'!
+
+You guys make my world! :)
+
+[www.facebook.com/LibertyDjs](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2FLibertyDjs&token=2a36e5-1-1672349751429 "https://www.facebook.com/LibertyDjs")  
+[www.facebook.com/owlvision](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2Fowlvision&token=6114d6-1-1672349751429 "https://www.facebook.com/owlvision")  
+[www.facebook.com/iamraupe](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2Fiamraupe&token=3f1999-1-1672349751429 "https://www.facebook.com/iamraupe")  
+[www.facebook.com/youkillingmeofficial](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2Fyoukillingmeofficial&token=b25e90-1-1672349751429 "https://www.facebook.com/youkillingmeofficial")  
+[www.facebook.com/pages/AKITAR-TER…234138013?ref=ts](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2Fpages%2FAKITAR-TERROR-X%2F244234138013%3Fref%3Dts&token=1830ce-1-1672349751429 "https://www.facebook.com/pages/AKITAR-TERROR-X/244234138013?ref=ts")  
+[www.facebook.com/pages/Nation/153597538011556](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2Fpages%2FNation%2F153597538011556&token=3ab25e-1-1672349751429 "https://www.facebook.com/pages/Nation/153597538011556")
+
+Next show on 02.11., 6pm cet on the Electro House channel. Comment, fav, like, download, listen away :)
 
 #### Tracklist
 
 ##### TSNM
-01. Air Wankers - Feathers (Original Mix)
-02. Akitar - Omar M'a Tuer (Original Mix)
-03. Owl Vision - Zybersect (Original Mix)
-04. Subs - Octopus (Original Mix)
-05. Andy's iLL - Lifetime (Drivepilot Remix)
-06. Invader GIR - Molotow Premium (Raupe Remix)
-07. Liberty - Plasma Hammer (Original Mix)
-08. Black Is Not A Color - Dim Mak Can Suck This (L.A.S.E.R. Remix)
-09. Liberty - Laser Horse (Dumme Jungs Remix)
+1. Air Wankers - Feathers (Original Mix)
+2. Akitar - Omar M'a Tuer (Original Mix)
+3. Owl Vision - Zybersect (Original Mix)
+4. Subs - Octopus (Original Mix)
+5. Andy's iLL - Lifetime (Drivepilot Remix)
+6. Invader GIR - Molotow Premium (Raupe Remix)
+7. Liberty - Plasma Hammer (Original Mix)
+8. Black Is Not A Color - Dim Mak Can Suck This (L.A.S.E.R. Remix)
+9. Liberty - Laser Horse (Dumme Jungs Remix)
 10. Air Wankers - Rupture (Nation Remix)
 11. Flux Capacitor - Vtopia (Raupe Remix)
 12. Haezer - Monkey (You Killing Me Remix)
 
 ##### wasa3i
-01. Horror Intro
-02. F.O.O.L. - To Arms (Original Mix)
-03. WASA3I - KillerKing (Original Mix)
-04. Devin Martin - Manslap (Original Mix)
-05. Roo Viieira - Mother ****er (Original ****er Mix)
-06. N0State - Instructor (Original Mix)
-07. You Killing Me - Hey! (WASA3I Remix)
-08. Lucky Date - Ho's & Disco (Space Laces Remix)
-09. Helicopter Showdown - Beat Down(Original Mix)
+1. Horror Intro
+2. F.O.O.L. - To Arms (Original Mix)
+3. WASA3I - KillerKing (Original Mix)
+4. Devin Martin - Manslap (Original Mix)
+5. Roo Viieira - Mother ****er (Original ****er Mix)
+6. N0State - Instructor (Original Mix)
+7. You Killing Me - Hey! (WASA3I Remix)
+8. Lucky Date - Ho's & Disco (Space Laces Remix)
+9. Helicopter Showdown - Beat Down(Original Mix)
 10. Karetus - Mad House (Paradigm Remix)
 11. Dead C.A.T. Bounce - Abyss (Original Mix)
 12. Horror Outro
@@ -425,19 +585,36 @@ Some seem to be missing or mislabeled.
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229224547.png]]
+
+#### Description
+
+'NO EXCUSES'. volume 15. all out tsnm.
+
+Had a blast on our first party last friday here in Bonn! So in that spirit: \m/
+
+Really gotta thank @[fetoo](https://soundcloud.com/fetoo), @[nation_music](https://soundcloud.com/nation_music) & @[quer4mat](https://soundcloud.com/quer4mat) for the promos!
+
+And especially keep an eye on my german buddies @[quer4mat](https://soundcloud.com/quer4mat), they'll release their first EP called "Gammelfleisch" on Shax Trax the 28th of november:  
+[www.facebook.com/quer4mat](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2Fquer4mat&token=497063-1-1672349748844 "https://www.facebook.com/quer4mat")
+
+And now listen, enjoy & share away,
+
+yours truly,  
+tsnm  
+[facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=c6c687-1-1672349748844 "http://facebook.com/tsnm.22hz")
 
 #### Tracklist
 
-01. FetOo - Elenin (Original Mix)
-02. Rubber Spanner - Mayure In Hell (Ascii Demon Remix)
-03. Brummer - Fidsch (Original Mix)
-04. Nation - Reaper (Original Mix)
-05. The Oddword - Fire (aUtOdiDakt "god of hellfire" Remix)
-06. quer4mat - Knacka (Fukk Up! Remix)
-07. NEUS - Pussy Weed Money (Original Mix)
-08. Brummer - Full Collection (Boylerz Remix)
-09. Sebastien Benett - Imagination (Beef Theatre Remix)
+1. FetOo - Elenin (Original Mix)
+2. Rubber Spanner - Mayure In Hell (Ascii Demon Remix)
+3. Brummer - Fidsch (Original Mix)
+4. Nation - Reaper (Original Mix)
+5. The Oddword - Fire (aUtOdiDakt "god of hellfire" Remix)
+6. quer4mat - Knacka (Fukk Up! Remix)
+7. NEUS - Pussy Weed Money (Original Mix)
+8. Brummer - Full Collection (Boylerz Remix)
+9. Sebastien Benett - Imagination (Beef Theatre Remix)
 10. Kolt13 feat. WEB - Love At The Speed Of Light (aUtOdiDakt Remix)
 11. You Killing Me - Enthusiasm (Original Mix)
 12. Ill Saint M - Hybris (F.O.O.L. Remix)
@@ -447,51 +624,76 @@ Some seem to be missing or mislabeled.
 16. Geometry! - Lou (Original Mix)
 17. Nation - Heroes (Original Mix)
 
-### TSNM presents NO EXCUSES vol. 16
+### TSNM & quer4mat present NO EXCUSES vol. 16
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229224502.png]]
+
+#### Description
+
+Oooookay, here we go again! :D Some Complextro vibes in my set and well known & loved trashing by @[quer4mat](https://soundcloud.com/quer4mat) on the second half. Speaking of: I'm really happy to have the two nice guys from Germany (hoooraaay, haha) on the show. Well known for their banging Sicktape-series:
+
+[soundcloud.com/quer4mat/sets/quer4mat-sicktapes](https://soundcloud.com/quer4mat/sets/quer4mat-sicktapes)
+
+the two have something really nice up their sleeves. They've produced some really nice Maximal/Electro originals and packed them up with a bunch of superb remixes for their first EP 'Gammelfleisch', out on Shax Trax 28th of November. So definitely listen to those, too!!
+
+[soundcloud.com/quer4mat/sets/preview-gammelfleisch-ep](https://soundcloud.com/quer4mat/sets/preview-gammelfleisch-ep)
+
+On other notes, sorry about the tracks that we've both played. That's totally my fault, lol. I really listened to their set first, but obviously I need more sleep, haha!
+
+And if you happen to be from the area (Bonn/Cologne, that is), we (@[grasp-1](https://soundcloud.com/grasp-1) & me) present our second Lambda party in a new location, right next to the Bonn main station. So come around and drink with us :D  
+[www.facebook.com/event.php?eid=297656350252667](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2Fevent.php%3Feid%3D297656350252667&token=a75cc4-1-1672349747941 "https://www.facebook.com/event.php?eid=297656350252667")
+
+And we have a website now, too! \m/  
+[lambda-maximal.com/](https://gate.sc?url=http%3A%2F%2Flambda-maximal.com%2F&token=ec62e-1-1672349747941 "http://lambda-maximal.com/")
+
+So enjoy the ride, I'll spare me the usual stuff so this gets online faster :P
+
+\m/,  
+tsnm
+
+[facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=49c687-1-1672349747942 "http://facebook.com/tsnm.22hz")
 
 #### Tracklist
 
 ##### TSNM
-01. Jay Saunders - Black Swan (Chrizz Luvly Remix)
-02. FetOo & Asdek - Groovy Bastards (Original Mix)
-03. Stream Dance Project - Reply Bastards (Original Mix)
-04. Felguk - Blow Out (Lazy Rich's Impossible Remix)
-05. Justrock & None Like Joshua - She Likes Electro (Original Mix)
-06. Fast Foot, Rabbit Killer - Paranoid (Vodge Diper Remix)
-07. The Noisy Freaks - Dream Team (TNF Mashup #2)
-08. Buzzwak - Mumbling Music (Access Denied Remix)
+1. Jay Saunders - Black Swan (Chrizz Luvly Remix)
+2. FetOo & Asdek - Groovy Bastards (Original Mix)
+3. Stream Dance Project - Reply Bastards (Original Mix)
+4. Felguk - Blow Out (Lazy Rich's Impossible Remix)
+5. Justrock & None Like Joshua - She Likes Electro (Original Mix)
+6. Fast Foot, Rabbit Killer - Paranoid (Vodge Diper Remix)
+7. The Noisy Freaks - Dream Team (TNF Mashup #2)
+8. Buzzwak - Mumbling Music (Access Denied Remix)
 
 ##### quer4mat
-01. Drivepilot - Retaliation (Original Mix)
-02. Justrock & None Like Joshua - She Likes Electro (Original Mix)
-03. quer4mat - Hackepeta (Lo-Fi Bitches Remix)
-04. Dj Antention - Ryu (Original Mix)
-05. My E.T. - Funky Vengance (Original Mix)
-06. FetOo & Asdek - Groovy Bastards (Original Mix)
-07. Sebastien Benett - Imagination (Beef Theatre Remix)
-08. Five Finger Death Punch - Under and Over It (Kill The Noise)
+1. Drivepilot - Retaliation (Original Mix)
+2. Justrock & None Like Joshua - She Likes Electro (Original Mix)
+3. quer4mat - Hackepeta (Lo-Fi Bitches Remix)
+4. Dj Antention - Ryu (Original Mix)
+5. My E.T. - Funky Vengance (Original Mix)
+6. FetOo & Asdek - Groovy Bastards (Original Mix)
+7. Sebastien Benett - Imagination (Beef Theatre Remix)
+8. Five Finger Death Punch - Under and Over It (Kill The Noise)
 
 ### TSNM presents NO EXCUSES vol. 17
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229223650.png]]
 
 #### Tracklist
 
-01. Congorock - Ivory (The Bloody Beetroots Remix)
-02. Rest in Beatz - Splinter (Original Mix) / StereoLiez - Robe Serie (Matteo Lo Valvo 'Nascondino' Remix) [mashup]
-03. Rest in Beatz - Splinter (Original Mix)
-04. Rocket - Death... Cheers (Ascii Demon Remix)
-05. Raupe - Black Paper (Original Mix)
-06. The Destroy Squad - Brainwashing (Hack The System Remix)
-07. Kombainer - I Don't Have Enough Money (Access Denied Remix)
-08. Rocket - Suicide In Venice (Beatbender Remix)
-09. Comic Strips - Tear It Up (Original Mix)
+1. Congorock - Ivory (The Bloody Beetroots Remix)
+2. Rest in Beatz - Splinter (Original Mix) / StereoLiez - Robe Serie (Matteo Lo Valvo 'Nascondino' Remix) [mashup]
+3. Rest in Beatz - Splinter (Original Mix)
+4. Rocket - Death... Cheers (Ascii Demon Remix)
+5. Raupe - Black Paper (Original Mix)
+6. The Destroy Squad - Brainwashing (Hack The System Remix)
+7. Kombainer - I Don't Have Enough Money (Access Denied Remix)
+8. Rocket - Suicide In Venice (Beatbender Remix)
+9. Comic Strips - Tear It Up (Original Mix)
 10. Afrojack - Lionheart (DSKOTEK Remix)
 11. LaTourette - Check My Beat (Original Mix)
 12. Owl Vision - Moloch (KATFYR Remix)
@@ -509,19 +711,38 @@ Some seem to be missing or mislabeled.
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229224004.png]]
+
+#### Description
+
+merry x-mas to all of you! hope you're celebrating somewhere right now! and as my gift for christmas, here is my full 2011 retrospection exlusively for Metalectro! first part aired as part of my show 'NO EXCUSES' (vol. 18) on di.fm last wednesday. approx. 5 tracks per month for the last year, hope you enjoy it \m/
+
+and check out Metalectro for your daily maximal/metalectro fix! @[zak-electrohead-kilmister](https://soundcloud.com/zak-electrohead-kilmister) 's doing a great job over there, even hosting competitions as the Metalectro Compilations with @[jet-set-trash](https://soundcloud.com/jet-set-trash) (just finished vol. 02, check it out!!), bringing some new artists the recognition they deserve \m/
+
+[www.metalectro-music.com](https://gate.sc?url=http%3A%2F%2Fwww.metalectro-music.com&token=abb1ec-1-1672349746534 "http://www.metalectro-music.com")  
+[facebook.com/metalectro](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Fmetalectro&token=bffa50-1-1672349746535 "http://facebook.com/metalectro")
+
+special shoutout to Digitally Imported for the great opportunity of hosting the show, Metalectro & @[jet-set-trash](https://soundcloud.com/jet-set-trash) for the great output over the year, @[grasp-1](https://soundcloud.com/grasp-1), @[iamraupe](https://soundcloud.com/iamraupe), @[elektrolok](https://soundcloud.com/elektrolok) & @[mariuskamil](https://soundcloud.com/mariuskamil) for rocking our party Lambda Maximal ([lambda-maximal.com](https://gate.sc?url=http%3A%2F%2Flambda-maximal.com&token=b1843f-1-1672349746535 "http://lambda-maximal.com")) over here in Bonn and @[slaminA](https://soundcloud.com/slaminA), @[quer4mat](https://soundcloud.com/quer4mat), @[borrobeats](https://soundcloud.com/borrobeats), @[beeftheatre](https://soundcloud.com/beeftheatre), @[hanumantribe](https://soundcloud.com/hanumantribe) & @[fetoo](https://soundcloud.com/fetoo) for generally being awesome & supportive!
+
+thanks to all & everyone! <3
+
+next show 04.01., next party in Bonn 21.01., and a really great special for the start of 2012 really soon! so stay tuned,  
+yours truly,
+
+tsnm  
+[facebook.com/tsnm](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm&token=17bf4b-1-1672349746535 "http://facebook.com/tsnm")
 
 #### Tracklist
 
-01. Ajent Able - Flamenco Bounce (King Minos Remix)
-02. F.O.O.L. - We're Not French (Owl Vision Remix)
-03. Haezer - Who The Fuck Is Haezer (Cyberpunkers Remix)
-04. Belzebass - Hulk Out! (Original Mix)
-05. Cyberpunkers - Fuck The System (Fukkk Offf Remix)
-06. Owl Vision - The Black Death (F.O.O.L. Remix)
-07. Haezer - James Bond (L.A.S.E.R. Remix)
-08. Redial - The Boss (Religion Remix)
-09. Aaren Reale - Black Pt. 2 (Dead Cat Bounce Remix)
+1. Ajent Able - Flamenco Bounce (King Minos Remix)
+2. F.O.O.L. - We're Not French (Owl Vision Remix)
+3. Haezer - Who The Fuck Is Haezer (Cyberpunkers Remix)
+4. Belzebass - Hulk Out! (Original Mix)
+5. Cyberpunkers - Fuck The System (Fukkk Offf Remix)
+6. Owl Vision - The Black Death (F.O.O.L. Remix)
+7. Haezer - James Bond (L.A.S.E.R. Remix)
+8. Redial - The Boss (Religion Remix)
+9. Aaren Reale - Black Pt. 2 (Dead Cat Bounce Remix)
 10. NEUS - Rippin Killin (Original Mix)
 11. Drivepilot - Every Day (Original Mix)
 12. The 'S' - Legend (The Boomzers Remix)
@@ -575,6 +796,62 @@ Some seem to be missing or mislabeled.
 60. Daft Punk - Aerodynamic (DSKOTEK Remix)
 61. Nightbreaker - Metropolis (Irish Steph Remix)
 
+### TSNM & gRASp present NO EXCUSES vol. 20
+
+#### Cover
+
+![[Pasted image 20221229223836.png]]
+
+#### Description
+
+Thanks everyone for tuning in! This week I'm joined by partner in crime @[grasp-1](https://soundcloud.com/grasp-1) for 'NO EXCUSES' vol. 20! 20 episodes already \m/ wohooo :D.
+
+Especially want to thank @[k12](https://soundcloud.com/k12), @[asscilator](https://soundcloud.com/asscilator), @[youkillingme](https://soundcloud.com/youkillingme), @[bonerizing-records](https://soundcloud.com/bonerizing-records), @[1ino1eum](https://soundcloud.com/1ino1eum) & @[fetOo](https://soundcloud.com/fetOo) for providing me with such nice material for the show! <3 mates!
+
+Next stop Lambda party in Bonn (with @[gRASp-1](https://soundcloud.com/gRASp-1), too, btw). We'll celebrate my birthday, so if you're in the vicinity -> stop by!!  
+[facebook.com/lambda.maximal](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Flambda.maximal&token=c840f6-1-1672349744426 "http://facebook.com/lambda.maximal")
+
+As always, comments and everything very welcome! :)
+
+best,  
+tsnm
+
+[facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=12c688-1-1672349744426 "http://facebook.com/tsnm.22hz")
+
+#### Tracklist
+
+##### TSNM
+1. Cold Blank - 2012 (Kisbeat!&Chemical Remix)  
+2. K12 & The Noisy Freaks - SnowFlake (Original Mix) *  
+3. John Williams - Duel Of The Fates (The Noisy Freaks feat. Dead Cat Bounce Remix)  
+4. Asscilator - Drink The Bass (Original Mix) *  
+5. Geometry - Pee (Original Mix)  
+6. roeVy - Valac (You Killing Me Remix) *  
+7. David Hopperman - Check That (Yuhei Kubo Remix) *  
+8. Kredo - One Of A Kind (Original Mix) *  
+9. Kredo - One Of A Kind (Charlie Kane Remix) *  
+10. Fher Hedz Alooner - Analog Disroder (Rocket remix)  
+11. Fher Hedz Alooner - Analog Disroder (RDHS remix)  
+12. Silent H! - Megatron (1ino1eum Remix) *  
+13. Aaren Reale & Hack The System - Elements (Original Mix)  
+14. Whoppers - Dirty Bitch ! (Original Mix)  
+15. FetOo - Monster (Original Mix) *
+
+* Exclusive/Promo
+
+##### gRASp  
+1. Sensproof - Catch your smile  
+2. Zeds Dead - Rockus The Jam  
+3. Specimen A - London  
+4. Ostblockschlampen - Bitches vom Ostblock  
+5. Far Too Loud - Megaloud  
+6. Malente - Dwarfs (Sharkslayer Remix)  
+7. Zedd - Slam The Door  
+8. Alex Mind - The Mentalist  
+9. Kill The Noise - Kill The Noise (Alvin Risk Remix)  
+10. Defunct! - Check The Ladies (Kraymer Remix)  
+11. Jay Robinson - Get Mad Now (Filthy Rehab Remix)
+
 ### TSNM presents NO EXCUSES vol. 23
 
 #### Cover
@@ -583,15 +860,15 @@ Some seem to be missing or mislabeled.
 
 #### Tracklist
 
-01. Digital Freq – Thriller (Original Mix)
-02. D’Secret Svc – Alley Cat (Fukkk Offf Remix)
-03. Leute Gibts – Resurrection (Original Mix)
-04. Debra Dolce – Goodies (Dirty Disco Youth Remix)
-05. Frederik Olufsen – Rocks (Original Mix)
-06. Access Denied – The Hammer (Original Mix)
-07. Ill Saint M – Carnation (Original Mix)
-08. Sexinspace – Glitter & Pain (Access Denied Remix)
-09. Sexinspace – Glitter & Pain (Hack The System Remix)
+1. Digital Freq – Thriller (Original Mix)
+2. D’Secret Svc – Alley Cat (Fukkk Offf Remix)
+3. Leute Gibts – Resurrection (Original Mix)
+4. Debra Dolce – Goodies (Dirty Disco Youth Remix)
+5. Frederik Olufsen – Rocks (Original Mix)
+6. Access Denied – The Hammer (Original Mix)
+7. Ill Saint M – Carnation (Original Mix)
+8. Sexinspace – Glitter & Pain (Access Denied Remix)
+9. Sexinspace – Glitter & Pain (Hack The System Remix)
 10. Digital Freq – Street Fighter (Original Mix)
 11. Sesto Sento – Bad Robot (Digital Freq Remix)
 12. Uppermost – Method Of Noise (Original Mix)
@@ -603,11 +880,58 @@ Some seem to be missing or mislabeled.
 18. Dilemn – Clapping (Eyedolls Remix)
 19. Barletta – Panther (Zeds Dead Remix)
 
+### TSNM presents NO EXCUSES vol. 24
+
+#### Cover
+
+![[Pasted image 20221229222727.png]]
+
+#### Description
+
+Oh yeah! After some trouble with SoundCloud the last 2 days, I'm finally able to bring you show no. 24.  
+
+Everyone who feared I was gone for good, don't fear no more. I'm not going anywhere! Just was extremely stressed (laptop stolen, bla, bla. NO EXCUSES haha). So here we go for episode 24. Loud as ever!
+
+Show aired on di.fm (Digitally Imported) last wednesday @ 6pm (next show 04.04.).
+
+One last thing before I shut up, apparently this happened that wednesday, too:  
+[twitter.com/#!/notch/status/182492335400161280](https://gate.sc?url=https%3A%2F%2Ftwitter.com%2F%23!%2Fnotch%2Fstatus%2F182492335400161280&token=367f9c-1-1672349140054 "https://twitter.com/#!/notch/status/182492335400161280")  
+Really glad to see that he enjoys listening to Electro House. For everyone not knowing who that is, he's the inventor & originally the only programmer on Indie super-hit Minecraft. So for everyone not getting the reference in the show-artwork this episode, that's it :).
+
+ssssSSSssssSssSSsS
+
+Last but not least, shoutout to @[bonerizing-records](https://soundcloud.com/bonerizing-records) for the David Hiller promo, you guys are seriously on fire with your releases lately, verynice!!
+
+As always, critics and comments very welcome, and see you for the next show,  
+Jonas/tsnm
+
+#### Tracklist
+
+1. Hack The System - Faithless (Original Mix)  
+2. Whoppers - Rape (Original Mix)  
+3. Nation - Conquest (Original Mix)  
+4. The Sexinvaders - Metropolis (Fukkk Offf Remix)  
+5. Decepticons - This is Our Army (Original Mix)  
+6. Belzebass - Sweet Apocalypse (Original Mix)  
+7. Cosmic Sand - Deadly Even After (Knooper! Remix)  
+8. Rocket - Suicide in Venice (Mechanical Resistance Remix)  
+9. NaDaDrop - Happy Krew is Back (Original Mix)  
+10. Hack The System - French Touch Culture (Original Mix)  
+11. Asdek & Enjoy Me - Utopia (Original Mix)  
+12. Access Denied - Lust for Life (Original Mix)  
+13. Skorby - Happy Nightmares (Nation Remix)  
+14. Wolfgang Gartner - There And Back (Dead Cat Bounce Remix)  
+15. David Hiller - Atom Smasher (Original Mix)  
+16. Mord Fustang - Super Fever (Original Mix)  
+17. Electrixx - Cyclus (Original Mix)  
+18. Bingo Players - L'Amour (Original Mix)  
+19. Steve Aoki, Wynter Gordon - Ladi Dadi (Autoerotique Remix)
+
 ### TSNM presents NO EXCUSES vol. 25
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229221358.png]]
 
 #### Description
 
@@ -622,15 +946,15 @@ As always, comments, criticism, favs, shares, hate, spam (though that is subject
 
 #### Tracklist
 
-01. AutoLaser - Mod 2 (Original Mix)
-02. Dada Life - Rolling Stone T-Shirt (Cazzette Approaching Starry Homes Remix)
-03. Dead C.A.T. Bounce - Solution (Original Mix)
-04. Skorby - Area 51 (Original Mix)
-05. Skanek - Cosmos (Original Mix)
-06. BitRedux - Serpentine (Original Mix)
-07. Hantise - Despotic Freak Show (F.O.O.L. Remix)
-08. Kroyclub - First Look Sonogram (Hanuman Tribe Remix)
-09. SpekrFreks feat. Michelle Ericsson - Roller Coaster (Fabyan Remix)
+1. AutoLaser - Mod 2 (Original Mix)
+2. Dada Life - Rolling Stone T-Shirt (Cazzette Approaching Starry Homes Remix)
+3. Dead C.A.T. Bounce - Solution (Original Mix)
+4. Skorby - Area 51 (Original Mix)
+5. Skanek - Cosmos (Original Mix)
+6. BitRedux - Serpentine (Original Mix)
+7. Hantise - Despotic Freak Show (F.O.O.L. Remix)
+8. Kroyclub - First Look Sonogram (Hanuman Tribe Remix)
+9. SpekrFreks feat. Michelle Ericsson - Roller Coaster (Fabyan Remix)
 10. Blaster - Work (Original Mix)
 11. Dr. Fish - Influenza (Access Denied Remix)
 12. Imprintz & Kloe - Bulldog (Original Mix)
@@ -648,7 +972,7 @@ As always, comments, criticism, favs, shares, hate, spam (though that is subject
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229221435.png]]
 
 #### Description
 
@@ -676,15 +1000,15 @@ http://soundcloud.com/tsnm/tsnm-presents-one-year-no-excuses-vol-26
 
 #### Tracklist
 
-01. FetOo - Random Travel (Asscilator Remix)
-02. The Killers Rabbits - Leackage, Pt. I (Owl Vision Remix)
-03. Dolores - Pantera 666 (Original Mix)
-04. GÖR FLSH feat. The Handle - Snow Storm II (Original Mix)
-05. Your Ol' Lady - Gunt (Original Mix)
-06. Gotye - Somebody That I Used To Know (Dumme Jungs Remix)
-07. Karluv Klub - Warfield (Geometry Remix)
-08. F.O.O.L. - Comboe (Original Mix)
-09. Rocket - Canon In Death (Original Mix)
+1. FetOo - Random Travel (Asscilator Remix)
+2. The Killers Rabbits - Leackage, Pt. I (Owl Vision Remix)
+3. Dolores - Pantera 666 (Original Mix)
+4. GÖR FLSH feat. The Handle - Snow Storm II (Original Mix)
+5. Your Ol' Lady - Gunt (Original Mix)
+6. Gotye - Somebody That I Used To Know (Dumme Jungs Remix)
+7. Karluv Klub - Warfield (Geometry Remix)
+8. F.O.O.L. - Comboe (Original Mix)
+9. Rocket - Canon In Death (Original Mix)
 10. LSDA - Nuclear Milk (Original Mix)
 11. Nero - Must Be The Feeling (South Central Remix)
 12. Dada Life - Happy Violence (Dead Cat Bounce & Why Not Remix)
@@ -703,7 +1027,7 @@ http://soundcloud.com/tsnm/tsnm-presents-one-year-no-excuses-vol-26
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229221503.png]]
 
 #### Description
 
@@ -725,15 +1049,15 @@ http://facebook.com/tsnm.22hz
 
 #### Tracklist
 
-01. Analphabeth - Porcherie (Boylerz Remix)
-02. Monument - Kill Them All (Original Mix)
-03. Monument - Coma (Original Mix)
-04. Tom Deluxx - Murder Was The Bass (Nation Remix)
-05. Hypomaniacs, Gor Flsh - Masochist (Original Mix)
-06. Robopunx - Falling Stars (WASA3I LiveUndead Version)
-07. Against Time & Kaos - Escape (Fukk Up! & Crimen Remix)
-08. Fukk Up! - My Name Is Fukk Up (Tokamak Remix)
-09. Gtronic - Iron Man (F.O.O.L. Remix)
+1. Analphabeth - Porcherie (Boylerz Remix)
+2. Monument - Kill Them All (Original Mix)
+3. Monument - Coma (Original Mix)
+4. Tom Deluxx - Murder Was The Bass (Nation Remix)
+5. Hypomaniacs, Gor Flsh - Masochist (Original Mix)
+6. Robopunx - Falling Stars (WASA3I LiveUndead Version)
+7. Against Time & Kaos - Escape (Fukk Up! & Crimen Remix)
+8. Fukk Up! - My Name Is Fukk Up (Tokamak Remix)
+9. Gtronic - Iron Man (F.O.O.L. Remix)
 10. Designer Drugs - For All We Know (Monolith Remix)
 11. Andy's iLL - Timeline (Original Mix)
 12. Whoppers - System (Original Mix)
@@ -760,7 +1084,7 @@ http://facebook.com/tsnm.22hz
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229221539.png]]
 
 #### Description
 
@@ -776,15 +1100,15 @@ http://facebook.com/tsnm.22hz
 
 #### Tracklist
 
-01. F.O.O.L. - Animus (Original Mix)
-02. Alex Mind, Morttagua - Sunrise Eagle (Original Mix)
-03. Sam Wire - Band Of Outsiders (The Rox Remix)
-04. Cold Blank - Deception feat. Blake Miller (Original Mix)
-05. KILLBASS - The Beat (Original Mix)
-06. Access Denied - Carukia Barnesi (Original Mix)
-07. Blaster - Denethor (Original Mix)
-08. Le Castle Vania - Nobody Gets Out Alive (Drivepilot Remix)
-09. Dumme Jungs - Feel Yeah (Skitsnygg Remix)
+1. F.O.O.L. - Animus (Original Mix)
+2. Alex Mind, Morttagua - Sunrise Eagle (Original Mix)
+3. Sam Wire - Band Of Outsiders (The Rox Remix)
+4. Cold Blank - Deception feat. Blake Miller (Original Mix)
+5. KILLBASS - The Beat (Original Mix)
+6. Access Denied - Carukia Barnesi (Original Mix)
+7. Blaster - Denethor (Original Mix)
+8. Le Castle Vania - Nobody Gets Out Alive (Drivepilot Remix)
+9. Dumme Jungs - Feel Yeah (Skitsnygg Remix)
 10. Svidden - Chemistry (Original Mix)
 11. You Killing Me - Sinner (Original Mix)
 12. You Killing Me - My Religion (Dead C.A.T. Bounce & The Noisy Freaks Remix)
@@ -796,11 +1120,11 @@ http://facebook.com/tsnm.22hz
 18. The Boomzers - We Are Back (The 'S' Remix)
 19. King Kornelius - Almost Wanted (Original Mix)
 
-### TSNM presents NO EXCUSES vol. 30
+### TSNM & Blastnoize present NO EXCUSES vol. 30
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229221604.png]]
 
 #### Description
 
@@ -824,28 +1148,28 @@ http://facebook.com/tsnm.22hz
 #### Tracklist
 
 ##### TSNM
-01. Tim Tonik - Commercial Fuck (Original Mix)
-02. The Mastertrons - Sideways (Original Mix)
-03. Gerald The Genius - Make You Love Me (Original Mix)
-04. Un:Code - The Outlaws (Access Denied Remix)
-05. Ostblockschlampen - Cubic Circle (The Rox Remix)
-06. Gosteffects - Tear The Club Up (Monolith Remix)
-07. Digital Switchover - 24-7 (Original Mix)
-08. Ferdee - Funk Bomb (Original Mix)
-09. Fast Foot - Space Man (Soulfix & Melting Man Remix)
+1. Tim Tonik - Commercial Fuck (Original Mix)
+2. The Mastertrons - Sideways (Original Mix)
+3. Gerald The Genius - Make You Love Me (Original Mix)
+4. Un:Code - The Outlaws (Access Denied Remix)
+5. Ostblockschlampen - Cubic Circle (The Rox Remix)
+6. Gosteffects - Tear The Club Up (Monolith Remix)
+7. Digital Switchover - 24-7 (Original Mix)
+8. Ferdee - Funk Bomb (Original Mix)
+9. Fast Foot - Space Man (Soulfix & Melting Man Remix)
 10. AutoErotique - EKG (Original Mix)
 11. Wendel Kos, Rokcity - Crowd Surfer (Original Mix)
 
 ##### Blastnoize
-01. Reset! - Oh Yeah! (Original Mix)
-02. J-trick - Rockit (Original Mix)
-03. SHM & Knife Party - Antidote (Chuckie Bumpy Ride EDC Edit)
-04. Chuckie - Who Is Ready To Jump (Ryan Riback Remix)
-05. Lykke Li - I Follow Rivers (Theisen & Kluewer Bootleg)
-06. Robbie Rivera, Tommy Lee, DJ Aero Feat. Sue Cho - Ding Dong (Bassjackers Remix)
-07. Skrillex - All I Ask Of You (The 'S' Remix)
-08. Justin Bieber - Boyfriend (Dada Life Remix)
-09. Dirty Disco Youth - O.M.G.I.T.M (Original Mix)
+1. Reset! - Oh Yeah! (Original Mix)
+2. J-trick - Rockit (Original Mix)
+3. SHM & Knife Party - Antidote (Chuckie Bumpy Ride EDC Edit)
+4. Chuckie - Who Is Ready To Jump (Ryan Riback Remix)
+5. Lykke Li - I Follow Rivers (Theisen & Kluewer Bootleg)
+6. Robbie Rivera, Tommy Lee, DJ Aero Feat. Sue Cho - Ding Dong (Bassjackers Remix)
+7. Skrillex - All I Ask Of You (The 'S' Remix)
+8. Justin Bieber - Boyfriend (Dada Life Remix)
+9. Dirty Disco Youth - O.M.G.I.T.M (Original Mix)
 10. Justice vs. Simian - We Are Your Friends (Krftkds Remix)
 11. Trigger ft. BLASTNOIZE - Say Say Say (Original Mix)
 12. Wolfgang Gartner - Space Junk (Audiobot Bootleg)
@@ -855,7 +1179,7 @@ http://facebook.com/tsnm.22hz
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229221701.png]]
 
 #### Description
 
@@ -881,15 +1205,15 @@ https://soundcloud.com/tsnm/tsnm-presents-no-excuses-vol-31
 
 #### Tracklist
 
-01. Dizkodeath - Funeral Of Queen Mary (Intro Edit)
-02. Pelussje - Pelussje Fear Satan (Original Mix)
-03. The Phat Crew feat. Circe - Revenge (Black Is Not A Colour Remix)
-04. Against Time & Kaos feat. Hypomaniacs - Lifted (Gör Flsh Remix)
-05. La Musique D'Ordinateur - Revolver (Andy's iLL Remix)
-06. Cosmic Sand - Sombra (Original Mix)
-07. Tim Tonik - Commercial Fuck (Machines R Us Remix)
-08. Metallica - Wherever I May Roam (Dskotek's EDC Intro Bootleg)
-09. Pantera - Walk (Raw Zombies Remix)
+1. Dizkodeath - Funeral Of Queen Mary (Intro Edit)
+2. Pelussje - Pelussje Fear Satan (Original Mix)
+3. The Phat Crew feat. Circe - Revenge (Black Is Not A Colour Remix)
+4. Against Time & Kaos feat. Hypomaniacs - Lifted (Gör Flsh Remix)
+5. La Musique D'Ordinateur - Revolver (Andy's iLL Remix)
+6. Cosmic Sand - Sombra (Original Mix)
+7. Tim Tonik - Commercial Fuck (Machines R Us Remix)
+8. Metallica - Wherever I May Roam (Dskotek's EDC Intro Bootleg)
+9. Pantera - Walk (Raw Zombies Remix)
 10. RATM - Killing In The Name (Beatbender Rework)
 11. Brummer - Execution (Original Mix)
 12. Tits & Clits - Icarus (Beef Theatre Remix)
@@ -907,7 +1231,7 @@ https://soundcloud.com/tsnm/tsnm-presents-no-excuses-vol-31
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229223048.png]]
 
 #### Description
 
@@ -922,15 +1246,15 @@ http://facebook.com/tsnm.22hz
 
 #### Tracklist
 
-01. South Central - Freak Party (Original Mix)
-02. Savant - Breakdown (Original Mix)
-03. Sawgood - Alien's Wedding (Original Mix)
-04. Chris Quirk - Crying Game (Synchronice Remix)
-05. Knife Party - Rage Valley (The Boomzers Remix)
-06. Sawgood - Human Specimen (Original Mix)
-07. Rabbit Killer, Farleon - Jump And Shout (Lazy Rich Remix)
-08. TJR, Whiskey Pete - Face Melt (Bombs Away VIP Edit)
-09. The H2O Project - Templarius (Original Mix)
+1. South Central - Freak Party (Original Mix)
+2. Savant - Breakdown (Original Mix)
+3. Sawgood - Alien's Wedding (Original Mix)
+4. Chris Quirk - Crying Game (Synchronice Remix)
+5. Knife Party - Rage Valley (The Boomzers Remix)
+6. Sawgood - Human Specimen (Original Mix)
+7. Rabbit Killer, Farleon - Jump And Shout (Lazy Rich Remix)
+8. TJR, Whiskey Pete - Face Melt (Bombs Away VIP Edit)
+9. The H2O Project - Templarius (Original Mix)
 10. Fast Foot - Hysteria (Original Mix)
 11. Hijack Da Bass feat. Backyard Bully - Start An Earthquake (Original Mix)
 12. Junior Sanchez - Dim Mak Attack (Deathtouch)
@@ -944,7 +1268,7 @@ http://facebook.com/tsnm.22hz
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229221728.png]]
 
 #### Description
 
@@ -960,15 +1284,15 @@ http://facebook.com/tsnm.22hz
 
 #### Tracklist
 
-01. Owl Vision - All Black Everything (Original Mix)
-02. GTRONIC - Chocolate Starfish (Original Mix)
-03. Christine - Fucking Youth (CHP SMKS Remix)
-04. Ahllex - Take Two (Gor Flsh Remix)
-05. DkNato - Back To Hell (Hypomaniacs Remix)
-06. Hijack Da Bass - Krypton (Knooper Remix)
-07. The Bloody Beetroots - Rocksteady (Gigi Barocco Remix)
-08. Jelle Boon - 2.3 (Boylerz Remix)
-09. Tom Deluxx - Murder Was The Bass (Hijack Da Bass Remix)
+1. Owl Vision - All Black Everything (Original Mix)
+2. GTRONIC - Chocolate Starfish (Original Mix)
+3. Christine - Fucking Youth (CHP SMKS Remix)
+4. Ahllex - Take Two (Gor Flsh Remix)
+5. DkNato - Back To Hell (Hypomaniacs Remix)
+6. Hijack Da Bass - Krypton (Knooper Remix)
+7. The Bloody Beetroots - Rocksteady (Gigi Barocco Remix)
+8. Jelle Boon - 2.3 (Boylerz Remix)
+9. Tom Deluxx - Murder Was The Bass (Hijack Da Bass Remix)
 10. Megastrom - Phonos (Original Mix)
 11. Patient Zero - Grave Digger (Original Mix)
 12. Geometry - Switch Off (Original Mix)
@@ -981,7 +1305,7 @@ http://facebook.com/tsnm.22hz
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229221837.png]]
 
 #### Description
 
@@ -1001,15 +1325,15 @@ http://facebook.com/tsnm.22hz
 
 #### Tracklist
 
-01. Trumpdisco - War Horn (The Phat Crew Remix)
-02. Moda - Fuck (Original Mix)
-03. The Phat Crew feat. Circe - Revenge (Tim Tonik Remix)
-04. Hypomaniacs - Eyes Are Open (Rubber Spanner Remix)
-05. Smitech Wesson - Zöhre (GÖR FLSH Remix)
-06. Skitsnygg - Devastation (Crimen Remix)
-07. Skitsnygg - Devastation (Owl Vision Remix)
-08. Silent H! - The Computer (Bullwack Remix)
-09. Golden Gun - Me & Music (Original Mix)
+1. Trumpdisco - War Horn (The Phat Crew Remix)
+2. Moda - Fuck (Original Mix)
+3. The Phat Crew feat. Circe - Revenge (Tim Tonik Remix)
+4. Hypomaniacs - Eyes Are Open (Rubber Spanner Remix)
+5. Smitech Wesson - Zöhre (GÖR FLSH Remix)
+6. Skitsnygg - Devastation (Crimen Remix)
+7. Skitsnygg - Devastation (Owl Vision Remix)
+8. Silent H! - The Computer (Bullwack Remix)
+9. Golden Gun - Me & Music (Original Mix)
 10. The Slaughters - Polar North (FUKK UP! Exorcism Mix)
 11. S.U.C.K - Odin (Original Mix)
 12. Ali Nadem - Hardcore Motherfucker (Sikelia Remix)
@@ -1026,7 +1350,7 @@ http://facebook.com/tsnm.22hz
 
 #### Cover
 
-![[Pasted image 20221229211353.png]]
+![[Pasted image 20221229222014.png]]
 
 #### Description
 
@@ -1048,15 +1372,15 @@ http://facebook.com/tsnm.22hz
 
 #### Tracklist
 
-01. Determinators feat. Circe - A Byte Of The New Ultra (Original Mix)
-02. Determinators feat. Circe - A Byte Of The New Ultra (Tim Tonik Remix)
-03. You Killing Me - My Religion (Knooper Remix)
-04. JFK, St. Mandrew - Face Pump (St. Beethoven Remix)
-05. Tim Tonik - Death The Kid (Original Mix)
-06. Dizkodeath - Suicide (Rocket Remix)
-07. Beurk! & Easily Misread - Slave Of Sadness (Thermaltake Remix)
-08. Skitsnygg - Intimacy (Original Mix)
-09. Les Strobelights - Remedy (Original Mix)
+1. Determinators feat. Circe - A Byte Of The New Ultra (Original Mix)
+2. Determinators feat. Circe - A Byte Of The New Ultra (Tim Tonik Remix)
+3. You Killing Me - My Religion (Knooper Remix)
+4. JFK, St. Mandrew - Face Pump (St. Beethoven Remix)
+5. Tim Tonik - Death The Kid (Original Mix)
+6. Dizkodeath - Suicide (Rocket Remix)
+7. Beurk! & Easily Misread - Slave Of Sadness (Thermaltake Remix)
+8. Skitsnygg - Intimacy (Original Mix)
+9. Les Strobelights - Remedy (Original Mix)
 10. Blood Eagle - Rockbiter (Original Mix)
 11. Rebels - Ghost (Original Mix)
 12. Murphy! - Rock Under Me (Original Mix)
@@ -1066,40 +1390,73 @@ http://facebook.com/tsnm.22hz
 16. Danger - 22h39 (Don Winsley Remix)
 17. Ferris Hilton - Blood Red (Access Denied Remix)
 
-## Gucci Mane vs. Wick-it The Instigator - Gucci Krunk (tsnms' Future Mane Trap Mashup)
-
-Okay, so this has been in my head since I mixed those very two tracks about 2 weeks ago.
-They just seemed like a perfect fit, so here is a mashup I threw together over the weekend, hope you like it! \m/
-
-This is, btw., the very first material I've produced that is 'released' officially as tsnm.
-But don't worry, I won't continue with Trap, actually working on some Maximal / Metalectro material, so stay tuned!
-
-Gucci Mane - Club Hoppin' (Original Mix) vs.
-Wick-it The Instigator - Future Krunk (Original Mix)
-
-Both tracks are available freely:
-here: http://soundcloud.com/wick-it/wick-it-the-instigator-future
-and here: http://mixtapewire.com/music/2012/01/gucci-mane-club-hoppin
-
-And I'd LOVE to hear your feedback, and if you like it, feel free to spread it! \m/
-
-Bit.ly:
-Name: DOWNLOAD Gucci Mane vs. Wick-it The Instigator - Gucci Krunk (tsnms' Future Mane Mashup)
-Note: For more info visit me at http://facebook.com/tsnm.22hz && http://soundcloud.com/tsnm \m/
 
 
-Hey mate!
-Saw you guys posting some Trap on your blog, so maybe this is something for you.
-Quick & fun weekend project of mine, a mashup of Gucci Manes' Club Hoppin & Wick-it The Instigators' Future Krunk, and it's free, too,
+## Other Mixtapes
 
-cheeeers,
-Jonas / tsnm
+### TSNM for Tasty Beatdrops Exclusive
 
-http://soundcloud.com/tsnm
-http://twitter.com/tsnmp
-http://facebook.com/tsnm.22hz
+#### Cover
 
-## tsnm be trappin' for Klubsport Bonn
+![[Pasted image 20221229225652.png]]
+
+#### Description
+
+Some different vibes on this exclusive for Tasty Beatdrops! :) Enjoy some dangerous arpeggios, mysterious french sound and drift away!
+
+For alle the people getting here through the blog, and don't know what I'm doing; I'm a DJ from Bonn, age 27. For the most part I'm known for my show on di.fm (Digitally Imported) called 'NO EXCUSES', which runs every first and third wednesday on their Electro House channel. You can find the past shows in my profile here, too.  
+I've been in love with electronic music for a looong time, and started DJing for fun about two to three years ago. About half a year ago I bought a S4, as verbose mappings for abused MIDI devices just didn't cut it anymore. At the moment I'm mainly into melodic Maximal Electro, to call it that for a lack of a better name.  
+This mix is an hommage to my roots in Electro. Heavy on the Danger-esque sounds, borrowings from synthpop and quite dramatic! So sorry, no bangers for today, hope you'll not be completely upset with me now ;).
+
+If you want to find more about me, check out my facebook profile, or the page for the radio show:
+
+[facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=2bc687-1-1672349780381 "http://facebook.com/tsnm.22hz")  
+[www.di.fm/calendar/event.php?event=27236](https://gate.sc?url=http%3A%2F%2Fwww.di.fm%2Fcalendar%2Fevent.php%3Fevent%3D27236&token=57f44e-1-1672349780381 "http://www.di.fm/calendar/event.php?event=27236")
+
+And if you didn't get here through the Tasty Beatdrops blog, be sure to check out that great project by Robin right here:
+
+[blog.tastybeatdrops.be/](https://gate.sc?url=http%3A%2F%2Fblog.tastybeatdrops.be%2F&token=6659dc-1-1672349780381 "http://blog.tastybeatdrops.be/")  
+[facebook.com/pages/Tasty-Beatdrops/114898081903137](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Fpages%2FTasty-Beatdrops%2F114898081903137&token=4843c6-1-1672349780381 "http://facebook.com/pages/Tasty-Beatdrops/114898081903137")
+
+He writes about tracks, releases, mixtapes and alot more, including weekly mixtapes (as this one ;) ). So be sure to check him out, too!  
+As always, I'd be MORE than happy to hear your feedback. Think this mix is completely whack? Heard those ones, too? Let me know!
+
+#### Tracklist
+
+1. Calling In Sick - Belgrave 2 (Original Mix)  
+2. Cassette Culture - We Once Had An Empire (Jungle Fiction Remix)  
+3. Danger - 7h46 (Original Mix)  
+4. Jungle Fiction - Transhuman (Original Mix)  
+5. SymbolOne - Love Juice (Danger TV Remixes)  
+6. F.O.O.L - Dark Cyan Night (AutoLaser Remix)  
+7. Daze - The Escape (Original Mix)  
+8. Mille - Ghost Dancer (Original Mix)  
+9. Fear of Tigers - The Adventures of Pippi Longstrump (Human Contact Remix)  
+10. Worship - Bavaria 1999 (Original Mix)  
+11. Monsieur Adi - We Are The Romans (Flashworx Remix)  
+12. AutoLaser - Boreal (Original Mix)  
+13. Defeat - UNBRKBL (Original Mix)  
+14. BetaTraxx - Relix (Original Mix)  
+15. Drivepilot - Invaders (Original Mix)  
+16. NightWaves - Super Human (Original Mix)  
+17. Moderat - Les Grandes Marches (MMMatthias Remix)  
+18. Flashworx - Odaiba Chase (Original Mix)  
+19. Redail - Quiet Knight (Original Mix)  
+20. Mille - Crysteena (Fear of Tigers Remix)  
+21. Danger - 11h30 (Drivepilot Remix)  
+22. Noize Generation - Monster (Oscar Bravo Espinosa Remix)  
+23. Ishivu - Horus (Original Mix)  
+24. Danger - 3h16 (Original Mix)  
+25. Danger - 88h88 (Stage 3 The Club Danger Edit)  
+26. Ishivu - Palms (Original Mix)
+
+### TSNM be trappin' for Klubsport Bonn
+
+#### Cover
+
+![[Pasted image 20221229221813.png]]
+
+#### Description
 
 Upload, out of the ordinary, to celebrate 666 likes on the facebook-page! \m/
 
@@ -1110,17 +1467,17 @@ Also a small tribute to my music collective in Bonn, Klubsport Bonn (http://klub
 Yours truly,
 tsnm aka Trapper John
 
+#### Tracklist
 
-tracklisting:
-01. Gent & Jawns - Holler (Original Mix)
-02. Sticky K - Persian Algebra (Original Mix)
-03. Bro Safari & LeDoom - Boink (Original Mix)
-04. Phat Deuce - Bubble Di Sistem (Original Mix)
-05. Lockah - Now U Wanna (Original Mix)
-06. Douster - Boom Shaka Laka (Original Mix)
-07. Paper Diamond - Can We Go Up (Original Mix)
-08. Wick-it The Instigator - Future Krunk (Original Mix)
-09. Gucci Mane - Club Hoppin' (Original Mix)
+1. Gent & Jawns - Holler (Original Mix)
+2. Sticky K - Persian Algebra (Original Mix)
+3. Bro Safari & LeDoom - Boink (Original Mix)
+4. Phat Deuce - Bubble Di Sistem (Original Mix)
+5. Lockah - Now U Wanna (Original Mix)
+6. Douster - Boom Shaka Laka (Original Mix)
+7. Paper Diamond - Can We Go Up (Original Mix)
+8. Wick-it The Instigator - Future Krunk (Original Mix)
+9. Gucci Mane - Club Hoppin' (Original Mix)
 10. Baauer - Yaow! (Original Mix)
 11. Willy Joy - Juicy Lucy (Original Mix)
 12. BRANKO feat. Dominique Young Unique - Going In Hard (BeatauCue Remix)
@@ -1140,18 +1497,48 @@ tracklisting:
 26. Cosmo & Paat - Raveheart (Original Mix)
 27. Dubmood - Monkey Island (Original Mix)
 
+### TSNM won't ever stop for Rave-it Rec
 
-### tsnm for Rave it Rec
+#### Cover
 
-01. Nightbreaker – Potemkin (Original Mix)
-02. Nightbreaker – Metropolis (Original Mix)
-03. The Subs – Decontrol (Black Strobe Remix)
-04. S-File – Out Of Control (Original Mix)
-05. X-Ettl – Flatline (Original Mix)
-06. Tai – Power Chords (Zodiac Cartel Remix)
-07. Mustard Pimp – Radio Techno Allah (Original Mix)
-08. Baxen – Freya (Original Mix)
-09. Gooseflesh – Insanely (Dilemn Remix)
+![[Pasted image 20221229224150.png]]
+
+#### Description
+
+To cite one of my first electro purchases on vinyl, and still one of my favourite tracks:
+
+"Alcohol, Drugs, Overdrive, Noise, Neon Lights, Party People, Revolution,  
+RAVE IS KING!"  
+- Fukkk Offf - Rave Is King
+
+And in that vein I partnered up with Rave-it Rec to bring you a "small" mixtape! And as I really don't like to separate music into genres or restrict myself to specific tracks only because they were seemingly added to a genre by random, I just chose everything I thought to fit into the general term "rave" for this one, so expect some different styles (I hope it has some artistic continuity non-the-less, at least that was what I was aiming for :D).
+
+So, always keep on ravin' everyone!!
+
+And make sure to give the guys over at Rave-it Rec a shout-out! They've set out to bring you top-notch acts like You Killing Me to germany, and they deserve some definite respect for that!
+
+[www.facebook.com/raveitrecords](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2Fraveitrecords&token=d5719a-1-1672349746537 "https://www.facebook.com/raveitrecords")  
+[www.raveitrecords.de](https://gate.sc?url=http%3A%2F%2Fwww.raveitrecords.de&token=755768-1-1672349746537 "http://www.raveitrecords.de")
+
+And if you'd like to book some of my buddies currently on Rave-it Rec (@[slaminA](https://soundcloud.com/slaminA), @[quer4mat](https://soundcloud.com/quer4mat), @[leutegibts](https://soundcloud.com/leutegibts) and alot more) drop them an email to [raveitrecords@web.de](mailto:raveitrecords@web.de)!  
+Keep the german electro scene bangin'!
+
+Yours truly,  
+tsnm
+
+[facebook.com/tsnm.22hz](https://gate.sc?url=http%3A%2F%2Ffacebook.com%2Ftsnm.22hz&token=a8c688-1-1672349746538 "http://facebook.com/tsnm.22hz")
+
+#### Tracklist
+
+1. Nightbreaker – Potemkin (Original Mix)
+2. Nightbreaker – Metropolis (Original Mix)
+3. The Subs – Decontrol (Black Strobe Remix)
+4. S-File – Out Of Control (Original Mix)
+5. X-Ettl – Flatline (Original Mix)
+6. Tai – Power Chords (Zodiac Cartel Remix)
+7. Mustard Pimp – Radio Techno Allah (Original Mix)
+8. Baxen – Freya (Original Mix)
+9. Gooseflesh – Insanely (Dilemn Remix)
 10. Nightbreaker – G.I.G.A.S. (Original Mix)
 11. Acheropytes – Prismatic (FetOo Remix)
 12. Digital Freq – Thriller (Original Mix)
@@ -1183,7 +1570,13 @@ tracklisting:
 37. Mustard Pimp feat. Puppetmastaz – The Garden (Original Mix)
 38. Amish82 feat. Conor Patrick – Crocodile (AutoLaser Remix)
 
-## tsnm hears a traptigall
+### TSNM hears a traptigall
+
+#### Cover
+
+![[Pasted image 20221229222045.png]]
+
+#### Description
 
 CECI N'EST PAS UNE TRAP
 
@@ -1198,16 +1591,17 @@ derp,
 tsnm
 http://facebook.com/tsnm.22hz
 
+#### Tracklist
 
-01. Midnight Smack - Phantom (Original Mix)
-02. Big Dope P - Southside Anthem (Kaytranada Remix)
-03. Alvaro - Make The Crowd Go (DJ Slink Remix)
-04. Polar - Medicine (Drop The Bass Remix)
-05. DJ Butcher - $werve (Original Mix)
-06. Flosstradamus feat. Tuneboy & DJ Isaac - ITH (Original Mix)
-07. Geek Boy - False Fight (Original Mix)
-08. Flosstradamus feat. Headhunterz & Noisecontrollers - 2NITE (Original Mix)
-09. Adventure Club - Retro City (LOUDPVCK Remix)
+1. Midnight Smack - Phantom (Original Mix)
+2. Big Dope P - Southside Anthem (Kaytranada Remix)
+3. Alvaro - Make The Crowd Go (DJ Slink Remix)
+4. Polar - Medicine (Drop The Bass Remix)
+5. DJ Butcher - $werve (Original Mix)
+6. Flosstradamus feat. Tuneboy & DJ Isaac - ITH (Original Mix)
+7. Geek Boy - False Fight (Original Mix)
+8. Flosstradamus feat. Headhunterz & Noisecontrollers - 2NITE (Original Mix)
+9. Adventure Club - Retro City (LOUDPVCK Remix)
 10. Major Lazer feat. The Partysquad - Original Don (Luminox Remix)
 11. Nero - Reaching Out (Baauer Remix)
 12. Santigold - Creator (Ookay Remix)
@@ -1231,34 +1625,48 @@ http://facebook.com/tsnm.22hz
 30. LOUDPVCK - FLXX (Original Mix)
 31. Wick-it The Instigator - The Golden Trap Gangster (Original Mix)
 
-## tsnm @ Everything Broken, KGB Abhörbar (Cologne) 11.05.2012
+### TSNM at Everything Broken, KGB Abhörbar (Cologne) 11.05.2012
 
-Soldout - The Cut (Original Mix)
-Evil Nine - They Live! (Felix Cartal Remix)
-C.L.A.W.S. - Canteloupe (Original Mix)
-Datostrom - All I Ever Needed (Diamond Cut Remix)
-Kaskade feat. Deadmau5 - Move For Me (Santiago & Bushido Remix)
-Freak You - From Nowhere (WORSHIP Remix)
-Empire Of The Sun - Walking On A Dream (Sam La More 12" Remix)
-Digikid84 - Heart & Soul (Original Mix)
-Bass Weazal - Kill The Fox (Aniki Crazy Fox Hunt Bootleg)
-Streetlife DJs - We Love The Disco Sound (Radio Edit)
-Chromeo - Call Me Up (Original Mix)
-The Twelves - Nightvision (Daft Punk Cover)
-Cut Copy - Far Away (The Golden Filter Remix)
-The Knife - Marble House (Rex The Dog Remix)
-Martin Solveig - Something Better (Kris Menace Remix)
-College feat. Anoraak - Fantasy Park (Moulinex Remix)
+#### Cover
 
+![[Pasted image 20221229230902.png]]
+#### Description
 
-awaiting:
+Live-set played in a small bar in Cologne, [KGB Abhörbar](https://www.abhoerbar.com/).
 
-Pope Analphabet / Analphabeth - Porcherie (Boylerz Remix)
-Andrius Klimka / You Killing Me - Freakz Me Out Release
-Rasmus Hermansen / F.O.O.L. - Sahara (Original Mix)
-Na Tion (Anthony Gayout) / DkNato - Back To Hell (Nation Remix)
+#### Tracklist
 
-## tsnms foray into nu disco-tory
+1. Soldout - The Cut (Original Mix)
+2. Evil Nine - They Live! (Felix Cartal Remix)
+3. C.L.A.W.S. - Canteloupe (Original Mix)
+4. Datostrom - All I Ever Needed (Diamond Cut Remix)
+5. Kaskade feat. Deadmau5 - Move For Me (Santiago & Bushido Remix)
+6. Freak You - From Nowhere (WORSHIP Remix)
+7. Empire Of The Sun - Walking On A Dream (Sam La More 12" Remix)
+8. Digikid84 - Heart & Soul (Original Mix)
+9. Bass Weazal - Kill The Fox (Aniki Crazy Fox Hunt Bootleg)
+10. Streetlife DJs - We Love The Disco Sound (Radio Edit)
+11. Chromeo - Call Me Up (Original Mix)
+12. The Twelves - Nightvision (Daft Punk Cover)
+13. Cut Copy - Far Away (The Golden Filter Remix)
+14. The Knife - Marble House (Rex The Dog Remix)
+15. Martin Solveig - Something Better (Kris Menace Remix)
+16. College feat. Anoraak - Fantasy Park (Moulinex Remix)
+
+#### Missing Tracks
+
+- Pope Analphabet / Analphabeth - Porcherie (Boylerz Remix)
+- Andrius Klimka / You Killing Me - Freakz Me Out Release
+- Rasmus Hermansen / F.O.O.L. - Sahara (Original Mix)
+- Na Tion (Anthony Gayout) / DkNato - Back To Hell (Nation Remix)
+
+### TSNMs foray into nu disco-tory
+
+#### Cover
+
+![[Pasted image 20221229221635.png]]
+
+#### Description
 
 for·ay
 n.
@@ -1272,17 +1680,17 @@ v.intr.
 
 http://facebook.com/tsnm.22hz \m/
 
+#### Tracklist
 
-tracklisting:
-01. Ellie Goulding - High For This (The Weeknd Cover)
-02. Drake feat. The Weeknd - Crew Love (Star Slinger's Jersey Refix)
-03. Dragonette - Let It Go (The Knocks Remix)
-04. Van She - Idea Of Happiness (SebastiAn Remix)
-05. Foster The People - Don't Stop (Oliver Remix)
-06. Punks Jump Up feat. Dave 1 - Mr. Overtime (Club Version)
-07. Thomas Gandey - The Organ Track (Stripped Mix)
-08. Ladyhawke - Sunday Drive (Gigamesh Remix)
-09. WEKEED - Wild Child (Original Mix)
+1. Ellie Goulding - High For This (The Weeknd Cover)
+2. Drake feat. The Weeknd - Crew Love (Star Slinger's Jersey Refix)
+3. Dragonette - Let It Go (The Knocks Remix)
+4. Van She - Idea Of Happiness (SebastiAn Remix)
+5. Foster The People - Don't Stop (Oliver Remix)
+6. Punks Jump Up feat. Dave 1 - Mr. Overtime (Club Version)
+7. Thomas Gandey - The Organ Track (Stripped Mix)
+8. Ladyhawke - Sunday Drive (Gigamesh Remix)
+9. WEKEED - Wild Child (Original Mix)
 10. Boys Noize - Donnastag (Original Mix)
 11. Alex Metric - Anybody Else (Original Mix)
 12. Cicada - Cut Right Through (DJ Delicious Remix)
@@ -1300,17 +1708,27 @@ tracklisting:
 24. Flight Of Angels - Gabriel (Splice OST)
 25. nervous_testpilot - Complexity (Original Mix)
 
-## LAMBDA Maximal 21.07.2012
+### LAMBDA Maximal 21.07.2012
 
-01. Lucky Date & Midnight Conspiracy - Veyron (PrototypeRaptor Remix)
-02. Buzzwak - Mumbling Music (Access Denied Remix)
-03. Cool Project, BBK - Bring It On (Access Denied Remix)
-04. Savant - Breakdown (Original Mix)
-05. TJR, Whiskey Pete - Face Melt (Bombs Away VIP Edit)
-06. Junior Sanchez - Dim Mak Attack (Deathtouch)
-07. Cosmic Sand - Sombra (Original Mix)
-08. The Boomzers - Digital Drug (Dank Remix)
-09. Kolt13 feat. WEB - Love At The Speed Of Light (aUtOdiDakT Remix)
+#### Cover
+
+MISSING
+
+#### Description
+
+MISSING
+
+#### Tracklist
+
+1. Lucky Date & Midnight Conspiracy - Veyron (PrototypeRaptor Remix)
+2. Buzzwak - Mumbling Music (Access Denied Remix)
+3. Cool Project, BBK - Bring It On (Access Denied Remix)
+4. Savant - Breakdown (Original Mix)
+5. TJR, Whiskey Pete - Face Melt (Bombs Away VIP Edit)
+6. Junior Sanchez - Dim Mak Attack (Deathtouch)
+7. Cosmic Sand - Sombra (Original Mix)
+8. The Boomzers - Digital Drug (Dank Remix)
+9. Kolt13 feat. WEB - Love At The Speed Of Light (aUtOdiDakT Remix)
 10. Dumme Jungs - Daylight (Liberty Remix)
 11. The Noisy Freaks - Fast Chased (Drivepilot Remix)
 12. Konovalov - IDK (Original Mix)
@@ -1330,7 +1748,13 @@ tracklisting:
 26. Beastie Boys - Intergalactic (Silent H! Remix)
 27. Skrillex - Kyoto (gLAdiator Moombahton Remix)
 
-## TSNM & LAMBDA present MOOMBAHBONN
+### TSNM & LAMBDA present MOOMBAHBONN
+
+#### Cover
+
+![[Pasted image 20221229223501.png]]
+
+#### Description
 
 LAMBDA und http://soundcloud.com/tsnm machen auch Ostern maximal.
 Nachdem die Jungs gestern in Köln das Luxor bespasst haben, gibt es hier schon, als kleines Oster-Geschenk, direkt den Ausblick auf die nächste LAMBDA (21.04. @Backstage Bonn) in Form eines Moombahton-Promo-Tapes, eingespielt von http://soundcloud.com/tsnm. 25 Tracks auf kompakten 45 Minuten, definitiv maximal \m/.
@@ -1354,16 +1778,17 @@ excited, yours truly
 LAMBDA-Crew
 (Andrej & Jonas)
 
-tracklisting:
-01. babySTEPS - Tropical (Original Mix)
-02. Foreigner - Cold As Ice (A.Skillz & Nick Thayer Bootleg)
-03. Drop Goblin - Shake Yer Body (Original Mix)
-04. Oasis - Wonderwall (Milo & Otis Remix)
-05. Dr. Dre - Still California (Wick-it Moombahnton Remix)
-06. The Heavy - How You Like Me Now (Wick-it Moombahton Remix)
-07. Nero - Must Be The Feeling (Delta Heavy Remix)
-08. Pendulum - The Island (Sonik Remix)
-09. Zeds Dead - Adrenaline (Josh Miller Moombahcore Bootleg)
+#### Tracklist
+
+1. babySTEPS - Tropical (Original Mix)
+2. Foreigner - Cold As Ice (A.Skillz & Nick Thayer Bootleg)
+3. Drop Goblin - Shake Yer Body (Original Mix)
+4. Oasis - Wonderwall (Milo & Otis Remix)
+5. Dr. Dre - Still California (Wick-it Moombahnton Remix)
+6. The Heavy - How You Like Me Now (Wick-it Moombahton Remix)
+7. Nero - Must Be The Feeling (Delta Heavy Remix)
+8. Pendulum - The Island (Sonik Remix)
+9. Zeds Dead - Adrenaline (Josh Miller Moombahcore Bootleg)
 10. Cyberpunkers - Dungeon (Original Mix)
 11. Clockwork - Hulk (Dillon France Remix)
 12. gLAdiator - Danger Zone (Original Mix)
@@ -1381,7 +1806,13 @@ tracklisting:
 24. Dillon Francis - Falling Up (Original Mix)
 25. Camo & Crooked - Hot Pursuit (Dubsidia & Beauty Brain Remix)
 
-## ???
+### ???
+
+#### Cover
+
+MISSING
+
+#### Description
 
 In nur einer Woche ist es wieder so weit. LAMBDA kehrt wieder im Backstage ein.
 Als Gast haben wir diesmal Bastian Schulz für ein Bonn Special gewinnen können.
@@ -1399,37 +1830,6 @@ Also wer Bock hat Bonn weiter zu etablieren lässt sich am Samstag mal blicken, 
 greets,
 eure LAMBDA-Crew
 (Andrej & Jonas)
-
-tracklist Bastian Schulz:
-01. DatA - One In A Million (Club Version)
-02. Kavinsky - Testarossa Autodrive (SebastiAn Remix)
-03. Boys Noize & Erol Akan - Roland Rat (Original Mix)
-04. Congorock - Agarta (Original Mix)
-05. Andy's iLL - Lifetime (Drivepilot Remix)
-06. Mr. Skeleton - Talking That Scary (Original Mix)
-07. Pelussje & EternalSeptember - Coresplash (Krftkds Remix)
-
-tracklist tsnm:
-01. Gotye - Somebody That I Used To Know (Dumme Jungs Remix)
-02. Karluv Klub - Warfield (Geometry Remix)
-03. F.O.O.L. - Comboe (Original Mix)
-04. Rocket - Canon In Death (Original Mix)
-05. ¡Ladi Slav! - I've Heard About Jumpin‘ Fears (Original Mix)
-06. LSDA - Nuclear Milk (Original Mix)
-07. Dada Life - Happy Violence (Dead Cat Bounce & Why Not Remix)
-08. PrototypeRaptor - Turn Based (Original Mix)
-09. Yuhei Kubo - Truth (Original Mix)
-10. LaTourette - Eclipse (The 'S' Remix)
-
-tracklist gRASp:
-01. Ostblockschlampen - Bitches vom Ostblock (Original Mix)
-02. Far Too Loud - Megaloud (Original Mix)
-03. Malente - Dwarfs (Sharkslayer Remix)
-04. Zedd - Slam The Door (Original Mix)
-05. Alex Mind - The Mentalist (Original Mix)
-06. Kill The Noise - Kill The Noise (Alvin Risk Remix)
-07. Defunct! - Check The Ladies (Kraymer Remix)
-08. Jay Robinson - Get Mad Now (Filthy Rehab Remix)
 
 #### Promo 1
 
@@ -1473,17 +1873,63 @@ Und damit das Ganze für alle möglichst unterhaltsam wird freuen wir uns natür
 eure LAMBDA-crew \m/
 (Andrej & Jonas)
 
-## Hip-Hop sundays 06.04.2014
+#### Tracklist
 
-01. Mantronik vs. EPMD - Strictly Business (Original Mix)
-02. Pretty Lights vs. Biggie - All I Wanna Do (Skip Work Mashup)
-03. Dizzee Rascal - Fix Up (Ratatat Remix)
-04. Missy Elliot - Wake Up (Ratatat Remix)
-05. Pretty Lights vs. Nate Dogg vs. Eminem - Shake Those Pretty Lights (Skip Work Mashup)
-06. Nate Dogg - Shake That (Wick-it Remix)
-07. Rittz feat. Yelawolf - Sleep At Night (Original Mix)
-08. Gucci Mane - Double (Original Mix)
-09. A-Trak - Call That Girl Margherita (Original Mix)
+##### Bastian Schulz
+1. DatA - One In A Million (Club Version)
+2. Kavinsky - Testarossa Autodrive (SebastiAn Remix)
+3. Boys Noize & Erol Akan - Roland Rat (Original Mix)
+4. Congorock - Agarta (Original Mix)
+5. Andy's iLL - Lifetime (Drivepilot Remix)
+6. Mr. Skeleton - Talking That Scary (Original Mix)
+7. Pelussje & EternalSeptember - Coresplash (Krftkds Remix)
+
+##### TSNM
+1. Gotye - Somebody That I Used To Know (Dumme Jungs Remix)
+2. Karluv Klub - Warfield (Geometry Remix)
+3. F.O.O.L. - Comboe (Original Mix)
+4. Rocket - Canon In Death (Original Mix)
+5. ¡Ladi Slav! - I've Heard About Jumpin‘ Fears (Original Mix)
+6. LSDA - Nuclear Milk (Original Mix)
+7. Dada Life - Happy Violence (Dead Cat Bounce & Why Not Remix)
+8. PrototypeRaptor - Turn Based (Original Mix)
+9. Yuhei Kubo - Truth (Original Mix)
+10. LaTourette - Eclipse (The 'S' Remix)
+
+##### gRASp
+1. Ostblockschlampen - Bitches vom Ostblock (Original Mix)
+2. Far Too Loud - Megaloud (Original Mix)
+3. Malente - Dwarfs (Sharkslayer Remix)
+4. Zedd - Slam The Door (Original Mix)
+5. Alex Mind - The Mentalist (Original Mix)
+6. Kill The Noise - Kill The Noise (Alvin Risk Remix)
+7. Defunct! - Check The Ladies (Kraymer Remix)
+8. Jay Robinson - Get Mad Now (Filthy Rehab Remix)
+
+### Hip-Hop sundays 06.04.2014
+
+#### Cover
+
+MISSING
+
+#### Description
+
+Just messing around a bit on a sunday.
+
+[http://facebook.com/tsnm.22hz](http://facebook.com/tsnm.22hz)  
+[http://soundcloud.com/tsnm](http://soundcloud.com/tsnm)
+
+#### Tracklist
+
+1. Mantronik vs. EPMD - Strictly Business (Original Mix)
+2. Pretty Lights vs. Biggie - All I Wanna Do (Skip Work Mashup)
+3. Dizzee Rascal - Fix Up (Ratatat Remix)
+4. Missy Elliot - Wake Up (Ratatat Remix)
+5. Pretty Lights vs. Nate Dogg vs. Eminem - Shake Those Pretty Lights (Skip Work Mashup)
+6. Nate Dogg - Shake That (Wick-it Remix)
+7. Rittz feat. Yelawolf - Sleep At Night (Original Mix)
+8. Gucci Mane - Double (Original Mix)
+9. A-Trak - Call That Girl Margherita (Original Mix)
 10. A-Trak - Twerk That Driver (Original Mix)
 11. Rockie Fresh - You A Lie (Remix feat. Rick Ross)
 12. Pusha T - King Push (Original Mix)
@@ -1535,8 +1981,55 @@ eure LAMBDA-crew \m/
 58. Snoop Dogg vs. Kirbys' Dreamland - Drop It Like Its Hot (Mashup)
 59. 50 Cent vs. Thomas The Tank - In Da Club (Mashup)
 
+### TSNM presents fatal hiking accident
 
-## EXCUSE ME?!
+#### Cover
+
+![[Pasted image 20221229225014.png]]
+
+#### Description
+
+Heya everyone. First things first, if you hate guitars and get an angry face if you only _think_ of metal, you should leave now, and wait for the next show ;).
+
+This is a small set I did for a local DJ contest, so if I had one wish, go here  
+[www.facebook.com/permalink.php?st…=154522474626570](https://gate.sc?url=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D252555311447723%26id%3D154522474626570&token=2571d7-1-1672349754699 "https://www.facebook.com/permalink.php?story_fbid=252555311447723&id=154522474626570")  
+and leave a like and/or a comment to support me! :)
+
+Won't bother you any more, just listen & enjoy!  
+Next show 05.10., so stay tuned!
+
+#### Tracklist
+
+1. Rammstein - Te quiero Puta! (La Musique D'Ordinateur Rebeat)  
+2. Tom Jones - Black Betty (Monophonique Bootleg Remix)  
+3. SIRsir - Bomboclaat! (Original Mix)  
+4. Slipknot - Duality (Belzebass Remix)  
+5. Q.G. - Razor (Dolores Remix)  
+6. Gör Flsh - Grindclub (Original Mix)  
+7. Davidan - Machine Head (IKKI Remix)  
+8. Owl Vision - Deathstar (Skitsnygg Remix)  
+9. Eternal September vs Pelussje - Coresplash (No Fake? Remix)  
+10. As I Lay Dying - I Never Wanted (Andy's iLL Dubfix)  
+11. Skrillex & Korn - Get Up (Skrillex's Director's Cut)  
+12. Amon Amarth - Pursuit of Vikings (La Musique D'Ordinateur Remix)  
+13. The Blister Boyz - Guitar Heroes Part II (IKKI Remix)  
+14. Slipknot - Psychosocial (La Musique D'Ordinateur Remix)  
+15. Redial - Venom (Drivepilot Remix)  
+16. Caliban - Liar (La Musique D'Ordinateur x TheAnswer Remix)  
+17. Beatbender - Mask off (Spunker Remix)  
+18. The Bloody Beetroots feat. Steve Aoki & Refused - New Noise (Remix Version)  
+19. Rammstein - Du Hast (Gain On Top Remix)  
+20. Owl Vision - The Black Death (Q.G. Remix)  
+21. Metallica - Fuel (La Musique D'Ordinateur Remix)  
+22. Bring Me The Horizon - Death Breath (The Toxic Avenger Remix)
+
+### EXCUSE ME?!
+
+#### Cover
+
+![[Pasted image 20221229222106.png]]
+
+#### Description
 
 TSNM IS BACK
 
@@ -1554,16 +2047,17 @@ tsnm
 http://facebook.com/tsnm.22hz
 http://mixcloud.com/tsnm
 
-tracklisting:
-01. The Bloody Beetroots feat. Penny Rimbaud - The Furious (Original Mix)
-02. Haezer - Ghetto (Original Mix)
-03. Neus - RPRST (Original Mix)
-04. Belzebass - Welcome To Hell (Original Mix)
-05. Figure feat. Helicopter Showdown - Center Of Hell (Original Mix)
-06. FUKK UP! - Suppression Fire (Original Mix)
-07. The Boomzers - Escape From Darkness (Original Mix)
-08. Troublegum - Plumberjack (Original Mix)
-09. Megastrom - 9 Nights (Original Mix)
+#### Tracklist
+
+1. The Bloody Beetroots feat. Penny Rimbaud - The Furious (Original Mix)
+2. Haezer - Ghetto (Original Mix)
+3. Neus - RPRST (Original Mix)
+4. Belzebass - Welcome To Hell (Original Mix)
+5. Figure feat. Helicopter Showdown - Center Of Hell (Original Mix)
+6. FUKK UP! - Suppression Fire (Original Mix)
+7. The Boomzers - Escape From Darkness (Original Mix)
+8. Troublegum - Plumberjack (Original Mix)
+9. Megastrom - 9 Nights (Original Mix)
 10. Cyberpunkers - Beyond The Cover (Original Mix)
 11. The Crystal Method - Sling The Decks (Original Mix)
 12. Access Denied - Resonance (Original Mix)
@@ -1603,26 +2097,35 @@ tracklisting:
 46. Reece Low - Rompa Stomp (Dirt Cheap Remix)
 47. Favright - Levitate (Original Mix)
 
+### TSNM presents pineal gland minimix [w/ visuals]
 
+#### Cover
 
-## TSNM presents pineal gland minimix [w/ visuals]
+![[Pasted image 20221229233043.png]]
+
+#### Description
 
 'Descartes suggested that the pineal gland is "the seat of the soul" for several reasons. First, the soul is unitary, and unlike many areas of the brain the pineal gland appeared to be unitary (though subsequent microscopic inspection has revealed it is formed of two hemispheres). Second, Descartes observed that the pineal gland was located near the ventricles. He believed the cerebrospinal fluid of the ventricles acted through the nerves to control the body, and that the pineal gland influenced this process. Sensations delivered by the nerves to the pineal, he believed, caused it to vibrate in some sympathetic manner, which in turn gave rise to the emotions and caused the body to act.'
 
-Tracklist:
-01. Loquai - Skyhouse (Moshic Remix)
-02. Airwave, DJ Fire - Kabalash (Kintar Remix)
-03. Experimental Feelings - Beauty In Darkness (Phoebus Remix)
-04. Smart Wave - Turquoise (Horizon's Space Remix)
-05. Boral Kibil - Arhat (Original Mix)
-06. DJ Borra, Britt - Until I Fall Asleep (Andrees and Yakoff Remix)
-07. Anton MAKe - Without Looking Back (Moshic Remix)
-
 Visuals: Hand-picked set of Milkdrop2 Visualizations [Winamp + Fraps]
 
+#### Tracklist
 
+1. Loquai - Skyhouse (Moshic Remix)
+2. Airwave, DJ Fire - Kabalash (Kintar Remix)
+3. Experimental Feelings - Beauty In Darkness (Phoebus Remix)
+4. Smart Wave - Turquoise (Horizon's Space Remix)
+5. Boral Kibil - Arhat (Original Mix)
+6. DJ Borra, Britt - Until I Fall Asleep (Andrees and Yakoff Remix)
+7. Anton MAKe - Without Looking Back (Moshic Remix)
 
-## TSNM presents FUTURE BEATS [Filet Mignon Volume II in the mix]
+### TSNM presents FUTURE BEATS [Filet Mignon Volume II in the mix]
+
+#### Cover
+
+![[Pasted image 20221229222218.png]]
+
+#### Description
 
 3 days ago https://soundcloud.com/pointpoint released the second volume of Filet Mignon. A (free!) compilation of mostly original productions. Been hearing it on repeat pretty much since, developing a strong desire to listen to it mixed. So that's why this mix exists! All tracks are taken from Filet Mignon Volume II, no exceptions.
 
@@ -1641,16 +2144,29 @@ Nömak: https://soundcloud.com/thisisnomak
 
 Hope you enjoy the music, and als always: Keep an open mind & if you can, download the 320kbps version. Lot's of great production in those tracks, this was not done with 128kbps SoundCloud-streaming in mind!
 
-Tracklist:
-01. Phazz - Insomnia (Original Mix)
-02. Aglory - Gank (Original Mix)
-03. Aazar - Masala (Original Mix)
-04. Donovans - Junkmoney (Original Mix)
-05. Madame - Glorosia (Original Mix)
-06. Les Tronchiennes - Noisy Kids (Original Mix)
-07. Alesia - H.T (Original Mix)
-08. Devoted to God - Kimono (Original Mix)
-09. Nömak & L'homme aux 4 lettres - Horsequake (Original Mix)
+#### Promo 1
+
+https://soundcloud.com/tsnm/tsnm-presents-future-beats-filet-mignon-volume-ii-in-the-mix
+
+hey & ho everyone!
+
+time for some new music! couldn't keep my fingers from the controller when hearing this kick-ass compilation by Point Point﻿. and the best thing? it's all free! so if you like the set, be sure to grab yourself the compilation, and like Point Point on Facebook to stay up to date on this great collective:
+https://soundcloud.com/pointpoint/sets/filet-mignon-vol2
+https://www.facebook.com/pointpointparis
+
+Point Point is a collective by artists Aazar, Devoted to god, L'homme aux 4 lettres & Nömak
+
+#### Tracklist
+
+1. Phazz - Insomnia (Original Mix)
+2. Aglory - Gank (Original Mix)
+3. Aazar - Masala (Original Mix)
+4. Donovans - Junkmoney (Original Mix)
+5. Madame - Glorosia (Original Mix)
+6. Les Tronchiennes - Noisy Kids (Original Mix)
+7. Alesia - H.T (Original Mix)
+8. Devoted to God - Kimono (Original Mix)
+9. Nömak & L'homme aux 4 lettres - Horsequake (Original Mix)
 10. Kource - Wesh (Original Mix)
 11. Tielsie - Mary Jane (Original Mix)
 12. San Holo - Hiding (ft. The Nicholas) (Original Mix)
@@ -1661,33 +2177,28 @@ Tracklist:
 17. D-Bass & Wongo - Limitless (Original Mix)
 18. Yung Lean - Kyoto (Habstrakt Flip)
 
-https://soundcloud.com/tsnm/tsnm-presents-future-beats-filet-mignon-volume-ii-in-the-mix
+### TSNMs appreciation of beauty
 
-## TSNM presents FUTURE BEATS [Filet Mignon Volume II in the mix]
+#### Cover
 
-hey & ho everyone!
+![[Pasted image 20221229222352.png]]
 
-time for some new music! couldn't keep my fingers from the controller when hearing this kick-ass compilation by Point Point﻿. and the best thing? it's all free! so if you like the set, be sure to grab yourself the compilation, and like Point Point on Facebook to stay up to date on this great collective:
-https://soundcloud.com/pointpoint/sets/filet-mignon-vol2
-https://www.facebook.com/pointpointparis
-
-Point Point is a collective by artists Aazar, Devoted to god, L'homme aux 4 lettres & Nömak
-
-## TSNMs appreciation of beauty
+#### Description
 
 “Aesthetics (/ɛsˈθɛtɪks/; also spelled æsthetics and esthetics) is a branch of philosophy dealing with the nature of art, beauty, and taste, with the creation and appreciation of beauty. It is more scientifically defined as the study of sensory or sensori-emotional values, sometimes called judgments of sentiment and taste. More broadly, scholars in the field define aesthetics as "critical reflection on art, culture and nature."
 - en.wikipedia.org/wiki/Aesthetics
 
-Tracklist:
-01. Marian Hill - Got it (Original Mix)
-02. Zella Day - Hypnotic (Original Mix)
-03. Mazde feat. Le Mar - Shifted Thoughts (Original Mix)
-04. AutoLaser - I Need You (Original Mix)
-05. Marlene - I Do This For You (Original Mix)
-06. Janet Jackson - Rock With U (FS Green Rework)
-07. Elliphant - Never Been In Love (Original Mix)
-08. Phantogram - My Only Friend (Original Mix)
-09. GEMS - Sinking Stone (Original Mix)
+#### Tracklist
+
+1. Marian Hill - Got it (Original Mix)
+2. Zella Day - Hypnotic (Original Mix)
+3. Mazde feat. Le Mar - Shifted Thoughts (Original Mix)
+4. AutoLaser - I Need You (Original Mix)
+5. Marlene - I Do This For You (Original Mix)
+6. Janet Jackson - Rock With U (FS Green Rework)
+7. Elliphant - Never Been In Love (Original Mix)
+8. Phantogram - My Only Friend (Original Mix)
+9. GEMS - Sinking Stone (Original Mix)
 10. Latch - Roadiivegas (Original Mix)
 11. Sinead Harnett - High Wire (Original Mix)
 12. Judgement of Yesterday - Sober Thoughts (Original Mix)
@@ -1703,9 +2214,13 @@ Tracklist:
 22. Jake Hart - Awake (Original Mix)
 23. Blackbear - idfc (Original Mix)
 
+### TSNM loves the future
 
+#### Cover
 
-## TSNM loves the future
+![[Pasted image 20221229222407.png]]
+
+#### Description
 
 "There are things known and there are things unknown, and in between are the doors of perception."
 
@@ -1715,16 +2230,17 @@ Tracklist:
 
 - Aldous Huxley
 
-Tracklist:
-01. RL Grime - Monsoon (Original Mix)
-02. JumoDaddy - Black Horse (NGHTMRE Remix)
-03. Louis Futon - Silk (Kill Paris Remix)
-04. AutoLaser - I Need You (Original Mix)
-05. Epic Empire - Landscape (Original Mix)
-06. Mazde - Forest of Gold (Original Mix)
-07. Baauer feat. AlunaGeorge - One Touch (VIP Remix)
-08. Slumberjack - Horus (Original Mix)
-09. SAFIA - You Are The One (Original Mix)
+#### Tracklist
+
+1. RL Grime - Monsoon (Original Mix)
+2. JumoDaddy - Black Horse (NGHTMRE Remix)
+3. Louis Futon - Silk (Kill Paris Remix)
+4. AutoLaser - I Need You (Original Mix)
+5. Epic Empire - Landscape (Original Mix)
+6. Mazde - Forest of Gold (Original Mix)
+7. Baauer feat. AlunaGeorge - One Touch (VIP Remix)
+8. Slumberjack - Horus (Original Mix)
+9. SAFIA - You Are The One (Original Mix)
 10. Pham feat. Yung Fusion - Movements (Original Mix)
 11. ODESZA - Say My Name ft. Zyra (Jai Wolf Remix)
 12. Milo Mills - Fake Idol Worship (Original Mix)
@@ -1750,6 +2266,49 @@ Tracklist:
 32. Justin Timberlake - What Goes Around… Comes Around (MUTO Remix)
 33. Arca - Thievery (Original Mix)
 34. Chrome Sparks - Goddess (Original Mix)
+
+
+# Mashups
+
+## Gucci Mane vs. Wick-it The Instigator - Gucci Krunk (tsnms' Future Mane Trap Mashup)
+
+### Cover
+
+![[Pasted image 20221229221953.png]]
+
+### Description
+
+Okay, so this has been in my head since I mixed those very two tracks about 2 weeks ago.
+They just seemed like a perfect fit, so here is a mashup I threw together over the weekend, hope you like it! \m/
+
+This is, btw., the very first material I've produced that is 'released' officially as tsnm.
+But don't worry, I won't continue with Trap, actually working on some Maximal / Metalectro material, so stay tuned!
+
+Gucci Mane - Club Hoppin' (Original Mix) vs.
+Wick-it The Instigator - Future Krunk (Original Mix)
+
+Both tracks are available freely:
+here: http://soundcloud.com/wick-it/wick-it-the-instigator-future
+and here: http://mixtapewire.com/music/2012/01/gucci-mane-club-hoppin
+
+And I'd LOVE to hear your feedback, and if you like it, feel free to spread it! \m/
+
+Bit.ly:
+Name: DOWNLOAD Gucci Mane vs. Wick-it The Instigator - Gucci Krunk (tsnms' Future Mane Mashup)
+Note: For more info visit me at http://facebook.com/tsnm.22hz && http://soundcloud.com/tsnm \m/
+
+### Promo 1
+
+Hey mate!
+Saw you guys posting some Trap on your blog, so maybe this is something for you.
+Quick & fun weekend project of mine, a mashup of Gucci Manes' Club Hoppin & Wick-it The Instigators' Future Krunk, and it's free, too,
+
+cheeeers,
+Jonas / tsnm
+
+http://soundcloud.com/tsnm
+http://twitter.com/tsnmp
+http://facebook.com/tsnm.22hz
 
 
 # Setlists
