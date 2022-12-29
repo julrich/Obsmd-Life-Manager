@@ -40,6 +40,13 @@
           "type": "Macro",
           "command": false,
           "macroId": "ec0916a8-5960-4bc9-9cb3-dd26f01de873"
+        },
+        {
+          "id": "836bbe0c-c899-41b8-88a3-f08c4f4f2579",
+          "name": "+ Meeting",
+          "type": "Macro",
+          "command": false,
+          "macroId": null
         }
       ],
       "collapsed": false
@@ -424,6 +431,85 @@
       "name": "+ Note",
       "id": "64b9fe98-41e8-41bd-939a-a3483018b26f",
       "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "+ Meeting",
+      "id": "055f3a3f-d3b6-45d2-9cf0-7fadd70cb155",
+      "commands": [
+        {
+          "name": "Value Template",
+          "type": "NestedChoice",
+          "id": "176fdafe-c681-4074-937a-b07ba579cb90",
+          "choice": {
+            "id": "424f4a24-2406-4e61-838f-faf2db45b97e",
+            "name": "Value Template",
+            "type": "Template",
+            "command": false,
+            "templatePath": "04 Templates/Meeting Template",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE: Value Name}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "01 Notes/02 Resources/03 Meetings"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Why",
+          "type": "NestedChoice",
+          "id": "d7d7af9b-bdb4-4d68-ada5-238d41338399",
+          "choice": {
+            "id": "6f93b2b9-176e-4af2-be55-d9c0cff29c82",
+            "name": "Why",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[Why :: {{VALUE: Your Why}}]"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
       "runOnStartup": false
     }
   ],

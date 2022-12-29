@@ -29,6 +29,10 @@
     {
       "folder": "03 Periodic/03 Monthly",
       "template": "04 Templates/Monthly Template.md"
+    },
+    {
+      "folder": "01 Notes/02 Resources/03 Meetings",
+      "template": "04 Templates/Meeting Template.md"
     }
   ],
   "syntax_highlighting": true,
