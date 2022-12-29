@@ -11,8 +11,12 @@
             "id": "2fddca6a2ee0f2cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Übergabe Michael Micke.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -128,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Übergabe Michael Micke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,15 +177,15 @@
   },
   "active": "2fddca6a2ee0f2cd",
   "lastOpenFiles": [
+    "01 Notes/Obsidian.md",
+    "01 Notes/Mechanical Keyboards.md",
+    "02 Action/02 Projects/Second Brain.md",
+    "02 Action/02 Projects/02 Projects.md",
+    "02 Action/02 Action.md",
+    "Home.md",
+    "04 Templates/Project Template.md",
+    "03 Periodic/01 Daily/01 Daily.md",
     "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Übergabe.md",
-    "04 Templates/Meeting Template.md",
-    "01 Notes/02 Resources/03 Meetings/2022-12-29 - test.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-27.md",
-    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Übergabe Michael Micke.md",
-    "04 Templates/Goal Template.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
-    "04 Templates/Daily Template.md",
-    "01 Notes/02 Resources/03 Meetings/2022-12-29-ExE Übergabe Michael Micke.md",
-    "01 Notes/02 Resources/03 Meetings/Lorem.md"
+    "04 Templates/Meeting Template.md"
   ]
 }
