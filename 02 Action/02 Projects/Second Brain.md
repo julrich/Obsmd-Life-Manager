@@ -24,6 +24,10 @@ tags: project
 - [ ] [[Obsidian]]: Auto-download images for web clippings
 - [ ] [[Obsidian]]: Fix / lessen padding for pages in small columns (like context column / Tasks)
 - [ ] [[Obsidian]]: Add Frontmatter fields for meeting note dates based on Templater
+- [ ] [[Obsidian]]: Add template for people: [[My Obsidian GTD setup#^258619]]
+- [ ] [[Obsidian]]: Integrate tasks generated from `01 Notes` into [[01 Tasks]]
+- [ ] [[Obsidian]]: Add dashboards to new folders (`01 Notes`, et al) , link in [[Home]]
+- [ ] [[Obsidian]]: Add related meeting notes to daily notes automatically (`dataviewjs`?)
 
 ### Links
 

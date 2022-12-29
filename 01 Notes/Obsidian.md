@@ -18,7 +18,7 @@
 * https://daryl.wakatara.com/my-obsidian-gtd-setup/
   Clipped: [[My Obsidian GTD setup]]
 * https://github.com/EliWimmer/Obsmd-Life-Manager
-* https://www.youtube.com/watch?v=lKYBB-Uw1IM
+* How I use Notion as a Resonance Calendar: https://www.youtube.com/watch?v=lKYBB-Uw1IM
 * https://medium.com/@guywiener/para-gtd-obsidian-setup-d7f30b1dbb0c
   Clipped: [[PARA+GTD Obsidian setup]]
 
@@ -35,6 +35,11 @@
 ## Plugins
 
 - Starred repos file https://github.com/maguowei/starred
+
+## How To Use
+
+- Tabs in Obsidian (new in v1.0): https://www.youtube.com/watch?v=mmmJCttfA_o
+- Obsidian As A Second Brain: The ULTIMATE Tutorial: https://www.youtube.com/watch?v=WqKluXIra70
 
 ## Projects
 

@@ -195,6 +195,8 @@ Explanation on the fields:
 
 ## Peeps[](#peeps)
 
+^258619
+
 I always feel a bit bad I don’t keep in touch with far-flung friends and colleagues often enough. Like everyone, I get busy and probably don’t keep in contact with people outside my immedaite circle enough.
 
 I created a lightweight system which keeps people I haven’t spoken to in a while as a form of a “ping” task and also tracks my communications with them that I’ve logged or referred to. The other nice thing here is that this same system also helps track tasks that may be assigned to my directors or other people in the organization for when I’m tracking where things are or need to follow up on promised completions.
