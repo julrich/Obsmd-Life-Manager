@@ -29,6 +29,6 @@ Attendees: [[Michael Micke]]
 	- [#17778 Pricefinder-Block in die Journey Engine integrieren](https://resources.bonn.taktsoft.com/redmine/issues/17778)
 
 # Action items
-- [ ] Tasks & Projects Completed, Processed or Delegated
+- [x] Tasks & Projects Completed, Processed or Delegated
 - [ ] Have a look at the redirect loop locally 🔼 ⏳ 2022-12-30 📅 2023-01-06
 - [ ] Create area and project for ExE ⏫ ⏳ 2022-12-30 📅 2022-12-30

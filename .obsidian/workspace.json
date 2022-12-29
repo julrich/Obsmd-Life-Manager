@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
+                "file": "01 Notes/01 Areas/01 Music/TSNM.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
       {
         "id": "0003c837686956b2",
         "type": "tabs",
-        "dimension": 83.62068965517241,
+        "dimension": 66.80161943319838,
         "children": [
           {
             "id": "aab476c12dc0c7ff",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
+                "file": "01 Notes/01 Areas/01 Music/TSNM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
       {
         "id": "6084d959b6f01e01",
         "type": "tabs",
-        "dimension": 16.379310344827587,
+        "dimension": 33.198380566801625,
         "children": [
           {
             "id": "0b3c00f50d062893",
@@ -190,15 +190,15 @@
   },
   "active": "6541f6ce6ba7e8dd",
   "lastOpenFiles": [
+    "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
     "02 Action/02 Projects/Second Brain.md",
     "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Übergabe Michael Micke.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
-    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-27.md",
     "02 Action/01 Tasks/01 Tasks.md",
-    "02 Action/02 Projects/Ergonomic Keyboard.md",
-    "01 Notes/Obsidian.md",
-    "02 Action/03 Goals/03 Goals.md"
+    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md",
+    "03 Periodic/02 Weekly/2022/02-February/2022-W10.md",
+    "03 Periodic/02 Weekly/02 Weekly.md",
+    "01 Notes/01 Areas/01 Music/TSNM.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-27.md"
   ]
 }
