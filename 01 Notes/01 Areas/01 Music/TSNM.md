@@ -18,6 +18,7 @@
 - [ ] Add locations to parties
 - [ ] Add missing covers
 - [ ] Search for more reactions / shoutouts (e.g. Facebook)
+- [ ] Add runtimes to entries
 
 # Mixtapes
 
