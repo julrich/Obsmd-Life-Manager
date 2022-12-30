@@ -9,8 +9,10 @@ banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp
 ⠀
 ###### [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|↶ YESTERDAY]] ⁝ [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>|TOMORROW ↷]]
 # ◌ <% tp.date.now("dddd -  MMMM Do YYYY", 0, tp.file.title, "(📅) YYYY-MM-DD") %>
-#### ✓  TASKS
 
+## Structured
+
+#### ✓  TASKS
 ######  ↑ TOP TASK
 ```tasks
 due before <% tp.date.now("YYYY-MM-DD",1, tp.file.title, "YYYY-MM-DD") %>
@@ -32,7 +34,6 @@ done date is <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
 hide task count
 ```
 ####  ↻ DAILIES
-
 ###### ◧ MORNING JOURNAL
 [Daily Intention :: ]
 
@@ -47,3 +48,9 @@ hide task count
 
 ###### ◨ EVENING JOURNAL
 [Focus status ::]
+
+## Meetings
+
+## Notes
+
+## Links

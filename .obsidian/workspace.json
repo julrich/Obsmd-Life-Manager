@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Übergabe Michael Micke.md",
+                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6541f6ce6ba7e8dd",
+            "id": "62ca44a8a53d1bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/01 Areas/01 Music/TSNM.md",
+                "file": "04 Templates/Daily Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "fe67485288c71cbe",
@@ -134,12 +133,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/01 Areas/01 Music/TSNM.md"
+                "file": "04 Templates/Daily Template.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6084d959b6f01e01",
@@ -158,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,17 +169,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6541f6ce6ba7e8dd",
+  "active": "62ca44a8a53d1bf0",
   "lastOpenFiles": [
-    "02 Action/02 Projects/Second Brain.md",
-    "01 Notes/Obsidian.md",
-    "01 Notes/01 Areas/01 Music/TSNM.md",
-    "02 Action/01 Tasks/01 Tasks.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
-    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Übergabe Michael Micke.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-30.md",
     "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
-    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md",
-    "03 Periodic/02 Weekly/2022/02-February/2022-W10.md",
-    "03 Periodic/02 Weekly/02 Weekly.md"
+    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-27.md",
+    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
+    "01 Notes/Obsidian.md",
+    "02 Action/02 Projects/Ergonomic Keyboard.md",
+    "02 Action/02 Projects/Second Brain.md",
+    "04 Templates/Daily Template.md",
+    "01 Notes/02 Resources/Clipped/6 Useful Templates for Obsidian.md"
   ]
 }

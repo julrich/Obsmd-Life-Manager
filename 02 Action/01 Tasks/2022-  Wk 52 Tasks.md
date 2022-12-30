@@ -1,4 +1,4 @@
-- [ ] Create ExE area and link meeting note [[2022-12-29 - ExE Übergabe Michael Micke]] 🔼 📅 2022-12-31
+- [ ] Create ExE area and link meeting note [[2022-12-29 - ExE Handover Michael Micke]] 🔼 📅 2022-12-31
 
 - [ ] Re-create christmas dub mix 📅 2023-03-27
 

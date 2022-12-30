@@ -27,6 +27,12 @@
 	- ![[Pasted image 20221228124423.png]]
 	- ![[Pasted image 20221228124500.png]]
 - GMK Grand Prix
+	- Images
+		- ![[Pasted image 20221230165825.png]]
+		- ![[Pasted image 20221230170151.png]]
+		- ![[Pasted image 20221230170202.png]]
+		- ![[Pasted image 20221230170207.png]]
+		- ![[Pasted image 20221230170214.png]]
 	- Keycap overview: https://matrixzj.github.io/docs/gmk-keycaps/Grand-Prix/
 	- GMK Grand Prix Base Kit
 		- https://novelkeys.com/products/gmk-grand-prix?variant=36492567576743
