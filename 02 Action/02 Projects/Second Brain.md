@@ -28,6 +28,7 @@ tags: project
 - [ ] [[Obsidian]]: Integrate tasks generated from `01 Notes` into [[01 Tasks]]
 - [ ] [[Obsidian]]: Add dashboards to new folders (`01 Notes`, et al) , link in [[Home]]
 - [ ] [[Obsidian]]: Add related meeting notes to daily notes automatically (`dataviewjs`?)
+- [ ] [[Obsidian]] Integrate with file archive
 
 ### Links
 

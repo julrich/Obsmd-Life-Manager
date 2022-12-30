@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe67485288c71cbe",
@@ -157,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,15 +173,15 @@
   },
   "active": "6541f6ce6ba7e8dd",
   "lastOpenFiles": [
+    "02 Action/02 Projects/Second Brain.md",
+    "01 Notes/Obsidian.md",
+    "01 Notes/01 Areas/01 Music/TSNM.md",
     "02 Action/01 Tasks/01 Tasks.md",
     "03 Periodic/01 Daily/2022/12-December/2022-12-28.md",
-    "01 Notes/01 Areas/01 Music/TSNM.md",
     "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Übergabe Michael Micke.md",
     "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
-    "02 Action/02 Projects/Second Brain.md",
     "02 Action/01 Tasks/2022-  Wk 52 Tasks.md",
     "03 Periodic/02 Weekly/2022/02-February/2022-W10.md",
-    "03 Periodic/02 Weekly/02 Weekly.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-27.md"
+    "03 Periodic/02 Weekly/02 Weekly.md"
   ]
 }
