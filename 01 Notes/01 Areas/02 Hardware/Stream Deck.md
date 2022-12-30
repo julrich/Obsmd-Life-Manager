@@ -1,0 +1,1 @@
+Compatibility for Linux / Arch: https://aur.archlinux.org/packages/streamdeck-ui

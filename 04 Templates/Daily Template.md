@@ -48,6 +48,7 @@ hide task count
 
 ###### ◨ EVENING JOURNAL
 [Focus status ::]
+[Daily Note finished :: ➖]
 
 ## Meetings
 

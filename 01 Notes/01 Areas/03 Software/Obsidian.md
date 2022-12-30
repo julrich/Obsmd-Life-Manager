@@ -10,6 +10,9 @@
 - Write `dataviewjs` queries for dashboards: https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/
 - Projects are stuck when no `#wait` or `#next` Task included according to [[PARA+GTD Obsidian setup#^345758]]
 - Add new Projects to list at the end of [[02 Projects]]
+- Finish Daily Note every evening, includes:
+	- Having noted all meetings, notes and links
+	- Having processed all action items, moved all relevant links to respective pages in areas, projects and tasks
 
 # Inspiration
 
