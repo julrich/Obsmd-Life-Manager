@@ -80,6 +80,10 @@
 	- For black / dark keys
 	- https://mykeyboard.eu/catalogue/gmk-toxic-base-kit_1547/
 	- ![[Pasted image 20221230182208.png]]
+- Sea-Picro
+	- https://customkbd.com/products/sea-picro?_pos=1&_sid=50beea8f0&_ss=r
+	- ![[Pasted image 20221231145529.png]]
+	- ![[Pasted image 20221231145537.png]]
 
 ### Places to look
 
