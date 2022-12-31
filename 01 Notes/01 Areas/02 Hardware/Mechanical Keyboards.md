@@ -48,10 +48,13 @@
 		- https://www.reddit.com/r/mechmarket/comments/vqr51y/usor_h_gmk_deku_gmk_retrocast_gmk_space_cadet_gmk/
 		- https://candykeys.com/product/gmk-grand-prix-space-kit
 		- ![[Pasted image 20221228120356.png]]
-	- Kailh Speed Bronze Switches
-		- https://www.caseking.de/glorious-kailh-speed-bronze-switches-120-stueck-gakc-068.html
+- Kailh Speed Bronze Switches
+		- Shop: https://www.caseking.de/glorious-kailh-speed-bronze-switches-120-stueck-gakc-068.html
+		- Tracking: https://www.dhl.de/de/privatkunden/pakete-empfangen/verfolgen.html?piececode=156205778203
 		- ![[Pasted image 20221228120549.png]]
-
+- USB-C Cable
+	- https://www.etsy.com/de/listing/1189082143/gewickeltes-kabel-rgb-leuchtendes
+	- ![[Pasted image 20221228122044.png]]
 ### Needed
 
 - GMK Grand Prix 40s Kit
@@ -60,9 +63,6 @@
 - GMK Grand Prix Addon Kit
 	- https://candykeys.com/product/gmk-grand-prix-addon-kit
 	- ![[Pasted image 20221228120300.png]]
-- USB-C Cable
-	- https://www.etsy.com/de/listing/1189082143/gewickeltes-kabel-rgb-leuchtendes
-	- ![[Pasted image 20221228122044.png]]
 - TRRS Cable
 	- https://www.etsy.com/de/listing/1377899017/benutzerdefiniertes-geteilte-tastatur
 	- ![[Pasted image 20221228122145.png]]
