@@ -1,3 +1,7 @@
+- [ ] Load random image from Unsplash (e.g. [reddit thread](https://www.reddit.com/r/ObsidianMD/comments/uq8qol/random_image_when_loading_the_daily_note/))   📅 2022-12-31
+
+- [ ] Migrate remaining, old notes ([[index|Migrate]]) 🔼 📅 2023-01-01
+
 - [ ] Create Area and Project for apartment and childrens room ⏫ 📅 2022-12-31
 
 - [ ] Create ExE area and link meeting note [[2022-12-29 - ExE Handover Michael Micke]] 🔼 📅 2022-12-31

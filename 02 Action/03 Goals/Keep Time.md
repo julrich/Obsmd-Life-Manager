@@ -3,7 +3,7 @@ tags: goal
 ---
 # Keep time
 
-[Why :: For better book keeping]  ⠀•⠀ [Value:: [[Be Focused]]]  ⠀•⠀ [Deadline :: 📅 2022-01-30]  ⠀•⠀ [Complete :: ❌]
+[Why :: For better book keeping]  ⠀•⠀ [Value:: [[Be Focused]]]  ⠀•⠀ [Deadline :: 📅 2023-01-30]  ⠀•⠀ [Complete :: ❌]
 
 ---
 ## Related Projects

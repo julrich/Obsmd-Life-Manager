@@ -8,11 +8,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiStickyNoteLine",
-      "RiEyeLine",
-      "RiCheckLine",
-      "RiLineHeight",
-      "RiCalendar2Line"
+      "RiLayoutMasonryLine",
+      "RiCustomerService2Line",
+      "RiVideoLine",
+      "RiContactsBookLine",
+      "RiBroadcastLine"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -26,7 +26,6 @@
   "03 Periodic": "RiCalendarLine",
   "04 Templates": "RiFileEditLine",
   "05 Attachments": "RiImage2Line",
-  "06 Guide": "RiQuestionLine",
   "02 Action/02 Projects": "RiRuler2Line",
   "02 Action/03 Goals": "RiArrowRightUpLine",
   "02 Action/04 Values": "RiVipDiamondLine",
@@ -35,5 +34,12 @@
   "03 Periodic/03 Monthly": "RiCalendarEventLine",
   "02 Action/01 Tasks/Views": "RiEyeLine",
   "02 Action/01 Tasks": "RiCheckLine",
-  "01 Notes": "RiStickyNoteLine"
+  "01 Notes": "RiStickyNoteLine",
+  "07 Guide": "RiQuestionLine",
+  "Untitled": "RiArchiveDrawerLine",
+  "01 Notes/01 Areas": "RiLayoutMasonryLine",
+  "01 Notes/02 Resources": "RiArticleLine",
+  "01 Notes/02 Resources/01 People": "RiContactsBookLine",
+  "01 Notes/02 Resources/02 Media": "RiVideoLine",
+  "01 Notes/02 Resources/03 Meetings": "RiCustomerService2Line"
 }

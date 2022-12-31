@@ -1,9 +1,9 @@
 ---
 tags: goal
 ---
-# Review Subscriptions
+# Organize digital assets
 
-[Why :: To save money]  ⠀•⠀ [Value:: [[Be Organized]]]  ⠀•⠀ [Deadline :: 📅 2023-01-31]  ⠀•⠀ [Complete :: ❌]
+[Why :: To not lose valuable memories]  ⠀•⠀ [Value:: [[Be Organized]]]  ⠀•⠀ [Deadline :: 📅 2023-02-15]  ⠀•⠀ [Complete :: ❌]
 
 ---
 ## Related Projects

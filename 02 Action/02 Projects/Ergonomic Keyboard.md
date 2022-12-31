@@ -3,7 +3,7 @@ tags: project
 ---
 # Ergonomic Keyboard
 
-[Goal :: [[Find focus]]]  ⠀•⠀ [Deadline :: 📅 2022-02-28 ] ⠀•⠀ [Complete :: ❌]
+[Goal :: [[Find Focus]]]  ⠀•⠀ [Deadline :: 📅 2022-02-28 ] ⠀•⠀ [Complete :: ❌]
 [Target :: Have a working ergonomic split keyboard]
 
 
