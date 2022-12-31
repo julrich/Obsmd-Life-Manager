@@ -8,11 +8,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiVideoChatLine",
+      "RiKeyboardLine",
+      "RiReactjsLine",
       "RiClipboardLine",
-      "RiLayoutMasonryLine",
-      "RiCustomerService2Line",
-      "RiVideoLine",
-      "RiContactsBookLine"
+      "RiLayoutMasonryLine"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -42,5 +42,8 @@
   "01 Notes/02 Resources/01 People": "RiContactsBookLine",
   "01 Notes/02 Resources/02 Media": "RiVideoLine",
   "01 Notes/02 Resources/03 Meetings": "RiCustomerService2Line",
-  "01 Notes/02 Resources/04 Clipped": "RiClipboardLine"
+  "01 Notes/02 Resources/04 Clipped": "RiClipboardLine",
+  "01 Notes/02 Resources/10 Nerdy Coding": "RiReactjsLine",
+  "01 Notes/02 Resources/11 Mechanical Keyboards": "RiKeyboardLine",
+  "01 Notes/02 Resources/12 Streaming": "RiVideoChatLine"
 }
