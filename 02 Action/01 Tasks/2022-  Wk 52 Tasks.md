@@ -1,4 +1,4 @@
-- [ ] Load random image from Unsplash (e.g. [reddit thread](https://www.reddit.com/r/ObsidianMD/comments/uq8qol/random_image_when_loading_the_daily_note/))   📅 2022-12-31
+- [ ] Load random image from Unsplash (e.g. [reddit thread](https://www.reddit.com/r/ObsidianMD/comments/uq8qol/random_image_when_loading_the_daily_note/), [Templater](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/web-module.html))   📅 2022-12-31
 
 - [ ] Migrate remaining, old notes ([[index|Migrate]]) 🔼 📅 2023-01-01
 

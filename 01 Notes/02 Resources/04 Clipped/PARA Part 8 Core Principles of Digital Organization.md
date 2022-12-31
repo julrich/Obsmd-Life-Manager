@@ -1,7 +1,7 @@
 author:: Tiago Forte
 source:: [PARA Part 8: Core Principles of Digital Organization - Forte Labs](https://fortelabs.com/blog/p-a-r-a-viii-core-principles/)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2022-06-10
 
 #clippings
 

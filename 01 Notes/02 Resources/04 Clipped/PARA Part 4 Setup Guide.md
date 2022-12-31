@@ -1,7 +1,7 @@
 author:: Tiago Forte
 source:: [PARA Part 4: Setup Guide - Forte Labs](https://fortelabs.com/blog/para-setup-guide/)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2017-07-23
 
 #clippings
 

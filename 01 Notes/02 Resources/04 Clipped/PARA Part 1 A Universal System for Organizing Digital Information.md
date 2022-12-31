@@ -1,7 +1,7 @@
 author:: Tiago Forte
 source:: [The PARA Method: A Universal System for Organizing Digital Information - Forte Labs](https://fortelabs.com/blog/para/)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2017-02-08 
 
 #clippings
 

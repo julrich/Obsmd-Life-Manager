@@ -1,7 +1,7 @@
 author:: Tiago Forte
 source:: [PARA Part 5: The Project List Mindsweep - Forte Labs](https://fortelabs.com/blog/p-a-r-a-v-the-project-list-mindsweep/)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2018-01-17
 
 #clippings
 

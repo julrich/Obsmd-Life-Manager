@@ -1,7 +1,7 @@
 author:: Tiago Forte
 source:: [PARA Part 3: RandomNote – Building an Idea Generator - Forte Labs](https://fortelabs.com/blog/p-a-r-a-iii-building-an-idea-generator/)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2017-07-13
 
 #clippings
 

@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-31.md",
-                "mode": "preview",
+                "file": "01 Notes/02 Resources/04 Clipped/PARA Part 1 A Universal System for Organizing Digital Information.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-31.md"
+                "file": "01 Notes/02 Resources/04 Clipped/PARA Part 1 A Universal System for Organizing Digital Information.md"
               }
             }
           }
@@ -183,15 +183,15 @@
   },
   "active": "d8efd04911dc3abd",
   "lastOpenFiles": [
-    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md",
-    "01 Notes/02 Resources/Clipped/PARA Part 1 A Universal System for Organizing Digital Information.md",
     "01 Notes/01 Areas/03 Software/Obsidian.md",
-    "02 Action/01 Tasks/Migrate.md",
-    "02 Action/01 Tasks/01 Tasks.md",
-    "03 Periodic/01 Daily/2022/12-December/2022-12-31.md",
-    "03 Periodic/03 Monthly/03 Monthly.md",
-    "03 Periodic/03 Monthly/2022/2022 - 02-February.md",
-    "03 Periodic/02 Weekly/2022/02-February/2022-W08.md",
-    "03 Periodic/02 Weekly/02 Weekly.md"
+    "02 Action/02 Projects/Initialize Second Brain.md",
+    "01 Notes/02 Resources/04 Clipped/PARA Part 1 A Universal System for Organizing Digital Information.md",
+    "01 Notes/02 Resources/04 Clipped/PARA+GTD Obsidian setup.md",
+    "01 Notes/02 Resources/04 Clipped/PARA Part 3 RandomNote – Building an Idea Generator.md",
+    "01 Notes/02 Resources/04 Clipped/PARA Part 2 Operations Manual.md",
+    "01 Notes/02 Resources/04 Clipped/Naming Tokens in Design Systems.md",
+    "01 Notes/02 Resources/04 Clipped/My Obsidian GTD setup.md",
+    "01 Notes/02 Resources/04 Clipped/6 Useful Templates for Obsidian.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-28.md"
   ]
 }

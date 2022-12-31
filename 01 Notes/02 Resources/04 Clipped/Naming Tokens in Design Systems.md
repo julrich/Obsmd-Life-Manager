@@ -1,7 +1,7 @@
 author:: Nathan Curtis
 source:: [Naming Tokens in Design Systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
 clipped:: [[2022-12-27]]
-published:: 
+published:: 2020-10-15
 
 #clippings
 

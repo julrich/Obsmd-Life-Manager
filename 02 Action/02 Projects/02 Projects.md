@@ -46,5 +46,5 @@ if (stuck.length > 0) {
 ```
 # All Projects
 
-- [[Ergonomic Keyboard]]
-- [[Second Brain]]
+- [[Assemble Ergonomic Keyboard]]
+- [[Initialize Second Brain]]

@@ -1,7 +1,7 @@
 author:: Filipe Donadio
 source:: [6 Useful Templates for Obsidian](https://filipedonadio.com/6-useful-templates-for-obsidian/)
 clipped:: [[2022-12-29]]
-published:: 
+published:: 2021-06-24
 
 #clippings
 

@@ -1,7 +1,7 @@
 author:: Daryl Manning
 source:: [My Obsidian GTD setup](https://daryl.wakatara.com/my-obsidian-gtd-setup/)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2022-05-12
 
 #clippings
 

@@ -1,7 +1,7 @@
 author:: Guy Wiener
 source:: [PARA+GTD Obsidian setup](https://medium.com/@guywiener/para-gtd-obsidian-setup-d7f30b1dbb0c)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2022-03-27
 
 #clippings
 

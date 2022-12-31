@@ -1,7 +1,7 @@
 author:: Tiago Forte
 source:: [PARA Part 7: Creating a Project Network - Forte Labs](https://fortelabs.com/blog/p-a-r-a-part-vii-creating-a-project-network/)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2018-04-16
 
 #clippings
 

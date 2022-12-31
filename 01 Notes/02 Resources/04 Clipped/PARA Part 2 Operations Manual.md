@@ -1,7 +1,7 @@
 author:: Tiago Forte
 source:: [PARA Part 2: Operations Manual - Forte Labs](https://fortelabs.com/blog/p-a-r-a-ii-operations-manual/)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2017-03-18
 
 #clippings
 

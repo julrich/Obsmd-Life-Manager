@@ -1,7 +1,7 @@
 author:: Tiago Forte
 source:: [PARA Part 6: Small-Batch Projects for Focus, Creativity, and Perspective - Forte Labs](https://fortelabs.com/blog/p-a-r-a-part-vi-small-batch-projects-for-focus-creativity-and-perspective/)
 clipped:: [[2022-12-28]]
-published:: 
+published:: 2018-04-13
 
 #clippings
 
