@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1de2e75bc9674707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "03 Periodic/01 Daily/2023/01-January/2023-01-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,6 +123,23 @@
                 "file": "03 Periodic/01 Daily/2023/01-January/2023-01-01.md"
               }
             }
+          },
+          {
+            "id": "410b986e2536f45d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
@@ -169,17 +173,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1de2e75bc9674707",
+  "active": "2fddca6a2ee0f2cd",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2022/12-December/2022-12-31.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
     "02 Action/01 Tasks/2023-  Wk 52 Tasks.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-01.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-31.md",
     "02 Action/01 Tasks/01 Tasks.md",
     "03 Periodic/01 Daily/2022/12-December/2022-12-30.md",
     "01 Notes/02 Resources/12 Streaming/Stream Deck.md",
     "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
     "01 Notes/02 Resources/04 Clipped/PARA Part 1 A Universal System for Organizing Digital Information.md",
-    "01 Notes/01 Areas/03 Software/Obsidian.md",
-    "02 Action/02 Projects/Initialize Second Brain.md",
-    "01 Notes/02 Resources/04 Clipped/PARA+GTD Obsidian setup.md"
+    "01 Notes/01 Areas/03 Software/Obsidian.md"
   ]
 }
