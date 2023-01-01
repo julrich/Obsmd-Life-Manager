@@ -66,7 +66,7 @@
             "name": "New Project",
             "type": "Template",
             "command": false,
-            "templatePath": "04 Templates/Project Template",
+            "templatePath": "05 Templates/Project Template",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{VALUE: Project Name}}"
@@ -269,7 +269,7 @@
             "name": "Create Goal Template",
             "type": "Template",
             "command": false,
-            "templatePath": "04 Templates/Goal Template",
+            "templatePath": "05 Templates/Goal Template",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{VALUE: Goal Name}}"
@@ -361,7 +361,7 @@
             "name": "Value Template",
             "type": "Template",
             "command": false,
-            "templatePath": "04 Templates/Value Template",
+            "templatePath": "05 Templates/Value Template",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{VALUE: Value Name}}"
@@ -438,15 +438,15 @@
       "id": "055f3a3f-d3b6-45d2-9cf0-7fadd70cb155",
       "commands": [
         {
-          "name": "Value Template",
+          "name": "Meeting Template",
           "type": "NestedChoice",
           "id": "176fdafe-c681-4074-937a-b07ba579cb90",
           "choice": {
             "id": "424f4a24-2406-4e61-838f-faf2db45b97e",
-            "name": "Value Template",
+            "name": "Meeting Template",
             "type": "Template",
             "command": false,
-            "templatePath": "04 Templates/Meeting Template",
+            "templatePath": "05 Templates/Meeting Template",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{DATE:YYYY-MM-DD}} - {{VALUE:Meeting Name}}"

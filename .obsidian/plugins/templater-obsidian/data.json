@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "04 Templates",
+  "templates_folder": "05 Templates",
   "templates_pairs": [
     [
       "",
@@ -16,23 +16,23 @@
   "folder_templates": [
     {
       "folder": "03 Periodic/01 Daily",
-      "template": "04 Templates/Daily Template.md"
+      "template": "05 Templates/Daily Template.md"
     },
     {
       "folder": "02 Action/02 Projects",
-      "template": "04 Templates/Project Template.md"
+      "template": "05 Templates/Project Template.md"
     },
     {
       "folder": "03 Periodic/02 Weekly",
-      "template": "04 Templates/Weekly Template.md"
+      "template": "05 Templates/Weekly Template.md"
     },
     {
       "folder": "03 Periodic/03 Monthly",
-      "template": "04 Templates/Monthly Template.md"
+      "template": "05 Templates/Monthly Template.md"
     },
     {
       "folder": "01 Notes/02 Resources/03 Meetings",
-      "template": "04 Templates/Meeting Template.md"
+      "template": "05 Templates/Meeting Template.md"
     }
   ],
   "syntax_highlighting": true,

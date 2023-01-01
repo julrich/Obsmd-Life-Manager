@@ -13,6 +13,10 @@
 - Finish Daily Note every evening, includes:
 	- Having noted all meetings, notes and links
 	- Having processed all action items, moved all relevant links to respective pages in areas, projects and tasks
+- Weekly Review on every sunday (evening)
+- Monthly Review on every last sunday of the month
+- Area prefixes: `01-19` = personal, `20-29` = kickstartDS, `40-59` projects
+- Resource prefixes: `01-09` structured, `10-29` topics
 
 # Inspiration
 

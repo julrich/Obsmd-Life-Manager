@@ -24,8 +24,6 @@
   },
   "02 Action": "RiFireLine",
   "03 Periodic": "RiCalendarLine",
-  "04 Templates": "RiFileEditLine",
-  "05 Attachments": "RiImage2Line",
   "02 Action/02 Projects": "RiRuler2Line",
   "02 Action/03 Goals": "RiArrowRightUpLine",
   "02 Action/04 Values": "RiVipDiamondLine",
@@ -36,7 +34,6 @@
   "02 Action/01 Tasks": "RiCheckLine",
   "01 Notes": "RiStickyNoteLine",
   "07 Guide": "RiQuestionLine",
-  "Untitled": "RiArchiveDrawerLine",
   "01 Notes/01 Areas": "RiLayoutMasonryLine",
   "01 Notes/02 Resources": "RiArticleLine",
   "01 Notes/02 Resources/01 People": "RiContactsBookLine",
@@ -45,5 +42,8 @@
   "01 Notes/02 Resources/04 Clipped": "RiClipboardLine",
   "01 Notes/02 Resources/10 Nerdy Coding": "RiReactjsLine",
   "01 Notes/02 Resources/11 Mechanical Keyboards": "RiKeyboardLine",
-  "01 Notes/02 Resources/12 Streaming": "RiVideoChatLine"
+  "01 Notes/02 Resources/12 Streaming": "RiVideoChatLine",
+  "04 Archive": "RiArchiveDrawerLine",
+  "05 Templates": "RiFileEditLine",
+  "01 Notes/02 Resources/05 Attachments": "RiImage2Line"
 }

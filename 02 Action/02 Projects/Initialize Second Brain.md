@@ -29,6 +29,7 @@ tags: project
 - [ ] [[Obsidian]]: Add dashboards to new folders (`01 Notes`, et al) , link in [[Home]]
 - [ ] [[Obsidian]]: Add related meeting notes to daily notes automatically (`dataviewjs`?)
 - [ ] [[Obsidian]] Integrate with file archive
+- [ ] [[Obsidian]]: Add "Supercharged Links" for areas and resources to have nice icons for all notes automatically
 
 ### Links
 
