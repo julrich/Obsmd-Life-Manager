@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8efd04911dc3abd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-31.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,17 +169,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d8efd04911dc3abd",
+  "active": "1de2e75bc9674707",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2022/12-December/2022-12-30.md",
+    "02 Action/01 Tasks/2023-  Wk 52 Tasks.md",
+    "02 Action/01 Tasks/01 Tasks.md",
     "03 Periodic/01 Daily/2022/12-December/2022-12-31.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-30.md",
     "01 Notes/02 Resources/12 Streaming/Stream Deck.md",
     "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
     "01 Notes/02 Resources/04 Clipped/PARA Part 1 A Universal System for Organizing Digital Information.md",
     "01 Notes/01 Areas/03 Software/Obsidian.md",
     "02 Action/02 Projects/Initialize Second Brain.md",
-    "01 Notes/02 Resources/04 Clipped/PARA+GTD Obsidian setup.md",
-    "01 Notes/02 Resources/04 Clipped/PARA Part 3 RandomNote – Building an Idea Generator.md",
-    "01 Notes/02 Resources/04 Clipped/PARA Part 2 Operations Manual.md"
+    "01 Notes/02 Resources/04 Clipped/PARA+GTD Obsidian setup.md"
   ]
 }
