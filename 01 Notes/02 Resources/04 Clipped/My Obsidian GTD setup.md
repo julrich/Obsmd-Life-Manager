@@ -233,7 +233,7 @@ This is shockingly useful. Obsidians backlinks make sure whenever I record a ref
 
 Need to see what that meeting with Pete was about? Check the backlinks on Pete for the date and then look at your dailies and the meeting in question. Need to see what tasks are assigned to your direct report Anna? Use a tasks block query to check for her name before your weekly 1:1 to see what may need to be talked about.
 
-For checking things like birthdays, anniversaries, and my own life milestones (I tend to try to remembe reach year when I did something cool or new for the first time - also prompts me to plan new trips and upskilling ideas). I use the following query which is largely driven by the #ann (for anniversary) tag.
+For checking things like birthdays, anniversaries, and my own life milestones (I tend to try to remembe reach year when I did something cool or new for the first time - also prompts me to plan new trips and upskilling ideas). I use the following query which is largely driven by the #ann (for anniversary) tag. ^cb4dce
 
 ```taskss
 not done

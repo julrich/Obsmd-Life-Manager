@@ -7,8 +7,10 @@
 # How to Use
 
 - Tag Tasks with `#wait` and `#next` according to [[PARA+GTD Obsidian setup#^298cc7]]
+- Tag Tasks with `#ann` according to [[My Obsidian GTD setup#^cb4dce]]
 - Write `dataviewjs` queries for dashboards: https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/
 - Projects are stuck when no `#wait` or `#next` Task included according to [[PARA+GTD Obsidian setup#^345758]]
+- Annual tasks like birthdays get tagged with `#ann`
 - Add new Projects to list at the end of [[02 Projects]]
 - Finish Daily Note every evening, includes:
 	- Having noted all meetings, notes and links
@@ -17,6 +19,10 @@
 - Monthly Review on every last sunday of the month
 - Area prefixes: `01-19` = personal, `20-29` = kickstartDS, `40-59` projects
 - Resource prefixes: `01-09` structured, `10-29` topics
+
+# Extension Ideas
+
+- Maybe add "Blog Queue" like described here: [[My Obsidian GTD setup#Blog Queue[]( blog-queue)]], as a better view for `01 Notes/02 Areas/22 kickstartDS Marketing`
 
 # Inspiration
 

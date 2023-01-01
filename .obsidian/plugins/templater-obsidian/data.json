@@ -33,6 +33,10 @@
     {
       "folder": "01 Notes/02 Resources/03 Meetings",
       "template": "05 Templates/Meeting Template.md"
+    },
+    {
+      "folder": "01 Notes/02 Resources/02 Media",
+      "template": "05 Templates/Media Template.md"
     }
   ],
   "syntax_highlighting": true,

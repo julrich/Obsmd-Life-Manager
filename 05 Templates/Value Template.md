@@ -1,4 +1,4 @@
 ---
-tags: Value
+tags: value
 ---
 # <% tp.file.title %>
