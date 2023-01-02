@@ -36,6 +36,7 @@
 		- ![[Pasted image 20221230170207.png]]
 		- ![[Pasted image 20221230170214.png]]
 	- Keycap overview: https://matrixzj.github.io/docs/gmk-keycaps/Grand-Prix/ ^d985aa
+	- Tracking: https://www.fedex.com/fedextrack/?trknbr=392800639854&trkqual=2459943000~392800639854~FX
 	- GMK Grand Prix Base Kit ^13d7a3
 		- https://novelkeys.com/products/gmk-grand-prix?variant=36492567576743
 		- https://candykeys.com/product/gmk-grand-prix-base-kit
