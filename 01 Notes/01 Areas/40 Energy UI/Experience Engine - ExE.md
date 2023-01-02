@@ -1,3 +1,5 @@
+# Projects
+
 ```dataview
 TABLE
 	target AS "Target",
@@ -5,6 +7,10 @@ TABLE
 	deadline as "Deadline",
 	complete as "Complete"
 FROM "02 Action/02 Projects"
-WHERE area = "Energy UI"
+WHERE Area = [[40 Energy UI]]
 SORT complete DESCENDING
 ```
+
+# Meetings
+
+Not working yet.

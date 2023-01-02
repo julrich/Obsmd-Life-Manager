@@ -56,6 +56,8 @@
 - USB-C Cable
 	- https://www.etsy.com/de/listing/1189082143/gewickeltes-kabel-rgb-leuchtendes
 	- ![[Pasted image 20221228122044.png]]
+	- ![[Pasted image 20230102173629.png]]
+	- ![[Pasted image 20230102173654.png]]
 ### Needed
 
 - GMK Grand Prix 40s Kit

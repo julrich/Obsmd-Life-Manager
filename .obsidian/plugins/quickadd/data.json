@@ -148,7 +148,46 @@
             },
             "format": {
               "enabled": true,
-              "format": "[Target :: {{VALUE: Target / Completion Criterea}}]\n"
+              "format": "[Target :: {{VALUE: Target / Completion Criterea}}]"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Area",
+          "type": "NestedChoice",
+          "id": "0eeaa780-8e75-480f-a14f-ceb830126fb6",
+          "choice": {
+            "id": "6164340f-69b3-4f28-a393-2da89778c060",
+            "name": "Area",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[Area :: {{VALUE: Linked Area}}]"
             },
             "insertAfter": {
               "enabled": false,

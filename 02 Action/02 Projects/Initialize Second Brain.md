@@ -4,8 +4,8 @@ tags: project
 # Second Brain
 
 [Goal :: [[Find Focus]]]  ⠀•⠀ [Deadline :: 📅 2022-01-31 ] ⠀•⠀ [Complete :: ❌]
-[Target :: Take notes daily, and have a rough process in place] ⠀•⠀ [Area :: Obsidian]
-
+[Target :: Take notes daily, and have a rough process in place]
+[Area :: [[Obsidian]]]
 
 ---
 ### Tasks

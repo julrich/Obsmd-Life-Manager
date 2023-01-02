@@ -5,6 +5,7 @@ tags: project
 
 [Goal :: Goal]  ⠀•⠀ [Deadline :: 📅 2023-01-11 ] ⠀•⠀ [Complete :: ❌]
 [Target :: Make ELMO order flow usable in production]
+[Area :: [[40 Energy UI]]]
 
 
 ---
