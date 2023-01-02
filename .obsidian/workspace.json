@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-01.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
                 "mode": "preview",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-01.md"
+                "file": "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-01.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,15 +212,15 @@
   },
   "active": "751ff124c42f5611",
   "lastOpenFiles": [
-    "05 Templates/Daily Template.md",
-    "05 Templates/Media Template.md",
-    "05 Templates/Goal Template.md",
-    "05 Templates/Weekly Template.md",
-    "05 Templates/Value Template.md",
-    "05 Templates/Project Template.md",
-    "05 Templates/Person Template.md",
-    "05 Templates/Monthly Template.md",
-    "05 Templates/Meeting Template.md",
-    "02 Action/01 Tasks/01 Tasks.md"
+    "01 Notes/01 Areas/40 Energy UI/Experience Engine - ExE.md",
+    "02 Action/03 Goals/03 Goals.md",
+    "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
+    "02 Action/02 Projects/Initialize Second Brain.md",
+    "02 Action/02 Projects/02 Projects.md",
+    "02 Action/02 Action.md",
+    "01 Notes/01 Areas/03 Software/Obsidian.md",
+    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-01.md",
+    "05 Templates/Daily Template.md"
   ]
 }
