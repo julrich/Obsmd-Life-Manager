@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-02.md",
-                "mode": "source",
+                "file": "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-02.md"
+                "file": "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-02.md",
+                "file": "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,15 +272,15 @@
   },
   "active": "029f7822591d4d8c",
   "lastOpenFiles": [
+    "02 Action/02 Action.md",
+    "Home.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-02.md",
     "01 Notes/01 Areas/04 Apartment/Childrens room.md",
     "01 Notes/01 Areas/04 Apartment/Home Automation.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-01.md",
     "03 Periodic/01 Daily/2022/12-December/2022-12-29.md",
     "03 Periodic/01 Daily/2022/12-December/2022-12-30.md",
     "03 Periodic/01 Daily/2022/12-December/2022-12-31.md",
-    "01 Notes/02 Resources/10 Nerdy Coding/Raspberry PI & MicroPython.md",
-    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
-    "01 Notes/02 Resources/10 Nerdy Coding/Flow Fields.md",
-    "01 Notes/01 Areas/03 Software/Backups.md"
+    "01 Notes/02 Resources/10 Nerdy Coding/Raspberry PI & MicroPython.md"
   ]
 }

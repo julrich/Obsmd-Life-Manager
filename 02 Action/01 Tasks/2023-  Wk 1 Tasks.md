@@ -1,3 +1,5 @@
+- [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-06
+
 - [ ] Check for projects with missing goals 🔼 📅 2023-01-08
 
 - [ ] Fix overview / dashboard pages with old Badges (-> missing icons), add new Badges (like Daily note finished) 🔼 📅 2023-01-08
