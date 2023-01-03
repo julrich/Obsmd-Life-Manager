@@ -14,6 +14,6 @@ TABLE
 	deadline as "Deadline",
 	complete as "Complete"
 FROM "02 Action/02 Projects"
-WHERE goal = [[Create Cool Stuff]]
+WHERE goal = [[Organize Digital Assets]]
 SORT complete DESCENDING
 ```

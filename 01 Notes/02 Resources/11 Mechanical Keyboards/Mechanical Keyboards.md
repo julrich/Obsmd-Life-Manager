@@ -49,7 +49,7 @@
 		- https://www.reddit.com/r/mechmarket/comments/vqr51y/usor_h_gmk_deku_gmk_retrocast_gmk_space_cadet_gmk/
 		- https://candykeys.com/product/gmk-grand-prix-space-kit
 		- ![[Pasted image 20221228120356.png]]
-- Kailh Speed Bronze Switches
+- ✅ Kailh Speed Bronze Switches
 		- Shop: https://www.caseking.de/glorious-kailh-speed-bronze-switches-120-stueck-gakc-068.html
 		- Tracking: https://www.dhl.de/de/privatkunden/pakete-empfangen/verfolgen.html?piececode=156205778203
 		- ![[Pasted image 20221228120549.png]]
@@ -58,6 +58,13 @@
 	- ![[Pasted image 20221228122044.png]]
 	- ![[Pasted image 20230102173629.png]]
 	- ![[Pasted image 20230102173654.png]]
+- Anti slip feet
+	- "Elastikpuffer, 320 Stück Gummipuffer Schutzpuffer Transparent Möbelpuffer Selbstklebende Gummifüße Gumminoppen Lärm Dämpfung Pads Anschlagpuffer (8 Größen)": https://www.amazon.de/dp/B0929JTY9G?psc=1&smid=A17HADPK8J469Q&ref_=chk_typ_imgToDp
+	- ![[Pasted image 20230103234743.png]]
+- Sea-Picro
+	- https://customkbd.com/products/sea-picro?_pos=1&_sid=50beea8f0&_ss=r
+	- ![[Pasted image 20221231145529.png]]
+	- ![[Pasted image 20221231145537.png]]
 ### Needed
 
 - GMK Grand Prix 40s Kit
@@ -83,10 +90,6 @@
 	- For black / dark keys
 	- https://mykeyboard.eu/catalogue/gmk-toxic-base-kit_1547/
 	- ![[Pasted image 20221230182208.png]]
-- Sea-Picro
-	- https://customkbd.com/products/sea-picro?_pos=1&_sid=50beea8f0&_ss=r
-	- ![[Pasted image 20221231145529.png]]
-	- ![[Pasted image 20221231145537.png]]
 
 ### Places to look
 

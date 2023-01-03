@@ -5,6 +5,7 @@ week: 2022-W52
 month: 2022 - 12-December
 year: 2022
 banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de
+area: "[[Experience Engine - ExE]]"
 ---
 
 # ExE Handover Michael Micke

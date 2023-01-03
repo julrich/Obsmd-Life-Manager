@@ -4,7 +4,7 @@
 
 - [x] Create Area and Project for apartment and childrens room ⏫ 📅 2022-12-31 ✅ 2023-01-02
 
-- [ ] Create ExE area and link meeting note [[2022-12-29 - ExE Handover Michael Micke]] 🔼 📅 2022-12-31
+- [x] Create ExE area and link meeting note [[2022-12-29 - ExE Handover Michael Micke]] 🔼 📅 2022-12-31 ✅ 2023-01-03
 
 - [ ] Re-create christmas dub mix 📅 2023-03-27
 

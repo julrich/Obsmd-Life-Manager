@@ -1,6 +1,14 @@
+- [ ] Add Tyme entry to project template 🔼 📅 2023-01-06
+
+- [ ] Find correct project in Tyme for [[Taktsoft Campus Talents]] 🔼 📅 2023-01-05
+
+- [ ] Add images of prenatal appointment  🔼 📅 2023-01-08
+
+- [ ] Download Justice videos from YouTube [[Parties]] 🔼 📅 2023-01-08
+
 - [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-06
 
-- [ ] Check for projects with missing goals 🔼 📅 2023-01-08
+- [x] Check for projects with missing goals 🔼 📅 2023-01-08 ✅ 2023-01-03
 
 - [ ] Fix overview / dashboard pages with old Badges (-> missing icons), add new Badges (like Daily note finished) 🔼 📅 2023-01-08
 
