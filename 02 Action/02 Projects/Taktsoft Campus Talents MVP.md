@@ -10,11 +10,11 @@ tags: project
 [Tyme :: "Missing"]
 
 ---
-### Tasks
+## Tasks
 
 - [ ] Determine correct project and cost target for Tyme #next  🔼 📅 2023-01-05
 
-### Links
+## Links
 
 Problems with Design Token:
 	- If this is helpful, think about documenting this workflow!
@@ -27,6 +27,16 @@ Problems with Design Token:
 		- https://github.com/kickstartDS/kickstartDS/blob/next/packages/tools/style-dictionary/branding-token.json#L57-L62
 		- https://fonts.google.com/specimen/Zilla+Slab ^396d94
 
-### Resources
+## Resources
 
 - Gitlab: https://git.taktsoft.com/taktsoft/taktsoft-campus-talents
+
+## Meetings
+
+```dataview
+TABLE
+	full-date
+FROM "01 Notes/02 Resources/03 Meetings"
+WHERE project = [[Taktsoft Campus Talents MVP]]
+SORT full-date DESC
+```

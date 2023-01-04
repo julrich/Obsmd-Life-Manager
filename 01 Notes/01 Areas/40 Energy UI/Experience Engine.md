@@ -28,4 +28,4 @@ SORT full-date DESC
 ```
 # Notes
 
-No notes.
+No notes yet.

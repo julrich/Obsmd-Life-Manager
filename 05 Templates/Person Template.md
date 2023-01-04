@@ -19,4 +19,3 @@ location:
 Details - role
 
 #### How We Met
-```

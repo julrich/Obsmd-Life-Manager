@@ -41,10 +41,10 @@ SORT complete DESCENDING
 ```dataview
 TABLE WITHOUT ID
 	link(file.name) as "Day",
-	wake-early AS "🌄",
-	meditate AS "🧘",
 	exercise AS "🏃‍♂️",
-	plan-next-day AS "✏️"
+	plan-next-day AS "✏️",
+	keep-time AS "🕒",
+	daily-note-finished AS "📝"
 	FROM "03 Periodic/01 Daily" 
 	SORT file.name DESC
 	LIMIT 30

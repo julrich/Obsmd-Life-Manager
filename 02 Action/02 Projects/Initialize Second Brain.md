@@ -9,7 +9,7 @@ tags: project
 [Team :: [[Jonas Ulrich]]]
 
 ---
-### Tasks
+## Tasks
 
 - [ ] [[Dotfiles]]: Add Obsidian config to dotfiles #next 🔼
 - [ ] [[Obsidian]]: Combine PARA / GTD / OBSLM 
@@ -32,7 +32,20 @@ tags: project
 - [ ] [[Obsidian]] Integrate with file archive
 - [ ] [[Obsidian]]: Add "Supercharged Links" for areas and resources to have nice icons for all notes automatically
 
-### Links
+## Links
 
+No links yet.
 
-### Resources
+## Resources
+
+No resources yet.
+
+## Meetings
+
+```dataview
+TABLE
+	full-date
+FROM "01 Notes/02 Resources/03 Meetings"
+WHERE project = [[Initialize Second Brain]]
+SORT full-date DESC
+```

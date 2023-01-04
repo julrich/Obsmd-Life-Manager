@@ -1,3 +1,5 @@
+- [ ] Add team selection to project template Quick Add   📅 2023-01-06
+
 - [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-09
 
 - [ ] Add people to projects template 🔼 📅 2023-01-08

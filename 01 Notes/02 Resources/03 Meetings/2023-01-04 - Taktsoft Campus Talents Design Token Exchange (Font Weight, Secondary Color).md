@@ -6,6 +6,7 @@ month: 2023 - 01-January
 year: 2023
 banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de
 area: "[[Taktsoft Campus Talents]]"
+project: "[[Taktsoft Campus Talents MVP]]"
 ---
 
 # 2023-01-04 - Taktsoft Campus Talents Design Token Exchange (Font Weight, Secondary Color)

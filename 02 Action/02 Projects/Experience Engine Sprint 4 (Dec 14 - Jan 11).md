@@ -10,16 +10,27 @@ tags: project
 [Tyme :: "WLP > Umsetzung Frontend 2.0"]
 
 ---
-### Tasks
+## Tasks
 
 - [ ] Fix redirect loop in production auth #next 🔼 📅 2023-01-04
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-10
 - [ ] Do some reviews in between
+- [ ] Discuss design of error message spanning two fields with [[Daniel Ley]] 🔼 ⏳ 2023-01-05 📅 2023-01-06
 
-### Links
+## Links
 
 - https://resources.bonn.taktsoft.com/redmine/projects/experience-engine/agile/board
 
-### Resources
+## Resources
 
 - A11y Testing with Storybook: https://twitter.com/storybookjs/status/1605926134251753472
+
+## Meetings
+
+```dataview
+TABLE
+	full-date
+FROM "01 Notes/02 Resources/03 Meetings"
+WHERE project = [[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]
+SORT full-date DESC
+```

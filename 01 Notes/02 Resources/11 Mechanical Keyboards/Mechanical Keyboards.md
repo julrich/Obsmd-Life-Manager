@@ -76,7 +76,9 @@
 - TRRS Cable
 	- https://www.etsy.com/de/listing/1377899017/benutzerdefiniertes-geteilte-tastatur
 	- ![[Pasted image 20221228122145.png]]
-
+- Cable Name Tag
+	- https://www.etsy.com/de/listing/762665558/personalisierte-kabelanhanger-3d
+	- ![[Pasted image 20230104132759.png]]
 ### Possible Addons / Upgrades
 
 - Cirque 23mm Glidepoint Circle Trackpad
