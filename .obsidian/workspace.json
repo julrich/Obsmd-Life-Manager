@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-01-04 - ExE Handover ticket ELMO block with [[Nazif Isaki]].md",
                 "mode": "source",
                 "source": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-04.md"
+                "file": "01 Notes/02 Resources/03 Meetings/2023-01-04 - ExE Handover ticket ELMO block with [[Nazif Isaki]].md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-01-04 - ExE Handover ticket ELMO block with [[Nazif Isaki]].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,6 +272,7 @@
   },
   "active": "029f7822591d4d8c",
   "lastOpenFiles": [
+    "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
     "01 Notes/01 Areas/40 Energy UI/Taktsoft Campus Talents.md",
     "01 Notes/01 Areas/40 Energy UI/40 Energy UI.md",
     "02 Action/04 Values/04 Values.md",
@@ -280,7 +281,6 @@
     "02 Action/02 Projects/Initialize Second Brain.md",
     "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
     "02 Action/02 Projects/Taktsoft Campus Talents MVP.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
     "02 Action/02 Projects/02 Projects.md"
   ]
 }
