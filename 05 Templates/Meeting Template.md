@@ -12,6 +12,7 @@ area:
 
 Date: <% tp.date.now('MMMM DD, YYYY') %>
 Attendees:
+Length: `XXm`
 
 ---
 

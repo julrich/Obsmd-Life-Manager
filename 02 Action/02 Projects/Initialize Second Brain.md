@@ -6,6 +6,7 @@ tags: project
 [Goal :: [[Find Focus]]]  ⠀•⠀ [Deadline :: 📅 2022-01-31 ] ⠀•⠀ [Complete :: ❌]
 [Target :: Take notes daily, and have a rough process in place]
 [Area :: [[Obsidian]]
+[Team :: [[Jonas Ulrich]]]
 
 ---
 ### Tasks

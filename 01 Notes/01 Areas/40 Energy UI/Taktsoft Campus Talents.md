@@ -1,8 +1,8 @@
 # Info
 
-Time tracking: [Tyme :: ""]
-Redmine agile board:
-Gitlab project:
+Time tracking: [Tyme :: "Missing"]
+Redmine agile board: Missing
+Gitlab project: https://git.taktsoft.com/taktsoft/taktsoft-campus-talents
 
 # Projects
 
@@ -28,13 +28,4 @@ SORT full-date DESC
 ```
 # Notes
 
-- Problems with Design Token:
-	- If this is helpful, think about documenting this workflow!
-	- Secondary color:
-		- https://github.com/kickstartDS/kickstartDS/tree/next/packages/tools/style-dictionary/templates/color
-		- https://github.com/kickstartDS/kickstartDS/blob/next/packages/tools/style-dictionary/templates/color/color.schema.json#L152-L154
-		- https://github.com/kickstartDS/kickstartDS/blob/next/packages/tools/style-dictionary/primitives.schema.json#L36-L38
-		- https://github.com/kickstartDS/kickstartDS/blob/next/packages/tools/style-dictionary/branding-token.json#L3-L4
-	- Font-weight:
-		- https://github.com/kickstartDS/kickstartDS/blob/next/packages/tools/style-dictionary/branding-token.json#L57-L62
-		- https://fonts.google.com/specimen/Zilla+Slab
+No notes yet.

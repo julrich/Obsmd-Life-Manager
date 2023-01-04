@@ -12,7 +12,7 @@ area: "[[Experience Engine]]"
 
 Date: December 29, 2022
 Attendees: [[Michael Micke]]
-Length:  `90 min`
+Length:  `90m`
 
 ---
 

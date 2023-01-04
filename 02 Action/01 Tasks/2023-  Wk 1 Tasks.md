@@ -1,3 +1,5 @@
+- [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-09
+
 - [ ] Add people to projects template 🔼 📅 2023-01-08
 
 - [ ] Add scratch pad like the terminal one for Obsidian 🔼 📅 2023-01-15

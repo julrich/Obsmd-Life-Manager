@@ -5,7 +5,8 @@ tags: project
 
 [Goal :: [[Find Focus]]]  ⠀•⠀ [Deadline :: 📅 2022-02-28 ] ⠀•⠀ [Complete :: ❌]
 [Target :: Have a working ergonomic split keyboard]
-
+[Area :: [[Mechanical Keyboards]]]
+[Team :: [[Jonas Ulrich]]]
 
 ---
 ### Tasks
