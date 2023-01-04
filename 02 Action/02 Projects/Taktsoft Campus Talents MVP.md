@@ -3,7 +3,7 @@ tags: project
 ---
 # Taktsoft Campus Talents MVP
 
-[Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-01-13 ] ⠀•⠀ [Complete :: ❌]
+[Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-01-11 ] ⠀•⠀ [Complete :: ❌]
 [Target :: First micropage is production ready and online]
 [Area :: [[Taktsoft Campus Talents]]]
 [Team :: [[Simon Stehle]], [[Eduard Dridiger]]]
