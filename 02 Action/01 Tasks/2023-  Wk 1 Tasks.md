@@ -1,3 +1,7 @@
+- [ ] Add people to projects template 🔼 📅 2023-01-08
+
+- [ ] Add scratch pad like the terminal one for Obsidian 🔼 📅 2023-01-15
+
 - [ ] Add Tyme entry to project template 🔼 📅 2023-01-06
 
 - [ ] Find correct project in Tyme for [[Taktsoft Campus Talents]] 🔼 📅 2023-01-05

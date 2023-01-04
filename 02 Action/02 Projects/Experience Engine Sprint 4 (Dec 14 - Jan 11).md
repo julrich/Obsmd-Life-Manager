@@ -5,7 +5,7 @@ tags: project
 
 [Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-01-11 ] ⠀•⠀ [Complete :: ❌]
 [Target :: Make ELMO order flow usable in production]
-[Area :: [[Experience Engine - ExE]]]
+[Area :: [[Experience Engine]]]
 [Tyme :: "WLP > Umsetzung Frontend 2.0"]
 
 
@@ -14,6 +14,7 @@ tags: project
 
 - [ ] Fix redirect loop in production auth 🔼 📅 2023-01-04
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-10
+- [ ] Do some reviews in between
 
 ### Links
 

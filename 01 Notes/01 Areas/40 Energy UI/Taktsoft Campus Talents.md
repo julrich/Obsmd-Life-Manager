@@ -1,3 +1,9 @@
+# Info
+
+Time tracking: [Tyme :: ""]
+Redmine agile board:
+Gitlab project:
+
 # Projects
 
 ```dataview
@@ -7,7 +13,7 @@ TABLE
 	deadline as "Deadline",
 	complete as "Complete"
 FROM "02 Action/02 Projects"
-WHERE Area = [[40 Energy UI]]
+WHERE Area = [[Taktsoft Campus Talents]]
 SORT complete DESCENDING
 ```
 
@@ -17,7 +23,7 @@ SORT complete DESCENDING
 TABLE
 	full-date
 FROM "01 Notes/02 Resources/03 Meetings"
-WHERE area = [[Experience Engine - ExE]]
+WHERE area = [[Taktsoft Campus Talents]]
 SORT full-date DESC
 ```
 # Notes
