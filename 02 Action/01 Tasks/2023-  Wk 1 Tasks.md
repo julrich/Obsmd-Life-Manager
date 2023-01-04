@@ -1,3 +1,5 @@
+- [ ] Check why there's a docker container for MOSP running after boot 🔼 📅 2023-01-08
+
 - [ ] Add team selection to project template Quick Add   📅 2023-01-06
 
 - [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-09

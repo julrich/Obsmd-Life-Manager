@@ -28,7 +28,7 @@
 	- ![[Pasted image 20221228120447.png]]
 	- ![[Pasted image 20221228124423.png]]
 	- ![[Pasted image 20221228124500.png]]
-- GMK Grand Prix
+- ✅ GMK Grand Prix
 	- Images
 		- ![[Pasted image 20221230165825.png]]
 		- ![[Pasted image 20221230170151.png]]

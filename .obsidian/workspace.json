@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Templates/Person Template.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Templates/Person Template.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-04.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Templates/Person Template.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,15 +248,15 @@
   },
   "active": "3a5ac6f27576281d",
   "lastOpenFiles": [
+    "01 Notes/01 Areas/01 Music/TSNM.md",
+    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
+    "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-04 - ExE Handover ticket ELMO block with Nazif Isaki.md",
+    "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
     "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "05 Templates/Person Template.md",
     "02 Action/02 Action.md",
-    "Home.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-04 - Taktsoft Campus Talents Design Token Exchange (Font Weight, Secondary Color).md",
-    "02 Action/02 Projects/Taktsoft Campus Talents MVP.md",
-    "02 Action/01 Tasks/01 Tasks.md",
-    "03 Periodic/01 Daily/01 Daily.md",
-    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-01.md"
+    "Home.md"
   ]
 }
