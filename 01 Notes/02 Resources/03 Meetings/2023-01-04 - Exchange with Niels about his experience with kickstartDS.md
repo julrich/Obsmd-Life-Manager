@@ -13,7 +13,7 @@ project:
 
 Date: January 04, 2023
 Attendees: [[Niels Cloer]], [[Jonas Ulrich]]
-Length: `XXm`
+Length: `60m`
 
 ---
 
@@ -26,6 +26,5 @@ Length: `XXm`
 - Changing colors works now, but had a (maybe?) temp / caching problem before
 
 # Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+
+No action items.
