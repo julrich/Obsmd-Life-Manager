@@ -5,8 +5,8 @@ week: 2023-W01
 month: 2023 - 01-January
 year: 2023
 banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de
-area:
-project:
+area: "[[Onboarding]]"
+project: "[[Improve kickstartDS Onboarding]]"
 ---
 
 # 2023-01-04 - Exchange with Niels about his experience with kickstartDS
@@ -23,7 +23,7 @@ Length: `60m`
 
 # Discussion notes
 - Unfortunately lost not working version of recipe where multiple images would have been displayed with a `<Split>`, will maybe reproduce to find errors
-- Changing colors works now, but had a (maybe?) temp / caching problem before
+- Changing colors works now, but had a (maybe?) temp / caching problem before... Niels will try again and monitor closely in due time
 
 # Action items
 

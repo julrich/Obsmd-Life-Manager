@@ -13,6 +13,18 @@
 - Keycaps Info From Matrix: https://matrixzj.github.io/
 - Pimp My Keyboard: https://pimpmykeyboard.com/colors/
 
+# Software
+
+## QMK
+
+### OLED
+
+- HELL0 NAVI. Interface: https://github.com/qmk/qmk_firmware/tree/master/keyboards/lily58/keymaps/druotoni
+- Bongo Cat:
+	- oledbongocat: https://github.com/nwii/oledbongocat
+	- Sofle Keyboard Bongo Cat WPM: https://www.youtube.com/watch?v=WdGJuWOdpCA
+- Luna the keyboard cat: https://www.reddit.com/r/olkb/comments/lmtgxc/introducing_luna_the_qmk_keyboard_pet/
+
 # Sofle RGB + GMK Grand Prix + Kailh Speed Bronze
 
 ## Parts
@@ -20,6 +32,7 @@
 ### Already bought
 
 - Sofle RGB
+	- Tracking: https://webapp.hongkongpost.hk/en/mail_tracking/index.html > `RD024816924HK`
 	- https://www.etsy.com/de/listing/1256160429/vorgelotete-sofle-rgb-mx-hotswap-sockel
 	- https://josefadamcik.github.io/SofleKeyboard/
 	- https://github.com/josefadamcik/SofleKeyboard
@@ -65,6 +78,10 @@
 	- https://customkbd.com/products/sea-picro?_pos=1&_sid=50beea8f0&_ss=r
 	- ![[Pasted image 20221231145529.png]]
 	- ![[Pasted image 20221231145537.png]]
+- Cable Name Tag
+	- Ordered in black with `TSNM` as the text
+	- https://www.etsy.com/de/listing/762665558/personalisierte-kabelanhanger-3d
+	- ![[Pasted image 20230104132759.png]]
 ### Needed
 
 - GMK Grand Prix 40s Kit
@@ -76,9 +93,6 @@
 - TRRS Cable
 	- https://www.etsy.com/de/listing/1377899017/benutzerdefiniertes-geteilte-tastatur
 	- ![[Pasted image 20221228122145.png]]
-- Cable Name Tag
-	- https://www.etsy.com/de/listing/762665558/personalisierte-kabelanhanger-3d
-	- ![[Pasted image 20230104132759.png]]
 ### Possible Addons / Upgrades
 
 - Cirque 23mm Glidepoint Circle Trackpad

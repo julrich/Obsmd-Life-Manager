@@ -12,14 +12,18 @@ tags: project
 ---
 ## Tasks
 
-- [ ] Fix redirect loop in production auth #next 🔼 📅 2023-01-04
+- [ ] Fix redirect loop in production auth 🔼 📅 2023-01-04
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-10
 - [ ] Do some reviews in between
 - [ ] Discuss design of error message spanning two fields with [[Daniel Ley]] #wait 🔼 ⏳ 2023-01-05 📅 2023-01-06
+- [ ] Get access to `admin_ui` repository in Taktsoft Gitlab #next ⏫ 📅 2023-01-05
 
 ## Links
 
-- https://resources.bonn.taktsoft.com/redmine/projects/experience-engine/agile/board
+- **Agile Board** Experience Engine: https://resources.bonn.taktsoft.com/redmine/projects/experience-engine/agile/board
+- **Gitlab** Experience Engine: https://git.taktsoft.com/sw-web/experience-engine
+- **Gitlab** Journey Engine: https://git.taktsoft.com/taktsoft/wlp.cloud/journey_engine
+- **Gitlab** Admin UI: https://git.taktsoft.com/taktsoft/wlp.cloud/admin_ui
 
 ## Resources
 
