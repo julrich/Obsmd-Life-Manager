@@ -1,3 +1,5 @@
+- [ ] CIrcle all Circle CI secrets ⏫ 📅 2023-01-05
+
 - [ ] Get a better deskmat covering mouse and keyboard space 🔼 📅 2023-02-15
 
 - [ ] Check why there's a docker container for MOSP running after boot 🔼 📅 2023-01-08

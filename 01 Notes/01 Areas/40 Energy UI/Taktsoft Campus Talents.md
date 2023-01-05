@@ -1,6 +1,6 @@
 # Info
 
-Time tracking: [Tyme :: "Missing"]
+Time tracking: [Tyme :: "Partner Taktsoft > Taktsoft.com headless"]
 Redmine agile board: Missing
 Gitlab project: https://git.taktsoft.com/taktsoft/taktsoft-campus-talents
 

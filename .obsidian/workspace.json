@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
+                "file": "01 Notes/01 Areas/40 Energy UI/Taktsoft Campus Talents.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,24 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "1a42a5ea0771e168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec98bcee2af346b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md"
+                "file": "01 Notes/01 Areas/40 Energy UI/Taktsoft Campus Talents.md"
               }
             }
           },
@@ -203,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
+                "file": "01 Notes/01 Areas/40 Energy UI/Taktsoft Campus Talents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,15 +266,15 @@
   },
   "active": "3a5ac6f27576281d",
   "lastOpenFiles": [
-    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
-    "02 Action/01 Tasks/01 Tasks.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
+    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
+    "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
     "01 Notes/02 Resources/03 Meetings/2023-01-05 - Sync with Daniel after new year.md",
-    "01 Notes/01 Areas/26 kickstartDS Management/Planning.md",
-    "01 Notes/01 Areas/01 Music/TSNM.md",
-    "02 Action/02 Action.md",
+    "01 Notes/02 Resources/03 Meetings/03 Meetings.md",
     "02 Action/02 Projects/02 Projects.md",
-    "Home.md"
+    "02 Action/02 Action.md",
+    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md",
+    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "02 Action/01 Tasks/01 Tasks.md"
   ]
 }

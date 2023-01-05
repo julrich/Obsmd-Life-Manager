@@ -33,5 +33,4 @@ Length:  `90m`
 
 # Action items
 - [x] Tasks & Projects Completed, Processed or Delegated
-- [ ] Have a look at the redirect loop locally 🔼 ⏳ 2022-12-30 📅 2023-01-06
 - [x] Create area and project for ExE ⏫ ⏳ 2022-12-30 📅 2022-12-30 ✅ 2023-01-02
