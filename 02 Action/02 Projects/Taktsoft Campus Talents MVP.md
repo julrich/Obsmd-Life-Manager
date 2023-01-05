@@ -12,7 +12,8 @@ tags: project
 ---
 ## Tasks
 
-- [ ] Determine correct project and cost target for Tyme #next  🔼 📅 2023-01-05
+- [x] Determine correct project and cost target for Tyme 🔼 📅 2023-01-05 ✅ 2023-01-05
+- [ ] Check for project status #next 🔼 📅 2023-01-06
 
 ## Links
 

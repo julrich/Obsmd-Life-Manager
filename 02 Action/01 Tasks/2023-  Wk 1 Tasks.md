@@ -1,3 +1,11 @@
+- [ ] Update `.circleci/config.yml` after Circle CI incident ⏫ 📅 2023-01-06
+
+- [ ] Renew `GH_TOKEN` "kickstartDS Auto Release-Token", see [[Token and Environment variables]] 🔼 📅 2023-03-28
+
+- [ ] Homogenize 2FA, use 1Password when compatible 🔼 📅 2023-03-31
+
+- [ ] Add token description for Circle CI (with [[Lukas Mestel]]) to [[Token and Environment variables]] 🔼 📅 2023-01-09
+
 - [ ] Get all flagged emails in Outlook into tasks / notes 🔼 📅 2023-01-31
 
 - [ ] Clean up Github keys / personal access tokens, use new format 🔼 📅 2023-02-28
@@ -20,7 +28,7 @@
 
 - [ ] Add Tyme entry to project template 🔼 📅 2023-01-06
 
-- [ ] Find correct project in Tyme for [[Taktsoft Campus Talents]] 🔼 📅 2023-01-05
+- [x] Find correct project in Tyme for [[Taktsoft Campus Talents]] 🔼 📅 2023-01-05 ✅ 2023-01-05
 
 - [ ] Add images of prenatal appointment  🔼 📅 2023-01-08
 

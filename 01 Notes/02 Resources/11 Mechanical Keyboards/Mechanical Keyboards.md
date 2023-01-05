@@ -39,6 +39,24 @@ SORT complete DESCENDING
 	- Sofle Keyboard Bongo Cat WPM: https://www.youtube.com/watch?v=WdGJuWOdpCA
 - Luna the keyboard cat: https://www.reddit.com/r/olkb/comments/lmtgxc/introducing_luna_the_qmk_keyboard_pet/
 
+### Links
+
+- https://thomasbaart.nl/2018/12/01/reducing-firmware-size-in-qmk/
+- https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html
+- https://github.com/qmk/keyboard_awesome
+- https://github.com/manna-harbour/miryoku
+- https://blog.splitkb.com/how-to-work-with-small-keyboards
+- https://planelles.dev/blog/2019/08/28
+- https://github.com/qmk/qmk_firmware/blob/master/docs/feature_tap_dance.md
+- https://www.reddit.com/r/olkb/comments/a0texz/whatre_your_favorite_qmk_hacks/
+
+## VIA
+
+"Your keyboard's best friend": https://caniusevia.com/
+
+Could maybe be used for graphical configuration, Sofle RGB is compatible according to their compatibility list here:
+https://www.caniusevia.com/docs/supported_keyboards
+
 # Sofle RGB + GMK Grand Prix + Kailh Speed Bronze
 
 ## Parts
@@ -89,6 +107,7 @@ SORT complete DESCENDING
 	- "Elastikpuffer, 320 Stück Gummipuffer Schutzpuffer Transparent Möbelpuffer Selbstklebende Gummifüße Gumminoppen Lärm Dämpfung Pads Anschlagpuffer (8 Größen)": https://www.amazon.de/dp/B0929JTY9G?psc=1&smid=A17HADPK8J469Q&ref_=chk_typ_imgToDp
 	- ![[Pasted image 20230103234743.png]]
 - Sea-Picro
+	- https://joshajohnson.github.io/sea-picro/
 	- https://customkbd.com/products/sea-picro?_pos=1&_sid=50beea8f0&_ss=r
 	- ![[Pasted image 20221231145529.png]]
 	- ![[Pasted image 20221231145537.png]]

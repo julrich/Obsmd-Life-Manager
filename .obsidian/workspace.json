@@ -73,19 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2022/12-December/2022-12-31.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3a5ac6f27576281d",
+            "id": "97224782be2c71ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,33 +93,6 @@
           }
         ],
         "currentTab": 6
-      },
-      {
-        "id": "1a42a5ea0771e168",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dec98bcee2af346b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e3c274199d272bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-06.md"
               }
             }
           },
@@ -230,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,17 +246,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a5ac6f27576281d",
+  "active": "97224782be2c71ab",
   "lastOpenFiles": [
-    "02 Action/02 Projects/Untitled.md",
-    "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
+    "02 Action/02 Projects/Taktsoft Campus Talents MVP.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
-    "01 Notes/01 Areas/40 Energy UI/Taktsoft Campus Talents.md",
-    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-05 - Sync with Daniel after new year.md",
-    "01 Notes/02 Resources/03 Meetings/03 Meetings.md",
-    "02 Action/02 Projects/02 Projects.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
     "02 Action/02 Action.md",
-    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md"
+    "Home.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
+    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "01 Notes/01 Areas/21 kickstartDS Development/Token and Environment variables.md",
+    "02 Action/01 Tasks/2023-  Wk 1 Tasks.md",
+    "03 Periodic/01 Daily/2022/12-December/2022-12-31.md"
   ]
 }
