@@ -96,6 +96,10 @@ SORT complete DESCENDING
 	- Ordered in black with `TSNM` as the text
 	- https://www.etsy.com/de/listing/762665558/personalisierte-kabelanhanger-3d
 	- ![[Pasted image 20230104132759.png]]
+- TRRS Cable
+	- Ordered: ![[Pasted image 20230105142340.png]]
+	- https://www.etsy.com/de/listing/1377899017/benutzerdefiniertes-geteilte-tastatur
+	- ![[Pasted image 20221228122145.png]]
 ### Needed
 
 - GMK Grand Prix 40s Kit
@@ -104,9 +108,7 @@ SORT complete DESCENDING
 - GMK Grand Prix Addon Kit
 	- https://candykeys.com/product/gmk-grand-prix-addon-kit
 	- ![[Pasted image 20221228120300.png]]
-- TRRS Cable
-	- https://www.etsy.com/de/listing/1377899017/benutzerdefiniertes-geteilte-tastatur
-	- ![[Pasted image 20221228122145.png]]
+
 ### Possible Addons / Upgrades
 
 - Cirque 23mm Glidepoint Circle Trackpad
