@@ -1,3 +1,5 @@
+- [ ] Clean up authorized OAuth apps, Github apps in Github profiles (personal, ruhmesmeile, kickstartDS) 🔼 📅 2023-02-28
+
 - [ ] CIrcle all Circle CI secrets ⏫ 📅 2023-01-05
 
 - [ ] Get a better deskmat covering mouse and keyboard space 🔼 📅 2023-02-15
