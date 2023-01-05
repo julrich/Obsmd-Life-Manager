@@ -5,7 +5,7 @@ week: 2023-W01
 month: 2023 - 01-January
 year: 2023
 banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de
-area:
+area: "[[Planning]]"
 project:
 ---
 
@@ -13,7 +13,7 @@ project:
 
 Date: January 05, 2023
 Attendees: [[Daniel Ley]], [[Jonas Ulrich]]
-Length: `XXm`
+Length: `120m`
 
 ---
 
@@ -24,8 +24,7 @@ Length: `XXm`
 - Discussed what [[Björn Lüghausen]] needs for his page, maybe something for [[Franz Leven]] to do
 - Caught [[Daniel Ley]] up to [[Experience Engine|ExE]] and [[Taktsoft Campus Talents|Taktsoft Campus Talents]]  development
 - Discussed marketing opportunities (Conferences, Podcasts, LinkedIn, Blog Posts, Backlight, Knapsack)
+- Planning with the whole team start of next week, try to work out a plan (available resources, billable hours, etc) until then
 
 # Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+- [x] Tasks & Projects Completed, Processed or Delegated
