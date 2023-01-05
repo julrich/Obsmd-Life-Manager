@@ -1,3 +1,5 @@
+- [ ] Get all flagged emails in Outlook into tasks / notes 🔼 📅 2023-01-31
+
 - [ ] Clean up Github keys / personal access tokens, use new format 🔼 📅 2023-02-28
 
 - [ ] Clean up authorized OAuth apps, Github apps in Github profiles (personal, ruhmesmeile, kickstartDS) 🔼 📅 2023-02-28

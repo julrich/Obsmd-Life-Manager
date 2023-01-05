@@ -109,8 +109,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1e3c274199d272bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,15 +275,15 @@
   },
   "active": "3a5ac6f27576281d",
   "lastOpenFiles": [
-    "01 Notes/01 Areas/40 Energy UI/Taktsoft Campus Talents.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
-    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
+    "02 Action/02 Projects/Untitled.md",
     "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
+    "01 Notes/01 Areas/40 Energy UI/Taktsoft Campus Talents.md",
+    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-05 - Sync with Daniel after new year.md",
     "01 Notes/02 Resources/03 Meetings/03 Meetings.md",
     "02 Action/02 Projects/02 Projects.md",
     "02 Action/02 Action.md",
-    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md",
-    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md"
+    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md"
   ]
 }
