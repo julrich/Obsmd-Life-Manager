@@ -18,11 +18,12 @@ Length: `XXm`
 ---
 
 # Goals / agenda
-1. 
+1. Sync after holidays
 
 # Discussion notes
 - Discussed what [[Björn Lüghausen]] needs for his page, maybe something for [[Franz Leven]] to do
 - Caught [[Daniel Ley]] up to [[Experience Engine|ExE]] and [[Taktsoft Campus Talents|Taktsoft Campus Talents]]  development
+- Discussed marketing opportunities (Conferences, Podcasts, LinkedIn, Blog Posts, Backlight, Knapsack)
 
 # Action items
 - [ ] Meeting Notes Distributed to the Team
