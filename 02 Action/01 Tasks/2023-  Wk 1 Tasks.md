@@ -1,3 +1,5 @@
+- [ ] Clean up Github keys / personal access tokens, use new format 🔼 📅 2023-02-28
+
 - [ ] Clean up authorized OAuth apps, Github apps in Github profiles (personal, ruhmesmeile, kickstartDS) 🔼 📅 2023-02-28
 
 - [ ] CIrcle all Circle CI secrets ⏫ 📅 2023-01-05
