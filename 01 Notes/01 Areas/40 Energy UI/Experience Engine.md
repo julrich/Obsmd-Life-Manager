@@ -1,6 +1,5 @@
 # Info
 
-Time tracking: [Tyme :: "WLP > Umsetzung Frontend 2.0"]
 Redmine agile board: https://resources.bonn.taktsoft.com/redmine/projects/experience-engine/agile/board
 Gitlab projects: https://git.taktsoft.com/sw-web/experience-engine, https://git.taktsoft.com/taktsoft/wlp.cloud/journey_engine, https://git.taktsoft.com/taktsoft/wlp.cloud/admin_ui
 

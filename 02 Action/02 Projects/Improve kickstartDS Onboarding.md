@@ -24,7 +24,7 @@ No resources yet.
 
 ```dataview
 TABLE
-	full-date
+	full-date as "Full Date"
 FROM "01 Notes/02 Resources/03 Meetings"
 WHERE project = [[Improve kickstartDS Onboarding]]
 SORT full-date DESC

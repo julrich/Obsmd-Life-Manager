@@ -1,7 +1,7 @@
 ---
 tags: project
 ---
-# Second Brain
+# Initialize Second Brain
 
 [Goal :: [[Find Focus]]]  ⠀•⠀ [Deadline :: 📅 2022-01-31 ] ⠀•⠀ [Complete :: ❌]
 [Target :: Take notes daily, and have a rough process in place]
@@ -44,7 +44,7 @@ No resources yet.
 
 ```dataview
 TABLE
-	full-date
+	full-date as "Full Date"
 FROM "01 Notes/02 Resources/03 Meetings"
 WHERE project = [[Initialize Second Brain]]
 SORT full-date DESC

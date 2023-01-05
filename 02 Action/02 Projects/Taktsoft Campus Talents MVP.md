@@ -35,7 +35,7 @@ Problems with Design Token:
 
 ```dataview
 TABLE
-	full-date
+	full-date as "Full Date"
 FROM "01 Notes/02 Resources/03 Meetings"
 WHERE project = [[Taktsoft Campus Talents MVP]]
 SORT full-date DESC

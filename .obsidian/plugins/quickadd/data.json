@@ -226,7 +226,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "\n---\n## Tasks\n\nNo tasks yet.\n\n## Links\n\nNo links yet.\n\n## Resources\n\nNo resources yet.\n\n## Meetings\n\n```dataview\nTABLE\n\tfull-date\nFROM \"01 Notes/02 Resources/03 Meetings\"\nWHERE project = {{VALUE: Linked Area}}\nSORT full-date DESC\n```"
+              "format": "\n---\n## Tasks\n\nNo tasks yet.\n\n## Links\n\nNo links yet.\n\n## Resources\n\nNo resources yet.\n\n## Meetings\n\n```dataview\nTABLE\n\tfull-date as \"Full Date\"\nFROM \"01 Notes/02 Resources/03 Meetings\"\nWHERE project = {{VALUE: Linked Area}}\nSORT full-date DESC\n```"
             },
             "insertAfter": {
               "enabled": false,

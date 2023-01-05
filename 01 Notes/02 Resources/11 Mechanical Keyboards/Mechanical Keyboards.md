@@ -1,3 +1,15 @@
+# Projects
+
+```dataview
+TABLE
+	target AS "Target",
+	goal AS "Goal",
+	deadline as "Deadline",
+	complete as "Complete"
+FROM "02 Action/02 Projects"
+WHERE Area = [[Mechanical Keyboards]]
+SORT complete DESCENDING
+```
 # Hardware
 
 ## Split Keyboards
@@ -18,6 +30,8 @@
 ## QMK
 
 ### OLED
+
+^d64747
 
 - HELL0 NAVI. Interface: https://github.com/qmk/qmk_firmware/tree/master/keyboards/lily58/keymaps/druotoni
 - Bongo Cat:
@@ -128,9 +142,6 @@
 
 ### Ideas
 
-- Include WPM / Bongo Cat on display:
-	- https://youtu.be/WdGJuWOdpCA
-	- https://github.com/foureight84/qmk_firmware/tree/sofle_foureight84
-- Include typed characters on display
 - Highlight typed keys with "aftertouch" and effect
 - Show active layer on display and through LEDs
+- Add Pimoroni [Galactic Unicorn](https://shop.pimoroni.com/products/galactic-unicorn?variant=40057440960595) `53x11` LED display, mirroring typed keys and animation

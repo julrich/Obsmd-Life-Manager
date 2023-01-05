@@ -33,7 +33,7 @@ tags: project
 
 ```dataview
 TABLE
-	full-date
+	full-date as "Full Date"
 FROM "01 Notes/02 Resources/03 Meetings"
 WHERE project = [[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]
 SORT full-date DESC
