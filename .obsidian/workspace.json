@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,6 +249,7 @@
   "active": "3a5ac6f27576281d",
   "lastOpenFiles": [
     "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "02 Action/01 Tasks/01 Tasks.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-04.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-05 - Sync with Daniel after new year.md",
@@ -256,7 +257,6 @@
     "01 Notes/01 Areas/01 Music/TSNM.md",
     "02 Action/02 Action.md",
     "02 Action/02 Projects/02 Projects.md",
-    "02 Action/01 Tasks/01 Tasks.md",
     "Home.md"
   ]
 }
