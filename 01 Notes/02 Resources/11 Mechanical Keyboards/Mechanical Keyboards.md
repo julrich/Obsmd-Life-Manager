@@ -103,7 +103,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 	- ![[Pasted image 20221228122044.png]]
 	- ![[Pasted image 20230102173629.png]]
 	- ![[Pasted image 20230102173654.png]]
-- Anti slip feet
+- ✅ Anti slip feet
 	- "Elastikpuffer, 320 Stück Gummipuffer Schutzpuffer Transparent Möbelpuffer Selbstklebende Gummifüße Gumminoppen Lärm Dämpfung Pads Anschlagpuffer (8 Größen)": https://www.amazon.de/dp/B0929JTY9G?psc=1&smid=A17HADPK8J469Q&ref_=chk_typ_imgToDp
 	- ![[Pasted image 20230103234743.png]]
 - Sea-Picro
