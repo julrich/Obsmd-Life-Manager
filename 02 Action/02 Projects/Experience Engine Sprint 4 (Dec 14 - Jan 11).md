@@ -12,12 +12,18 @@ tags: project
 ---
 ## Tasks
 
-- [ ] Fix redirect loop in production auth #next  🔼 📅 2023-01-04
+- [x] Fix redirect loop in production auth 🔼 📅 2023-01-04 ✅ 2023-01-06
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-10
 - [ ] Do some reviews in between
-- [ ] Give [[Nazif Isaki]] feedback for his implementation strategy for `#17765` 🔼 📅 2023-01-06
+- [ ] Give [[Nazif Isaki]] feedback for his implementation strategy for `#17765` #next 🔼 📅 2023-01-09
 - [x] Discuss design of error message spanning two fields with [[Daniel Ley]] 🔼 ⏳ 2023-01-05 📅 2023-01-06 ✅ 2023-01-06
 - [x] Get access to `admin_ui` repository in Taktsoft Gitlab  ⏫ 📅 2023-01-05 ✅ 2023-01-05
+- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development 🔼 📅 2023-01-09
+
+## Tickets in sprint
+
+- Frontend-Testing Konzept erstellen: https://resources.bonn.taktsoft.com/redmine/issues/17639
+- Authentifizierung prüfen: https://resources.bonn.taktsoft.com/redmine/issues/17592
 
 ## Links
 

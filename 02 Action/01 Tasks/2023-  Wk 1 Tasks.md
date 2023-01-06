@@ -2,7 +2,7 @@
 
 - [ ] Check why crossing of tasks in a project doesn't add finish date, etc 🔼 📅 2023-01-08
 
-- [ ] Update `.circleci/config.yml` after Circle CI incident ⏫ 📅 2023-01-06
+- [ ] Update `.circleci/config.yml` after Circle CI incident ⏫ 📅 2023-01-09
 
 - [ ] Renew `GH_TOKEN` "kickstartDS Auto Release-Token", see [[Token and Environment variables]] 🔼 📅 2023-03-28
 
@@ -16,7 +16,7 @@
 
 - [ ] Clean up authorized OAuth apps, Github apps in Github profiles (personal, ruhmesmeile, kickstartDS) 🔼 📅 2023-02-28
 
-- [ ] CIrcle all Circle CI secrets ⏫ 📅 2023-01-05
+- [ ] CIrcle all Circle CI secrets ⏫ 📅 2023-01-09
 
 - [ ] Get a better deskmat covering mouse and keyboard space 🔼 📅 2023-02-15
 

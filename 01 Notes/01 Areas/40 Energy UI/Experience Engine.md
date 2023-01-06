@@ -1,7 +1,7 @@
 # Info
 
 Redmine agile board: https://resources.bonn.taktsoft.com/redmine/projects/experience-engine/agile/board
-Gitlab projects: https://git.taktsoft.com/sw-web/experience-engine, https://git.taktsoft.com/taktsoft/wlp.cloud/journey_engine, https://git.taktsoft.com/taktsoft/wlp.cloud/admin_ui
+Gitlab projects: https://git.taktsoft.com/sw-web/experience-engine, https://git.taktsoft.com/taktsoft/wlp.cloud/journey_engine, https://git.taktsoft.com/taktsoft/wlp.cloud/admin_ui, https://git.taktsoft.com/taktsoft/wlp.cloud/metrics
 Testdata: https://resources.bonn.taktsoft.com/redmine/projects/experience-engine/wiki/Testdaten
 Working Agreements: https://resources.bonn.taktsoft.com/redmine/projects/experience-engine/wiki/Working_Agreements
 
@@ -13,6 +13,8 @@ There's a token `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` needed to access dependencies
 
 Needs `master.key` locally (in `config/`) to install with `bundle install`.
 Access to repositories `admin_ui`, `journey_engine`, `experience_engine`, `metrics` is needed in Taktsoft Gitlab.
+
+For additional notes about Ruby / Rails setup, especially under Arch Linux, see: [[Ruby & Rails]].
 
 ### Starting locally
 
@@ -31,6 +33,19 @@ Run migrations with: `rails db:migrate`.
 ### Install canary release of `experience_engine`
 
 A (not yet) stably released version of the `experience_engine` can be included by updating the dependency (`@sw-web-experience-engine/experience-engine`) in `journey_engine`s `package.json`, followed by a `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN=<YOUR TOKEN> yarn`.
+
+### Install local release of `experience_engine`
+
+Can be done by linking with `yarn link`:
+
+- Export `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` first
+- Need to change path in `.env.local` for `NEXT_PUBLIC_BASE_URL` from `""` to `"/journeys"`
+- Need to change path in `.env.local` for `NEXT_PUBLIC_API_BASE_URL` from `"/api"` to `""`
+- Generate new build (from `packages/journey`) with `yarn build`
+- Globally link package in `experience_engine/packages/journey` with `yarn link`
+- Locally link package in `journey_engine` with `yarn link @sw-web-experience-engine/experience-engine`
+- Integrate linked release into `journey_engine` with `yarn prepare && yarn build`
+- Start server with `rails s` (start Prometheus exporter and PostgresQL DB first, if not already running) 
 
 # Projects
 

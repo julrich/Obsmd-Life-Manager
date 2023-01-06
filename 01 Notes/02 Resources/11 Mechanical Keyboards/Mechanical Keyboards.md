@@ -27,6 +27,45 @@ SORT complete DESCENDING
 
 # Software
 
+## Typing
+
+Pages where you can train typing precision and speed:
+
+- https://monkeytype.com/
+
+## Alternative layouts
+
+### Comparisons
+
+- QWERTY vs. Dvorak vs. Colemak Keyboard Layouts: https://www.daskeyboard.com/blog/qwerty-vs-dvorak-vs-colemak-keyboard-layouts/
+- Keyboard layout evaluation: https://github.com/bclnr/kb-layout-evaluation
+
+![[Pasted image 20230106164324.png]]
+https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentences_heatmap_qwerty/
+
+### Colemak
+
+#### Links
+
+- https://dreymar.colemak.org/
+- https://forum.colemak.com/topic/2855-learning-colemakdh-on-a-split-columnar-keyboard/
+- Keycaps:
+	- https://drop.com/talk/42259/the-first-sculptured-keycaps-set-featuring-colemak-dh-alternative-layout-to-be-exact-the-first-one-w
+	- https://novelkeys.com/products/gmk-oblivion-v3-1-gb?variant=40377910886567
+- https://www.colemak.academy/
+	- maybe succeeded by this fork? https://gnusenpai.net/colemakclub/
+- https://colemakmods.github.io/mod-dh/
+- Colemak vs Colemak-DH: https://www.reddit.com/r/ErgoMechKeyboards/comments/sqcx5s/colemak_vs_colemakdh/
+- Miryoku:
+	- GIthub: https://github.com/manna-harbour/miryoku
+	- Reference Manual: https://github.com/manna-harbour/miryoku/tree/master/docs/reference
+
+### Dvorak
+
+#### Links
+
+- https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
 ## QMK
 
 ### OLED
@@ -44,7 +83,6 @@ SORT complete DESCENDING
 - https://thomasbaart.nl/2018/12/01/reducing-firmware-size-in-qmk/
 - https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html
 - https://github.com/qmk/keyboard_awesome
-- https://github.com/manna-harbour/miryoku
 - https://blog.splitkb.com/how-to-work-with-small-keyboards
 - https://planelles.dev/blog/2019/08/28
 - https://github.com/qmk/qmk_firmware/blob/master/docs/feature_tap_dance.md

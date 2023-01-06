@@ -85,18 +85,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-06 - ExE Daily.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b56ba70ed19b4a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
                 "mode": "source",
                 "source": false
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -258,17 +246,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b56ba70ed19b4a0e",
+  "active": "97224782be2c71ab",
   "lastOpenFiles": [
-    "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
     "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
-    "02 Action/01 Tasks/01 Tasks.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
     "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
-    "02 Action/02 Projects/Taktsoft Campus Talents MVP.md",
-    "02 Action/02 Projects/Improve kickstartDS Onboarding.md",
-    "02 Action/02 Projects/02 Projects.md",
-    "Home.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-06 - ExE Daily.md"
+    "03 Periodic/01 Daily/2023/01-January/2023-01-07.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-06 - ExE Daily.md",
+    "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
+    "01 Notes/01 Areas/03 Software/Ruby & Rails.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-06 - ExE Redirect loop reproduction with Ivan.md"
   ]
 }
