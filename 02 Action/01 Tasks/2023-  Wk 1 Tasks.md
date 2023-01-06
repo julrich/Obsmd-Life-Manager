@@ -1,3 +1,5 @@
+- [ ] Check why crossing of tasks in a project doesn't add finish date, etc 🔼 📅 2023-01-08
+
 - [ ] Update `.circleci/config.yml` after Circle CI incident ⏫ 📅 2023-01-06
 
 - [ ] Renew `GH_TOKEN` "kickstartDS Auto Release-Token", see [[Token and Environment variables]] 🔼 📅 2023-03-28
@@ -8,7 +10,7 @@
 
 - [ ] Get all flagged emails in Outlook into tasks / notes 🔼 📅 2023-01-31
 
-- [ ] Clean up Github keys / personal access tokens, use new format 🔼 📅 2023-02-28
+- [x] Clean up Github keys / personal access tokens, use new format 🔼 📅 2023-02-28 ✅ 2023-01-06
 
 - [ ] Clean up authorized OAuth apps, Github apps in Github profiles (personal, ruhmesmeile, kickstartDS) 🔼 📅 2023-02-28
 
