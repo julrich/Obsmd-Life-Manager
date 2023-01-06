@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
+                "file": "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-06.md"
+                "file": "01 Notes/01 Areas/40 Energy UI/Experience Engine.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
+                "file": "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,15 +260,15 @@
   },
   "active": "b56ba70ed19b4a0e",
   "lastOpenFiles": [
-    "02 Action/01 Tasks/01 Tasks.md",
-    "02 Action/02 Projects/Taktsoft Campus Talents MVP.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
+    "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
+    "02 Action/01 Tasks/01 Tasks.md",
     "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
+    "02 Action/02 Projects/Taktsoft Campus Talents MVP.md",
+    "02 Action/02 Projects/Improve kickstartDS Onboarding.md",
+    "02 Action/02 Projects/02 Projects.md",
+    "Home.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-06 - ExE Daily.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-05.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-06 - ExE Redirect loop reproduction with Ivan.md",
-    "01 Notes/02 Resources/03 Meetings/2022-12-29 - ExE Handover Michael Micke.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-06 - kickstartDS Daily.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-05 - Sync with Daniel after new year.md"
+    "03 Periodic/01 Daily/2023/01-January/2023-01-05.md"
   ]
 }
