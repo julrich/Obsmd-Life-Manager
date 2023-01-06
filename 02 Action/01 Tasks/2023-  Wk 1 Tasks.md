@@ -1,3 +1,5 @@
+- [ ] Move overdue tasks, preferrably in accordance to GTD ⏫ 📅 2023-01-08
+
 - [ ] Document generation of `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` with [[Lukas Mestel]] 🔼 📅 2023-01-10
 
 - [ ] Check why crossing of tasks in a project doesn't add finish date, etc 🔼 📅 2023-01-08

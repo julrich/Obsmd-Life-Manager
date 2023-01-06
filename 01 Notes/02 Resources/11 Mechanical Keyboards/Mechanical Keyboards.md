@@ -12,6 +12,10 @@ SORT complete DESCENDING
 ```
 # Hardware
 
+## Keyboard
+
+- Awesome Keyboards: https://github.com/qmk/keyboard_awesome
+
 ## Split Keyboards
 
 - Awesome Split Keyboards: https://github.com/diimdeep/awesome-split-keyboards
@@ -32,6 +36,9 @@ SORT complete DESCENDING
 Pages where you can train typing precision and speed:
 
 - https://monkeytype.com/
+- https://www.keybr.com/de/index
+- https://en.wikipedia.org/wiki/Epistory_-_Typing_Chronicles
+- https://en.wikipedia.org/wiki/Nanotale_-_Typing_Chronicles
 
 ## Alternative layouts
 
@@ -59,12 +66,23 @@ https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentence
 - Miryoku:
 	- GIthub: https://github.com/manna-harbour/miryoku
 	- Reference Manual: https://github.com/manna-harbour/miryoku/tree/master/docs/reference
+- QWERTY is the worst keyboard layout. A Colemak Odyssey: https://youtube.com/watch?v=VfSloMvEwd4
 
 ### Dvorak
 
 #### Links
 
 - https://en.wikipedia.org/wiki/Dvorak_keyboard_layout
+
+### Halmak
+
+#### Links
+
+- https://github.com/kaievns/halmak
+
+## MCUs and Firmware
+
+- https://www.reddit.com/r/ErgoMechKeyboards/comments/z0eirf/recommended_mcus_and_firmware_in_2022/
 
 ## QMK
 
@@ -78,14 +96,32 @@ https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentence
 	- Sofle Keyboard Bongo Cat WPM: https://www.youtube.com/watch?v=WdGJuWOdpCA
 - Luna the keyboard cat: https://www.reddit.com/r/olkb/comments/lmtgxc/introducing_luna_the_qmk_keyboard_pet/
 
-### Links
+### MCUs
+
+#### Raspberry Pico / RP2040
+
+- https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers
+- QMK on RP2040 Split Keyboard Overview: https://youtube.com/watch?v=OHGVUv2wHVk
+- https://golem.hu/guide/raspberry-pi-pico
+
+#### Sea Micro
+
+- Sea-Micro Review : https://youtube.com/watch?v=xYn4d1Y6pBM
+
+#### Black Pill
+
+- https://42keebs.eu/shop/parts/controllers/black-pill-stm32-arm-controller/
+- https://www.electronics-lab.com/meet-stm32-black-pill-development-board/
+
+### Firmware
 
 - https://thomasbaart.nl/2018/12/01/reducing-firmware-size-in-qmk/
-- https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html
-- https://github.com/qmk/keyboard_awesome
-- https://blog.splitkb.com/how-to-work-with-small-keyboards
-- https://planelles.dev/blog/2019/08/28
 - https://github.com/qmk/qmk_firmware/blob/master/docs/feature_tap_dance.md
+- https://blog.splitkb.com/how-to-work-with-small-keyboards
+
+### Keyboard layouts
+
+- https://planelles.dev/blog/2019/08/28
 - https://www.reddit.com/r/olkb/comments/a0texz/whatre_your_favorite_qmk_hacks/
 
 ## VIA
@@ -102,10 +138,11 @@ https://www.caniusevia.com/docs/supported_keyboards
 ### Already bought
 
 - Sofle RGB
-	- Tracking: https://webapp.hongkongpost.hk/en/mail_tracking/index.html > `RD024816924HK`
-	- https://www.etsy.com/de/listing/1256160429/vorgelotete-sofle-rgb-mx-hotswap-sockel
-	- https://josefadamcik.github.io/SofleKeyboard/
-	- https://github.com/josefadamcik/SofleKeyboard
+	- Tracking (only additional parts?): https://webapp.hongkongpost.hk/en/mail_tracking/index.html > `RD024816924HK`
+	- Etsy Listing: https://www.etsy.com/de/listing/1256160429/vorgelotete-sofle-rgb-mx-hotswap-sockel
+	- Introduction blog post: https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html
+	- Github documentation: https://josefadamcik.github.io/SofleKeyboard/
+	- Github repository: https://github.com/josefadamcik/SofleKeyboard
 	- ![[Pasted image 20221230175054.png]]
 	  https://showcase.beekeeb.com/sofle-rgb-mx-xda-translucent-keycaps/
 	- ![[Pasted image 20221228120447.png]]
