@@ -10,6 +10,7 @@ contact:
 - telegram: 
 - twitter: 
 location: 
+banner: <% tp.web.random_picture("200x200", "landscape,water") %>
 ---
 
 **Birthday:** yyyy-mm-dd

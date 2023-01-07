@@ -47,6 +47,13 @@
           "type": "Macro",
           "command": false,
           "macroId": "055f3a3f-d3b6-45d2-9cf0-7fadd70cb155"
+        },
+        {
+          "id": "5fbdcd0b-2534-4906-b9a3-f495f259192d",
+          "name": "+ Person",
+          "type": "Macro",
+          "command": false,
+          "macroId": "6e58c37f-2596-4ca6-b355-e503f12a94a4"
         }
       ],
       "collapsed": false
@@ -494,6 +501,46 @@
               "enabled": true,
               "folders": [
                 "01 Notes/02 Resources/03 Meetings"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "+ Person",
+      "id": "6e58c37f-2596-4ca6-b355-e503f12a94a4",
+      "commands": [
+        {
+          "name": "Person Template",
+          "type": "NestedChoice",
+          "id": "228f73a2-65ac-4578-8f6e-8327382c394c",
+          "choice": {
+            "id": "315ffe47-7f4f-45b4-873c-41f7ac711759",
+            "name": "Person Template",
+            "type": "Template",
+            "command": false,
+            "templatePath": "05 Templates/Person Template",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:Name}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "01 Notes/02 Resources/01 People"
               ],
               "chooseWhenCreatingNote": false,
               "createInSameFolderAsActiveFile": false

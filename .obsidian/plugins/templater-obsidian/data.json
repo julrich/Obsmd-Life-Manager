@@ -37,6 +37,10 @@
     {
       "folder": "01 Notes/02 Resources/02 Media",
       "template": "05 Templates/Media Template.md"
+    },
+    {
+      "folder": "01 Notes/02 Resources/01 People",
+      "template": "05 Templates/Person Template.md"
     }
   ],
   "syntax_highlighting": true,
