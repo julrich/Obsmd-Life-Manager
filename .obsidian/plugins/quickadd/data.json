@@ -555,6 +555,45 @@
             "openFile": true,
             "openFileInMode": "default"
           }
+        },
+        {
+          "name": "Content",
+          "type": "NestedChoice",
+          "id": "85dc1f08-4074-4282-a0f0-848491669940",
+          "choice": {
+            "id": "e197b4b1-0401-4eed-a83a-b9e66b60f5e8",
+            "name": "Content",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "# {{VALUE:Name}}\n\n## Details\n\n### Birthday\n[Birthday :: {{VDATE:Birthday, MM-DD}}]\n\n#### Reminder\n- [ ] [[{{VALUE:Name}}]] Birthday ({{VDATE:Birthday, MM-DD}}) #ann 🔁 every year 📅 {{DATE:YYYY-}}{{VDATE:Birthday, MM-DD}}\n\n### Company\n[Company :: {{VALUE:Company}}]\n\n#### Role\n\n#### Details\n\n## How We Met\n\n## Meetings\n\n```dataview\nTABLE\n\tfull-date as \"Full Date\"\nFROM \"01 Notes/02 Resources/03 Meetings\"\nWHERE contains(Attendees, [[{{VALUE:Name}}]])\nSORT full-date DESC\n```\n\n## Projects\n\n```dataview\nTABLE\n\ttarget as \"Target\",\n\tdeadline as \"Deadline\"\nFROM \"02 Action/02 Projects\"\nWHERE contains(Team, [[{{VALUE:Name}}]])\nSORT full-date DESC\n```"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
         }
       ],
       "runOnStartup": false

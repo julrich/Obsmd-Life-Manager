@@ -10,9 +10,9 @@ project:
 
 # <% tp.file.title %>
 
-Date: <% tp.date.now('MMMM DD, YYYY') %>
-Attendees:
-Length: `XXm`
+[Date :: <% tp.date.now('MMMM DD, YYYY') %>]
+[Attendees :: [[Jonas Ulrich]]]
+[Length :: `XXm`]
 
 ---
 

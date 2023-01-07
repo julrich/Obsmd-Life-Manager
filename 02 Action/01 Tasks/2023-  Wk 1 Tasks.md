@@ -1,3 +1,37 @@
+- [ ] Fix automatic "Meetings" in [[2023-01-06]], copy to other daily notes and template ⏫ 📅 2023-01-08
+
+- [ ] Fix [[🥂 Annual Tasks]] tasks query ⏫ 📅 2023-01-08
+
+- [ ] Do weekly review ⏫ 📅 2023-01-08
+
+- [ ] Finish yesterdays note by processing the links ⏫ 📅 2023-01-08
+
+- [ ] Complete note for [[Daniel Lehmann]] 🔽 📅 2023-01-09
+
+- [ ] Complete note for [[Elis Westphal]] 🔽 📅 2023-01-09
+
+- [ ] Add note for [[Anita Lehmann]] 🔽 📅 2023-01-15
+
+- [ ] Complete note for [[Lukas Mestel]] 🔽 📅 2023-01-09
+
+- [ ] Complete note for [[Franz Leven]] 🔽 📅 2023-01-09
+
+- [ ] Complete note for [[Biser Yordanov]] 🔽 📅 2023-01-09
+
+- [ ] Complete note for [[Daniel Ley]] 🔽 📅 2023-01-09
+
+- [ ] Complete note for [[Simon Stehle]] 🔽 📅 2023-01-09
+
+- [ ] Complete note for [[Eduard Dridiger]] 🔽 📅 2023-01-09
+
+- [ ] Complete note for [[Niels Cloer]] 🔽 📅 2023-01-08
+
+- [ ] Complete note for [[Ivan Barisic]] 🔽 📅 2023-01-09
+
+- [ ] Complete note for [[Michael Micke]] 🔽 📅 2023-01-09
+
+- [ ] Get [[Nazif Isaki]]s birthday 🔽 📅 2023-01-09
+
 - [ ] Move overdue tasks, preferrably in accordance to GTD ⏫ 📅 2023-01-08
 
 - [ ] Document generation of `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` with [[Lukas Mestel]] 🔼 📅 2023-01-10
@@ -48,5 +82,5 @@
 
 - [ ] Add area to meeting notes, add meeting overview to area dashboard note   📅 2023-01-08
 
-- [ ] Add missing people entries 🔼 📅 2023-01-02
+- [x] Add missing people entries 🔼 📅 2023-01-02 ✅ 2023-01-07
 

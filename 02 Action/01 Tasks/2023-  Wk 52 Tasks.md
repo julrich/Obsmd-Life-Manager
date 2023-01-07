@@ -1,4 +1,4 @@
-- [ ] Integrate Templater and Quick Add with [[Person Template]]   📅 2023-01-01
+- [x] Integrate Templater and Quick Add with [[Person Template]] 📅 2023-01-01 ✅ 2023-01-07
 
 - [ ] Create general Resources directory note template   📅 2023-01-01
 

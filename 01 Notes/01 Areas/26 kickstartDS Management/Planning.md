@@ -1,2 +1,3 @@
 - Planning with the whole team start of next week, try to work out a plan (available resources, billable hours, etc) until then
 - Maybe introduce regular sprint / iteration intervals, even if resources are slim for some of those as a result
+- https://en.wikipedia.org/wiki/Autonomation

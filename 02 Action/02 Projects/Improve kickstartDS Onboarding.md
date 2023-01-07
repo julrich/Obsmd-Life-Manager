@@ -6,6 +6,7 @@ tags: project
 [Goal :: [[Grow kickstartDS Community]]]  ⠀•⠀ [Deadline :: 📅 2023-02-28 ] ⠀•⠀ [Complete :: ❌]
 [Target :: When onboarding can be completed effortlessly by a beginner]
 [Area :: [[Onboarding]]]
+[Team :: [[Jonas Ulrich]]]
 
 ---
 ## Tasks

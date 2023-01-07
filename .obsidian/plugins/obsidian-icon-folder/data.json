@@ -8,11 +8,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiDeviceLine",
+      "RiCpuLine",
       "RiCodeBoxLine",
       "RiVideoChatLine",
-      "RiKeyboardLine",
-      "RiReactjsLine",
-      "RiClipboardLine"
+      "RiKeyboardLine"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -46,5 +46,7 @@
   "05 Templates": "RiFileEditLine",
   "01 Notes/02 Resources/05 Attachments": "RiImage2Line",
   "07 Guide": "RiQuestionLine",
-  "06 Scripts": "RiCodeBoxLine"
+  "06 Scripts": "RiCodeBoxLine",
+  "01 Notes/02 Resources/13 Microprocessors": "RiCpuLine",
+  "01 Notes/02 Resources/14 Cyberdecks": "RiDeviceLine"
 }

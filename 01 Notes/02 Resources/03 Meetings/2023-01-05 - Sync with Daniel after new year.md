@@ -4,16 +4,15 @@ full-date: 2023-01-05
 week: 2023-W01
 month: 2023 - 01-January
 year: 2023
-banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de
 area: "[[Planning]]"
 project:
 ---
 
 # 2023-01-05 - Sync with Daniel after new year
 
-Date: January 05, 2023
-Attendees: [[Daniel Ley]], [[Jonas Ulrich]]
-Length: `120m`
+[Date :: January 05, 2023]
+[Attendees :: [[Daniel Ley]], [[Jonas Ulrich]]]
+[Length :: `120m`]
 
 ---
 

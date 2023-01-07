@@ -4,16 +4,15 @@ full-date: 2023-01-04
 week: 2023-W01
 month: 2023 - 01-January
 year: 2023
-banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de
 area: "[[Experience Engine]]"
 project: "[[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]"
 ---
 
-# 2023-01-04 - ExE Handover ticket ELMO block with [[Nazif Isaki]]
+# 2023-01-04 - ExE Handover ticket ELMO block with Nazif
 
-Date: January 04, 2023
-Attendees: [[Nazif Isaki]], [[Jonas Ulrich]]
-Length: `60m`
+[Date :: January 04, 2023]
+[Attendees :: [[Nazif Isaki]], [[Jonas Ulrich]]]
+[Length :: `60m`]
 
 ---
 

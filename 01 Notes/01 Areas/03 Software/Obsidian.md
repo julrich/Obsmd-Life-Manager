@@ -19,6 +19,9 @@
 - Monthly Review on every last sunday of the month
 - Area prefixes: `01-19` = personal, `20-29` = kickstartDS, `40-59` projects
 - Resource prefixes: `01-09` structured, `10-29` topics
+- User scripts for Templater can be added to `06 Scripts` as a `.js` file with a single function export
+	- pass `tp` as a parameter to the function to access `tp`-functionality
+	- `await` works in user scripts, just make the function async (needed to use promise based `tp` functions in a user script)
 
 # Extension Ideas
 
@@ -57,7 +60,13 @@
 - Obsidian As A Second Brain: The ULTIMATE Tutorial: https://www.youtube.com/watch?v=WqKluXIra70
 - See guide included with Obsidian Life Manager: [[Quick Start]]
 - 6 Useful Templates for Obsidian: https://filipedonadio.com/6-useful-templates-for-obsidian/
-  Clipped: [[6 Useful Templates for Obsidian]] 
+  Clipped: [[6 Useful Templates for Obsidian]]
+- Display random image:
+	- https://www.reddit.com/r/ObsidianMD/comments/uq8qol/random_image_when_loading_the_daily_note/
+	- https://silentvoid13.github.io/Templater/internal-functions/internal-modules/web-module.html
+- User functions:
+	- https://silentvoid13.github.io/Templater/user-functions/script-user-functions.html
+	- `await` works in Obsidian user scripts, just make the function async (needed to use promise based `tp` functions in a user script)
 
 ## Projects
 

@@ -4,16 +4,15 @@ full-date: 2023-01-06
 week: 2023-W01
 month: 2023 - 01-January
 year: 2023
-banner: https://preview.redd.it/arqa352ph7x61.jpg?width=960&crop=smart&auto=webp&s=84f9245d607b029667d5bfc4abf36547fc6213de
 area: "[[Experience Engine]]"
 project: "[[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]"
 ---
 
 # 2023-01-06 - ExE Redirect loop reproduction with Ivan
 
-Date: January 06, 2023
-Attendees: [[Ivan Barisic]], [[Jonas Ulrich]]
-Length: `15m`
+[Date :: January 06, 2023]
+[Attendees :: [[Ivan Barisic]], [[Jonas Ulrich]]]
+[Length :: `15m`]
 
 ---
 
