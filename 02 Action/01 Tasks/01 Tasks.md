@@ -1,5 +1,5 @@
 ---
-banner: https://onedesblog.com/wp-content/uploads/2021/07/landscape-minimal-mountains-art-wallpaper.jpg
+banner: https://images.unsplash.com/photo-1505444226624-239b421655ab?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=150&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3QgdGV4dHVyZXx8fHx8fDE2NzMxMDYzNDU&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900
 banner_x: 0.5
 banner_y: 0.5
 ---

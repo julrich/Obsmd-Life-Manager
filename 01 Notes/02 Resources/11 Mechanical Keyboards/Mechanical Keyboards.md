@@ -181,16 +181,17 @@ https://www.caniusevia.com/docs/supported_keyboards
 - ✅ Anti slip feet
 	- "Elastikpuffer, 320 Stück Gummipuffer Schutzpuffer Transparent Möbelpuffer Selbstklebende Gummifüße Gumminoppen Lärm Dämpfung Pads Anschlagpuffer (8 Größen)": https://www.amazon.de/dp/B0929JTY9G?psc=1&smid=A17HADPK8J469Q&ref_=chk_typ_imgToDp
 	- ![[Pasted image 20230103234743.png]]
-- Sea-Picro
+- 🚚 Sea-Picro
 	- https://joshajohnson.github.io/sea-picro/
 	- https://customkbd.com/products/sea-picro?_pos=1&_sid=50beea8f0&_ss=r
 	- ![[Pasted image 20221231145529.png]]
 	- ![[Pasted image 20221231145537.png]]
-- Cable Name Tag
+- 🚚 Cable Name Tag
 	- Ordered in black with `TSNM` as the text
 	- https://www.etsy.com/de/listing/762665558/personalisierte-kabelanhanger-3d
 	- ![[Pasted image 20230104132759.png]]
-- TRRS Cable
+- 🚚 TRRS Cable
+	- Tracking: https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=LZ256248920US
 	- Ordered: ![[Pasted image 20230105142340.png]]
 	- https://www.etsy.com/de/listing/1377899017/benutzerdefiniertes-geteilte-tastatur
 	- ![[Pasted image 20221228122145.png]]

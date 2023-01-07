@@ -11,10 +11,10 @@ tags: project
 ---
 ## Tasks
 
-- [ ] [[Dotfiles]]: Add Obsidian config to dotfiles #next 🔼
-- [ ] [[Obsidian]]: Combine PARA / GTD / OBSLM 
-- [ ] [[Obsidian]]: Add reading material to [[Obsidian]]
-- [ ] [[Obsidian]]: Adapt color theme to **kickstartDS** (define color palette in Figma) #wait 
+- [ ] [[Dotfiles]]: Add Obsidian config to dotfiles 🔼
+- [x] [[Obsidian]]: Combine PARA / GTD / OBSLM ✅ 2023-01-07
+- [x] [[Obsidian]]: Add reading material to [[Obsidian]] ✅ 2023-01-07
+- [ ] [[Obsidian]]: Adapt color theme to **kickstartDS** (define color palette in Figma) #next 
 - [ ] [[Obsidian]]: Add cover images to main categories / projects (define template in Figma) #wait 
 - [ ] [[Obsidian]]: Create macro for notes (+ Note) #wait 
 - [ ] [[ArchiveBox]]: De-activate archive_org submittal
