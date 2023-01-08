@@ -137,7 +137,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 
 ### Already bought
 
-- Sofle RGB
+- 🚚 Sofle RGB
 	- Images of the done build:
 	- Tracking Sofle: http://www.hongkongpost.hk/eng/tracking/index.htm > `LK773201020HK`
 	- Etsy Listing: https://www.etsy.com/de/listing/1256160429/vorgelotete-sofle-rgb-mx-hotswap-sockel
@@ -157,7 +157,6 @@ https://www.caniusevia.com/docs/supported_keyboards
 		- ![[Pasted image 20221230170207.png]]
 		- ![[Pasted image 20221230170214.png]]
 	- Keycap overview: https://matrixzj.github.io/docs/gmk-keycaps/Grand-Prix/ ^d985aa
-	- Tracking: https://www.fedex.com/fedextrack/?trknbr=392800639854&trkqual=2459943000~392800639854~FX
 	- ✅ GMK Grand Prix Base Kit ^13d7a3
 		- https://novelkeys.com/products/gmk-grand-prix?variant=36492567576743
 		- https://candykeys.com/product/gmk-grand-prix-base-kit
@@ -172,7 +171,6 @@ https://www.caniusevia.com/docs/supported_keyboards
 		- ![[Pasted image 20221228120356.png]]
 - ✅ Kailh Speed Bronze Switches
 		- Shop: https://www.caseking.de/glorious-kailh-speed-bronze-switches-120-stueck-gakc-068.html
-		- Tracking: https://www.dhl.de/de/privatkunden/pakete-empfangen/verfolgen.html?piececode=156205778203
 		- ![[Pasted image 20221228120549.png]]
 - 🚚 USB-C Cable
 	- Tracking: http://www.sf-express.com/us/en/ > `SF6043522735038`
