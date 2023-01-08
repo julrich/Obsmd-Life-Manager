@@ -138,7 +138,8 @@ https://www.caniusevia.com/docs/supported_keyboards
 ### Already bought
 
 - Sofle RGB
-	- Tracking (only additional parts?): https://webapp.hongkongpost.hk/en/mail_tracking/index.html > `RD024816924HK`
+	- Images of the done build:
+	- Tracking Sofle: http://www.hongkongpost.hk/eng/tracking/index.htm > `LK773201020HK`
 	- Etsy Listing: https://www.etsy.com/de/listing/1256160429/vorgelotete-sofle-rgb-mx-hotswap-sockel
 	- Introduction blog post: https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html
 	- Github documentation: https://josefadamcik.github.io/SofleKeyboard/
@@ -148,7 +149,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 	- ![[Pasted image 20221228120447.png]]
 	- ![[Pasted image 20221228124423.png]]
 	- ![[Pasted image 20221228124500.png]]
-- ✅ GMK Grand Prix
+- 🚚 GMK Grand Prix
 	- Images
 		- ![[Pasted image 20221230165825.png]]
 		- ![[Pasted image 20221230170151.png]]
@@ -157,15 +158,15 @@ https://www.caniusevia.com/docs/supported_keyboards
 		- ![[Pasted image 20221230170214.png]]
 	- Keycap overview: https://matrixzj.github.io/docs/gmk-keycaps/Grand-Prix/ ^d985aa
 	- Tracking: https://www.fedex.com/fedextrack/?trknbr=392800639854&trkqual=2459943000~392800639854~FX
-	- GMK Grand Prix Base Kit ^13d7a3
+	- ✅ GMK Grand Prix Base Kit ^13d7a3
 		- https://novelkeys.com/products/gmk-grand-prix?variant=36492567576743
 		- https://candykeys.com/product/gmk-grand-prix-base-kit
 		- ![[Pasted image 20221228120218.png]]
-	- GMK Grand Prix Novelties Kit ^199139
+	- 🚚 GMK Grand Prix Novelties Kit ^199139
 		- https://www.reddit.com/r/mechmarket/comments/vqr51y/usor_h_gmk_deku_gmk_retrocast_gmk_space_cadet_gmk/
 		- https://candykeys.com/product/gmk-grand-prix-novelty-kit
 		- ![[Pasted image 20221228120340.png]]
-	- GMK Grand Prix Space Kit
+	- 🚚 GMK Grand Prix Space Kit
 		- https://www.reddit.com/r/mechmarket/comments/vqr51y/usor_h_gmk_deku_gmk_retrocast_gmk_space_cadet_gmk/
 		- https://candykeys.com/product/gmk-grand-prix-space-kit
 		- ![[Pasted image 20221228120356.png]]
@@ -173,7 +174,8 @@ https://www.caniusevia.com/docs/supported_keyboards
 		- Shop: https://www.caseking.de/glorious-kailh-speed-bronze-switches-120-stueck-gakc-068.html
 		- Tracking: https://www.dhl.de/de/privatkunden/pakete-empfangen/verfolgen.html?piececode=156205778203
 		- ![[Pasted image 20221228120549.png]]
-- USB-C Cable
+- 🚚 USB-C Cable
+	- Tracking: http://www.sf-express.com/us/en/ > `SF6043522735038`
 	- https://www.etsy.com/de/listing/1189082143/gewickeltes-kabel-rgb-leuchtendes
 	- ![[Pasted image 20221228122044.png]]
 	- ![[Pasted image 20230102173629.png]]
@@ -182,6 +184,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 	- "Elastikpuffer, 320 Stück Gummipuffer Schutzpuffer Transparent Möbelpuffer Selbstklebende Gummifüße Gumminoppen Lärm Dämpfung Pads Anschlagpuffer (8 Größen)": https://www.amazon.de/dp/B0929JTY9G?psc=1&smid=A17HADPK8J469Q&ref_=chk_typ_imgToDp
 	- ![[Pasted image 20230103234743.png]]
 - 🚚 Sea-Picro
+	- Tracking: https://webapp.hongkongpost.hk/en/mail_tracking/index.html > `RD024816924HK`
 	- https://joshajohnson.github.io/sea-picro/
 	- https://customkbd.com/products/sea-picro?_pos=1&_sid=50beea8f0&_ss=r
 	- ![[Pasted image 20221231145529.png]]

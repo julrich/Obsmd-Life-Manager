@@ -69,26 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17e29f20652a5c5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-07.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -189,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-07.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-08.md"
               }
             }
           },
@@ -199,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-07.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,17 +230,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "17e29f20652a5c5b",
+  "active": "17b90517f4743ef5",
   "lastOpenFiles": [
+    "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-08.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-07.md",
+    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
     "01 Notes/01 Areas/26 kickstartDS Management/Planning.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
     "01 Notes/01 Areas/24 kickstartDS Community/Transparency.md",
     "01 Notes/02 Resources/13 Microprocessors/ESP32.md",
     "01 Notes/02 Resources/14 Cyberdecks/14 Cyberdecks.md",
-    "01 Notes/01 Areas/03 Software/Obsidian.md",
-    "01 Notes/02 Resources/14 Cyberdecks/Untitled.md",
-    "01 Notes/02 Resources/13 Microprocessors/Cyberdecks.md",
-    "01 Notes/02 Resources/13 Microprocessors.md"
+    "01 Notes/01 Areas/03 Software/Obsidian.md"
   ]
 }
