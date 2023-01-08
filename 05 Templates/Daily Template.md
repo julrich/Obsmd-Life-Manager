@@ -52,6 +52,10 @@ hide task count
 
 ## Meetings
 
+```dataview
+TABLE project, Length FROM "01 Notes/02 Resources/03 Meetings"
+WHERE full-date = date(this.file.name)
+```
 ## Notes
 
 ## Links

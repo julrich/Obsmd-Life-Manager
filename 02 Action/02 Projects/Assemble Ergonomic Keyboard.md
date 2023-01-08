@@ -19,6 +19,7 @@ tags: project
 - [ ] Include typed characters [[Mechanical Keyboards#^d64747|on display]] 🔼 🛫 2023-02-01 📅 2023-02-28
 - [ ] Wait for all items to arrive #next ⏳ 2023-01-22 📅 2023-02-15
 - [x] Add all tracking links 🔼 📅 2023-01-08 ✅ 2023-01-08
+- [x] Finish Split Keyboard plan   📅 2022-12-28
 
 ## Notes
 

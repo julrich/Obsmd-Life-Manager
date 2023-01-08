@@ -6,19 +6,32 @@
 
 # How to Use
 
-- Tag Tasks with `#wait` and `#next` according to [[PARA+GTD Obsidian setup#^298cc7]]
-- Tag Tasks with `#ann` according to [[My Obsidian GTD setup#^cb4dce]]
 - Write `dataviewjs` queries for dashboards: https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/
-- Projects are stuck when no `#wait` or `#next` Task included according to [[PARA+GTD Obsidian setup#^345758]]
-- Annual tasks like birthdays get tagged with `#ann`
-- Add new Projects to list at the end of [[02 Projects]]
 - Finish Daily Note every evening, includes:
 	- Having noted all meetings, notes and links
 	- Having processed all action items, moved all relevant links to respective pages in areas, projects and tasks
 - Weekly Review on every sunday (evening)
 - Monthly Review on every last sunday of the month
+
+## Structure
+
 - Area prefixes: `01-19` = personal, `20-29` = kickstartDS, `40-59` projects
 - Resource prefixes: `01-09` structured, `10-29` topics
+
+## Tasks
+
+- Tag Tasks with `#wait` and `#next` according to [[PARA+GTD Obsidian setup#^298cc7]]
+- Tag Tasks with `#ann` according to [[My Obsidian GTD setup#^cb4dce]]
+- Annual tasks like birthdays get tagged with `#ann`
+- Filter for tasks (`tasks`) with tags, when using native tasks view, using: `description includes #ann`. `tags include #ann` doesn't work, though it should: https://obsidian-tasks-group.github.io/obsidian-tasks/queries/filters/#tag-query-examples
+
+## Projects
+
+- Add new Projects to list at the end of [[02 Projects]]
+- Projects are stuck when no `#wait` or `#next` Task included according to [[PARA+GTD Obsidian setup#^345758]]
+
+## Templater
+
 - User scripts for Templater can be added to `06 Scripts` as a `.js` file with a single function export
 	- pass `tp` as a parameter to the function to access `tp`-functionality
 	- `await` works in user scripts, just make the function async (needed to use promise based `tp` functions in a user script)
@@ -29,6 +42,11 @@
 - Choose from list:
 	- Choose value from a static list https://forum.obsidian.md/t/quickadd-item-list-plus-free-form-text/25972
 	- https://www.reddit.com/r/ObsidianMD/comments/sof38l/quickadd_is_there_any_way_to_get_a_list_of_the/
+
+## Dataview
+
+- Compare dates by wrapping value with `date` function, e.g.: `WHERE full-date = date(2023-01-06)`
+- Access file name with `this.file.name`
 
 # Extension Ideas
 

@@ -19,6 +19,8 @@ tags: project
 - [x] Discuss design of error message spanning two fields with [[Daniel Ley]] 🔼 ⏳ 2023-01-05 📅 2023-01-06 ✅ 2023-01-06
 - [x] Get access to `admin_ui` repository in Taktsoft Gitlab  ⏫ 📅 2023-01-05 ✅ 2023-01-05
 - [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development 🔼 📅 2023-01-09
+- [ ] Document generation of `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` with [[Lukas Mestel]] 🔼 📅 2023-01-10
+- [x] Create ExE area and link meeting note [[2022-12-29 - ExE Handover Michael Micke]] 🔼 📅 2022-12-31 ✅ 2023-01-03
 
 ## Tickets in sprint
 

@@ -51,3 +51,7 @@ if (stuck.length > 0) {
 - [[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]
 - [[Taktsoft Campus Talents MVP]]
 - [[Improve kickstartDS Onboarding]]
+- [[Create Subscriptions Overview]]
+- [[Gather People Notes]]
+- [[Rotate All Token]]
+- [[Set Up Backups]]
