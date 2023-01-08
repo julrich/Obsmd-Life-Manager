@@ -18,11 +18,22 @@ tags: project
 - [ ] Add customized [[Mechanical Keyboards#^d64747|OLED animations]] 🔽 🛫 2023-02-01 📅 2023-02-28
 - [ ] Include typed characters [[Mechanical Keyboards#^d64747|on display]] 🔼 🛫 2023-02-01 📅 2023-02-28
 - [ ] Wait for all items to arrive #next ⏳ 2023-01-22 📅 2023-02-15
+- [x] Add all tracking links 🔼 📅 2023-01-08 ✅ 2023-01-08
+
+## Notes
+
+- Tracking still missing for:
+	- GMK Grand Prix Novelties Kit
+	- GMK Grand Prix Space Kit
+	- Cable Name Tag
 
 ## Links
 
-Tracking Links:
-- 
+- Tracking:
+	- **Sofle RGB**: http://www.hongkongpost.hk/eng/tracking/index.htm > `LK773201020HK`
+	- **USB-C Cable**: http://www.sf-express.com/us/en/ > `SF6043522735038`
+	- **Sea-Picro**: https://webapp.hongkongpost.hk/en/mail_tracking/index.html > `RD024816924HK`
+	- **TRRS Cable**: https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=LZ256248920US
 
 ## Resources
 

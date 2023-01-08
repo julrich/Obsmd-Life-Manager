@@ -1,10 +1,18 @@
+- [ ] Add project for initial run of person collection with goal [[Be Organized]] 🔼 📅 2023-01-08
+
+- [ ] Add tasks and project for subscriptions review 🔼 📅 2023-01-08
+
+- [ ] Add review of hours spent, distance biked, progress made on values, goals and projects and focus status to weekly review automatically (aggregate up to monthly, too) 🔼 📅 2023-01-08
+
+- [ ] Add dedicated project for backups and archival 🔼 📅 2023-01-08
+
 - [ ] Fix automatic "Meetings" in [[2023-01-06]], copy to other daily notes and template ⏫ 📅 2023-01-08
 
 - [ ] Fix [[🥂 Annual Tasks]] tasks query ⏫ 📅 2023-01-08
 
 - [ ] Do weekly review ⏫ 📅 2023-01-08
 
-- [ ] Finish yesterdays note by processing the links ⏫ 📅 2023-01-08
+- [x] Finish yesterdays note by processing the links ⏫ 📅 2023-01-08 ✅ 2023-01-08
 
 - [ ] Complete note for [[Daniel Lehmann]] 🔽 📅 2023-01-09
 

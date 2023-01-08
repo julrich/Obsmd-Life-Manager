@@ -23,6 +23,13 @@
 	- pass `tp` as a parameter to the function to access `tp`-functionality
 	- `await` works in user scripts, just make the function async (needed to use promise based `tp` functions in a user script)
 
+## QuickAdd
+
+- Main docs: https://quickadd.obsidian.guide/docs/
+- Choose from list:
+	- Choose value from a static list https://forum.obsidian.md/t/quickadd-item-list-plus-free-form-text/25972
+	- https://www.reddit.com/r/ObsidianMD/comments/sof38l/quickadd_is_there_any_way_to_get_a_list_of_the/
+
 # Extension Ideas
 
 - Maybe add "Blog Queue" like described here: [[My Obsidian GTD setup#Blog Queue[]( blog-queue)]], as a better view for `01 Notes/02 Areas/22 kickstartDS Marketing`

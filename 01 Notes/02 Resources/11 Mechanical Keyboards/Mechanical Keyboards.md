@@ -46,6 +46,7 @@ Pages where you can train typing precision and speed:
 
 - QWERTY vs. Dvorak vs. Colemak Keyboard Layouts: https://www.daskeyboard.com/blog/qwerty-vs-dvorak-vs-colemak-keyboard-layouts/
 - Keyboard layout evaluation: https://github.com/bclnr/kb-layout-evaluation
+- Keyboard Layouts - Things to consider before switching: https://youtube.com/watch?v=rhdMVXlnQIM
 
 ![[Pasted image 20230106164324.png]]
 https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentences_heatmap_qwerty/
@@ -67,6 +68,7 @@ https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentence
 	- GIthub: https://github.com/manna-harbour/miryoku
 	- Reference Manual: https://github.com/manna-harbour/miryoku/tree/master/docs/reference
 - QWERTY is the worst keyboard layout. A Colemak Odyssey: https://youtube.com/watch?v=VfSloMvEwd4
+- Learning a new Keyboard Layout - Colemak DH: https://youtube.com/watch?v=_Y0MT-QR7xg
 
 ### Dvorak
 
@@ -83,6 +85,21 @@ https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentence
 ## MCUs and Firmware
 
 - https://www.reddit.com/r/ErgoMechKeyboards/comments/z0eirf/recommended_mcus_and_firmware_in_2022/
+
+### Raspberry Pico / RP2040
+
+- https://learn.adafruit.com/using-qmk-on-rp2040-microcontrollers
+- QMK on RP2040 Split Keyboard Overview: https://youtube.com/watch?v=OHGVUv2wHVk
+- https://golem.hu/guide/raspberry-pi-pico
+- Pi Pico + KMK = the perfect combo for Custom Keyboards: https://www.youtube.com/watch?v=Q97bFwjQ_vQ
+
+## KMK
+
+### MCUs
+
+#### Raspberry Pico / RP2040
+
+- Pi Pico + KMK = the perfect combo for Custom Keyboards: https://www.youtube.com/watch?v=Q97bFwjQ_vQ
 
 ## QMK
 
@@ -131,6 +148,9 @@ https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentence
 Could maybe be used for graphical configuration, Sofle RGB is compatible according to their compatibility list here:
 https://www.caniusevia.com/docs/supported_keyboards
 
+## LEDs
+
+- Control your Keyboard LEDs with StreamerBot | macro pad part 4: https://www.youtube.com/watch?v=x9fZ-6AX4nM
 # Sofle RGB + GMK Grand Prix + Kailh Speed Bronze
 
 ## Parts
