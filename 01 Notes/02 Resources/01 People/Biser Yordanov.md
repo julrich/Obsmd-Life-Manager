@@ -21,7 +21,7 @@ banner: https://images.unsplash.com/photo-1492138623748-a1b1f758a762?crop=entrop
 [Birthday :: 01-09]
 
 #### Reminder
-- [ ] [[Biser Yordanov]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-09
+- [ ] [[Biser Yordanov]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-10
 
 ### Company
 [Company :: Taktsoft GmbH]

@@ -21,7 +21,7 @@ banner: https://images.unsplash.com/photo-1519017828478-ca312238167a?crop=entrop
 [Birthday :: 01-09]
 
 #### Reminder
-- [ ] [[Simon Stehle]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-09
+- [ ] [[Simon Stehle]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-10
 
 ### Company
 [Company :: Taktsoft GmbH]

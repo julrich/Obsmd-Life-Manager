@@ -92,6 +92,11 @@
 - User functions:
 	- https://silentvoid13.github.io/Templater/user-functions/script-user-functions.html
 	- `await` works in Obsidian user scripts, just make the function async (needed to use promise based `tp` functions in a user script)
+- Obsidian tracker:
+	- "Building a USEFUL Habit Tracker in Obsidian": https://youtube.com/watch?v=W_leEJHBZW4
+	- https://github.com/pyrochlore/obsidian-tracker
+	- https://medium.com/technology-hits/my-obsidian-setup-part-27-habits-tracker-84478aebb18e
+- "My Obsidian Setup" blog article series: https://medium.com/@nuno.f.s.campos/list/my-obsidian-setup-ba4d0891eef5 ^3e301f
 
 ## Projects
 

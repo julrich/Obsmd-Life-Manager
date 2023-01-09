@@ -21,7 +21,7 @@ banner: https://images.unsplash.com/photo-1601326167532-d457cd8186cc?crop=entrop
 [Birthday :: 01-08]
 
 #### Reminder
-- [ ] [[Niels Cloer]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-09
+- [ ] [[Niels Cloer]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-10
 
 ### Company
 [Company :: Student]

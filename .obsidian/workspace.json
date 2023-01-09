@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8305814da5011fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,17 +186,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bc98fdaa1238a291",
+  "active": "d8305814da5011fb",
   "lastOpenFiles": [
-    "02 Action/02 Projects/02 Projects.md",
-    "02 Action/02 Projects/Rotate All Token.md",
-    "02 Action/02 Projects/Gather People Notes.md",
-    "01 Notes/02 Resources/01 People/Michael Micke.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
-    "01 Notes/01 Areas/21 kickstartDS Development/Token and Environment variables.md",
-    "05 Templates/Project Template.md",
-    "02 Action/02 Projects/Taktsoft Campus Talents MVP.md",
-    "02 Action/02 Projects/Set Up Backups.md",
-    "02 Action/02 Projects/kickstartDS Sprint 1 (Dec 11 - Jan 11).md"
+    "01 Notes/02 Resources/10 Nerdy Coding/Raspberry PI & MicroPython.md",
+    "02 Action/02 Projects/Initialize Second Brain.md",
+    "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
+    "02 Action/01 Tasks/2023-  Wk 2 Tasks.md",
+    "01 Notes/01 Areas/03 Software/Obsidian.md",
+    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md",
+    "01 Notes/02 Resources/14 Cyberdecks/14 Cyberdecks.md"
   ]
 }

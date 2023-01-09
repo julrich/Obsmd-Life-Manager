@@ -20,6 +20,7 @@ tags: project
 - [ ] Wait for all items to arrive #next ⏳ 2023-01-22 📅 2023-02-15
 - [x] Add all tracking links 🔼 📅 2023-01-08 ✅ 2023-01-08
 - [x] Finish Split Keyboard plan   📅 2022-12-28
+- [ ] Check resource collection for Sofle v2 🔼 📅 2023-01-13
 
 ## Notes
 

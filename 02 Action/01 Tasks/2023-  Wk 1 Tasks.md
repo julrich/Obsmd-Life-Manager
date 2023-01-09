@@ -10,9 +10,9 @@
 
 - [ ] Check why there's a docker container for MOSP running after boot 🔼 📅 2023-01-10
 
-- [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-09
+- [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-12
 
-- [ ] Add images of prenatal appointment 🔼 📅 2023-01-09
+- [ ] Add images of prenatal appointment 🔼 📅 2023-01-13
 
 - [ ] Download Justice videos from YouTube [[Parties]] 🔼 📅 2023-01-22
 
