@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/01 Areas/21 kickstartDS Development/Token and Environment variables.md"
+                "file": "02 Action/02 Projects/Rotate All Token.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/01 Areas/21 kickstartDS Development/Token and Environment variables.md",
+                "file": "02 Action/02 Projects/Rotate All Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,8 +191,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c78aec0960f0392e",
+  "active": "bc98fdaa1238a291",
   "lastOpenFiles": [
+    "01 Notes/01 Areas/21 kickstartDS Development/Token and Environment variables.md",
     "02 Action/02 Projects/Rotate All Token.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
     "05 Templates/Project Template.md",
@@ -201,7 +202,6 @@
     "02 Action/02 Projects/kickstartDS Sprint 1 (Dec 11 - Jan 11).md",
     "02 Action/02 Projects/Initialize Second Brain.md",
     "02 Action/02 Projects/Improve kickstartDS Onboarding.md",
-    "02 Action/02 Projects/Gather People Notes.md",
-    "02 Action/02 Projects/Assemble Ergonomic Keyboard.md"
+    "02 Action/02 Projects/Gather People Notes.md"
   ]
 }
