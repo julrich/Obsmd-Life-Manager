@@ -18,10 +18,10 @@ banner: https://images.unsplash.com/photo-1506994011460-5482746d30a1?crop=entrop
 ## Details
 
 ### Birthday
-[Birthday :: 01-09]
+[Birthday :: 09-29]
 
 #### Reminder
-- [ ] [[Lukas Mestel]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-09
+- [ ] [[Lukas Mestel]] Birthday (09-29) #ann 🔁 every year 📅 2023-09-29
 
 ### Company
 [Company :: ruhmesmeile GmbH]

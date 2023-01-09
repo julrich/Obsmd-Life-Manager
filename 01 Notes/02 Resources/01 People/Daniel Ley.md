@@ -18,10 +18,10 @@ banner: https://images.unsplash.com/photo-1533158326339-7f3cf2404354?crop=entrop
 ## Details
 
 ### Birthday
-[Birthday :: 01-09]
+[Birthday :: 12-13]
 
 #### Reminder
-- [ ] [[Daniel Ley]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-09
+- [ ] [[Daniel Ley]] Birthday (12-13) #ann 🔁 every year 📅 2023-12-13
 
 ### Company
 [Company :: ruhmesmeile GmbH]

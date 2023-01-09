@@ -18,10 +18,10 @@ banner: https://images.unsplash.com/photo-1585854467604-cf2080ccef31?crop=entrop
 ## Details
 
 ### Birthday
-[Birthday :: 01-09]
+[Birthday :: 11-17]
 
 #### Reminder
-- [ ] [[Franz Leven]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-09
+- [ ] [[Franz Leven]] Birthday (11-17) #ann 🔁 every year 📅 2023-11-17
 
 ### Company
 [Company :: ruhmesmeile GmbH]

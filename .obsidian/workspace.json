@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-08.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-08.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-09.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-08.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,15 +188,15 @@
   },
   "active": "938f9592c6007177",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/01-January/2023-01-06.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-07.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-09 - kickstartDS Weekly Planning.md",
+    "01 Notes/02 Resources/01 People/Daniel Ley.md",
+    "01 Notes/02 Resources/01 People/Franz Leven.md",
+    "01 Notes/02 Resources/01 People/Lukas Mestel.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-09 - kickstartDS Daily.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-08.md",
-    "02 Action/01 Tasks/2023-  Wk 1 Tasks.md",
-    "02 Action/01 Tasks/2023-  Wk 52 Tasks.md",
-    "02 Action/02 Projects/Initialize Second Brain.md",
-    "02 Action/02 Projects/02 Projects.md",
-    "03 Periodic/02 Weekly/2023/01-January/2023-W01.md",
-    "02 Action/02 Projects/Rotate All Token.md"
+    "01 Notes/02 Resources/03 Meetings/2023-01-06 - kickstartDS Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-09 - ExE Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-06 - ExE Daily.md",
+    "01 Notes/02 Resources/03 Meetings/03 Meetings.md"
   ]
 }
