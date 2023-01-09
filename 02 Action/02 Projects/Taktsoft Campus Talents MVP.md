@@ -7,7 +7,7 @@ tags: project
 [Target :: First micropage is production ready and online]
 [Area :: [[Taktsoft Campus Talents]]]
 [Team :: [[Simon Stehle]], [[Eduard Dridiger]], [[Jonas Ulrich]]]
-[Tyme :: "Partner Taktsoft > Taktsoft.co, headless"]
+[Tyme :: "Partner Taktsoft > Taktsoft.com, headless"]
 
 ---
 ## Tasks

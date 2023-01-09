@@ -18,10 +18,10 @@ banner: https://images.unsplash.com/photo-1583444012262-00185bf33cc6?crop=entrop
 ## Details
 
 ### Birthday
-[Birthday :: 01-09]
+[Birthday :: 11-26]
 
 #### Reminder
-- [ ] [[Eduard Dridiger]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-09
+- [ ] [[Eduard Dridiger]] Birthday (11-26) #ann 🔁 every year 📅 2023-11-26
 
 ### Company
 [Company :: Taktsoft GmbH]

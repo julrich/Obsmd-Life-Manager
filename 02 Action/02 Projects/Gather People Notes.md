@@ -15,13 +15,13 @@ tags: project
 - [ ] Complete note for [[Daniel Lehmann]] 🔽 📅 2023-01-09
 - [ ] Complete note for [[Elis Westphal]] 🔽 📅 2023-01-09
 - [ ] Add note for [[Anita Lehmann]] 🔽 📅 2023-01-15
-- [ ] Complete note for [[Lukas Mestel]] 🔽 📅 2023-01-09
-- [ ] Complete note for [[Franz Leven]] 🔽 📅 2023-01-09
+- [x] Complete note for [[Lukas Mestel]] 🔽 📅 2023-01-09 ✅ 2023-01-09
+- [x] Complete note for [[Franz Leven]] 🔽 📅 2023-01-09 ✅ 2023-01-09
 - [ ] Complete note for [[Biser Yordanov]] 🔽 📅 2023-01-09
-- [ ] Complete note for [[Daniel Ley]] #next 🔽 📅 2023-01-09
+- [x] Complete note for [[Daniel Ley]] #next 🔽 📅 2023-01-09 ✅ 2023-01-09
 - [ ] Complete note for [[Simon Stehle]] 🔽 📅 2023-01-09
-- [ ] Complete note for [[Eduard Dridiger]] 🔽 📅 2023-01-09
-- [ ] Complete note for [[Niels Cloer]] 🔽 📅 2023-01-08
+- [x] Complete note for [[Eduard Dridiger]] 🔽 📅 2023-01-09 ✅ 2023-01-09
+- [ ] Complete note for [[Niels Cloer]] 🔽 📅 2023-01-09
 - [ ] Complete note for [[Ivan Barisic]] 🔽 📅 2023-01-09
 - [ ] Complete note for [[Michael Micke]] 🔽 📅 2023-01-09
 - [ ] Get [[Nazif Isaki]]s birthday 🔽 📅 2023-01-09

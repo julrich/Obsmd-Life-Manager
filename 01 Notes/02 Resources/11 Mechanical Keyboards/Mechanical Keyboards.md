@@ -69,6 +69,7 @@ https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentence
 	- Reference Manual: https://github.com/manna-harbour/miryoku/tree/master/docs/reference
 - QWERTY is the worst keyboard layout. A Colemak Odyssey: https://youtube.com/watch?v=VfSloMvEwd4
 - Learning a new Keyboard Layout - Colemak DH: https://youtube.com/watch?v=_Y0MT-QR7xg
+- "Moonlander Layout 5 months on. Tap dance, Colemak and layers on ZSA's split programmable keyboard": https://www.youtube.com/watch?v=W20mCn2NdXc
 
 ### Dvorak
 
@@ -164,6 +165,8 @@ https://www.caniusevia.com/docs/supported_keyboards
 	- Introduction blog post: https://josef-adamcik.cz/electronics/let-me-introduce-you-sofle-keyboard-split-keyboard-based-on-lily58.html
 	- Github documentation: https://josefadamcik.github.io/SofleKeyboard/
 	- Github repository: https://github.com/josefadamcik/SofleKeyboard
+	- ![[Pasted image 20230109122144.png]]
+	- ![[Pasted image 20230109122110.png]]
 	- ![[Pasted image 20221230175054.png]]
 	  https://showcase.beekeeb.com/sofle-rgb-mx-xda-translucent-keycaps/
 	- ![[Pasted image 20221228120447.png]]

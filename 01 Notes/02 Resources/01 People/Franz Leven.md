@@ -8,9 +8,9 @@ contact:
 - phone: 
 - whatsApp: 
 - twitter: 
-- linkedin: 
-- github: 
-location: 
+- linkedin: https://www.linkedin.com/in/franz-leven-b398aa232
+- github: https://github.com/fleven-kds
+location: Koh Phangan, Thailand
 banner: https://images.unsplash.com/photo-1585854467604-cf2080ccef31?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=150&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3QgdGV4dHVyZXx8fHx8fDE2NzMxMzA5MDE&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900
 ---
 # Franz Leven

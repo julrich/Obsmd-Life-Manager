@@ -5,11 +5,11 @@ tags: person-note
 ping: 
 contact:
 - email: daniel.ley@kickstartds.com
-- phone: 
-- whatsApp: 
-- twitter: 
-- linkedin: 
-- github: 
+- phone: +491752131879
+- whatsApp: +491752131879
+- twitter: https://twitter.com/DLey_de
+- linkedin: https://www.linkedin.com/in/daniel-ley-171729a1
+- github: https://github.com/DanielLeyUX
 location: Bonn, Germany
 banner: https://images.unsplash.com/photo-1533158326339-7f3cf2404354?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=150&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3QgdGV4dHVyZXx8fHx8fDE2NzMxMzA0NTg&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900
 ---

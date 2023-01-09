@@ -5,11 +5,11 @@ tags: person-note
 ping: 
 contact:
 - email: lukas.mestel@kickstartds.com
-- phone: 
-- whatsApp: 
-- twitter: 
+- phone: +491773845165
+- whatsApp: +491773845165
+- twitter: https://twitter.com/lokkasio
 - linkedin: 
-- github: 
+- github: https://github.com/lmestel
 location: Cologne, Germany
 banner: https://images.unsplash.com/photo-1506994011460-5482746d30a1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=150&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3QgdGV4dHVyZXx8fHx8fDE2NzMxMzA3OTE&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900
 ---
