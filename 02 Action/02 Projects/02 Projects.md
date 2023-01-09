@@ -55,3 +55,4 @@ if (stuck.length > 0) {
 - [[Gather People Notes]]
 - [[Rotate All Token]]
 - [[Set Up Backups]]
+- [[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]

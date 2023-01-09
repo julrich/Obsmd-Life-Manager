@@ -14,9 +14,9 @@ tags: project
 - [ ] Homogenize 2FA, use 1Password when compatible 🔼 📅 2023-03-31
 - [x] Add token description for Circle CI (with [[Lukas Mestel]]) to [[Token and Environment variables]] 🔼 📅 2023-01-09 ✅ 2023-01-09
 - [x] Clean up Github keys / personal access tokens, use new format 🔼 📅 2023-02-28 ✅ 2023-01-06
-- [ ] Clean up authorized OAuth apps, Github apps in Github profiles (personal, ruhmesmeile, kickstartDS) 🔼 📅 2023-02-28
+- [ ] Clean up authorized OAuth apps, Github apps in Github profiles (personal, ruhmesmeile, kickstartDS) #next 🔼 📅 2023-02-28
 - [x] CIrcle all Circle CI secrets ⏫ 📅 2023-01-09 ✅ 2023-01-09
-- [ ] Change context from `kickstartDS` to `kickstartDS  Env` in all `.circleci/config.yml` #next ⏫ 📅 2023-01-09
+- [x] Re-add `kickstartDS` to Context (with that exact name) with all token ⏫ 📅 2023-01-09 ✅ 2023-01-09
 
 ## Links
 

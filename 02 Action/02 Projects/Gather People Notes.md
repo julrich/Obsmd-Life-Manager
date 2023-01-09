@@ -24,7 +24,7 @@ tags: project
 - [ ] Complete note for [[Niels Cloer]] 🔽 📅 2023-01-09
 - [ ] Complete note for [[Ivan Barisic]] 🔽 📅 2023-01-09
 - [ ] Complete note for [[Michael Micke]] 🔽 📅 2023-01-09
-- [ ] Get [[Nazif Isaki]]s birthday 🔽 📅 2023-01-09
+- [ ] Get [[Nazif Isaki]]s birthday #next 🔽 📅 2023-01-09
 
 ## Links
 
