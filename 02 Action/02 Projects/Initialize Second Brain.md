@@ -50,6 +50,8 @@ tags: project
 - [ ] Add missing directory notes for dashboards / overviews (Resouces > People, Meetings, Clipped, Attachments) 📅 2023-01-15
 - [ ] Integrate Templater and Quick Add with [[Media Template]] 📅 2023-02-15
 - [ ] Create a process and template for weekly and monthly reviews ⏫ 📅 2023-01-15
+- [ ] Investigate missing calendar icon for Weekly page 🔼 📅 2023-01-09
+- [ ] Move rest of tasks (most at least) to fitting projects 🔼 📅 2023-01-09
 
 ## Links
 
@@ -62,8 +64,7 @@ No resources yet.
 ## Meetings
 
 ```dataview
-TABLE
-	full-date as "Full Date"
+TABLE project, Length
 FROM "01 Notes/02 Resources/03 Meetings"
 WHERE project = [[Initialize Second Brain]]
 SORT full-date DESC

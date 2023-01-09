@@ -42,8 +42,7 @@ No resources yet.
 ## Meetings
 
 ```dataview
-TABLE
-	full-date as "Full Date"
+TABLE project, Length
 FROM "01 Notes/02 Resources/03 Meetings"
 WHERE project = [[Assemble Ergonomic Keyboard]]
 SORT full-date DESC

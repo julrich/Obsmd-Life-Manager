@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 397.5
   },
   "right": {
     "id": "fe67485288c71cbe",
@@ -175,15 +175,15 @@
   },
   "active": "bc98fdaa1238a291",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/01-January/2023-01-08.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
-    "02 Action/01 Tasks/01 Tasks.md",
-    "02 Action/01 Tasks/Views/⚡ Overdue Tasks.md",
-    "03 Periodic/03 Monthly/03 Monthly.md",
-    "03 Periodic/02 Weekly/02 Weekly.md",
-    "03 Periodic/01 Daily/01 Daily.md",
-    "Home.md",
-    "02 Weekly.md",
+    "05 Templates/Project Template.md",
+    "02 Action/02 Projects/Taktsoft Campus Talents MVP.md",
+    "02 Action/02 Projects/Set Up Backups.md",
+    "02 Action/02 Projects/Rotate All Token.md",
+    "02 Action/02 Projects/kickstartDS Sprint 1 (Dec 11 - Jan 11).md",
+    "02 Action/02 Projects/Initialize Second Brain.md",
+    "02 Action/02 Projects/Improve kickstartDS Onboarding.md",
+    "02 Action/02 Projects/Gather People Notes.md",
+    "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
     "02 Action/02 Projects/Create Subscriptions Overview.md"
   ]
 }

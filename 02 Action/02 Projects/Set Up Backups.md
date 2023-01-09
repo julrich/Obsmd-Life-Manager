@@ -26,8 +26,7 @@ Most resources are currently collected in the linked area: [[Backups]]
 ## Meetings
 
 ```dataview
-TABLE
-	full-date as "Full Date"
+TABLE project, Length
 FROM "01 Notes/02 Resources/03 Meetings"
 WHERE project = [[Mechanical Keyboards]]
 SORT full-date DESC

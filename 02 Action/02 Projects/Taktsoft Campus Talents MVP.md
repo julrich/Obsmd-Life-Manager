@@ -36,8 +36,7 @@ Problems with Design Token:
 ## Meetings
 
 ```dataview
-TABLE
-	full-date as "Full Date"
+TABLE project, Length
 FROM "01 Notes/02 Resources/03 Meetings"
 WHERE project = [[Taktsoft Campus Talents MVP]]
 SORT full-date DESC

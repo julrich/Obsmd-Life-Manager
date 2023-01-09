@@ -83,6 +83,10 @@ https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentence
 
 - https://github.com/kaievns/halmak
 
+### Workman
+
+Link: https://workmanlayout.org/
+
 ## MCUs and Firmware
 
 - https://www.reddit.com/r/ErgoMechKeyboards/comments/z0eirf/recommended_mcus_and_firmware_in_2022/

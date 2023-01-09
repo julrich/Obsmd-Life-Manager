@@ -5,7 +5,7 @@ week: 2023-W01
 month: 2023 - 01-January
 year: 2023
 area: "[[Planning]]"
-project:
+project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 ---
 
 # 2023-01-05 - Sync with Daniel after new year

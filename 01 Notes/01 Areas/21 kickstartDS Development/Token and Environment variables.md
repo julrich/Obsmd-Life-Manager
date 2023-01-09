@@ -6,7 +6,10 @@ General project token, can be regenerated in each project with admin permission.
 
 ## Circle CI
 
-TBD, needs input by [[Lukas Mestel]]. Currently private token in his account.
+Tokens have no expiry, and we have to use Personal Access Token. There are no additional options per token, only a name (e.g. no scoping of access).
+
+- we use the `ENCORE_TOKEN` (as `CIRCLE_TOKEN`) in [[Token and Environment variables#Project: encore|project encore]]. Used to re-trigger builds here
+- we use `CIRCLE_CI_WEBSITE_BUILD_TOKEN` for kickstartDS deployments and build re-triggers
 
 ## Github
 
@@ -47,7 +50,7 @@ https://kickstartds.zendesk.com/admin/apps-integrations/apis/zendesk-api/setting
 
 ## Netlify
 
-Used for deployment of kickstartDS website... not sure where `NETLIFY_AUTH_TOKEN` is from exactly.
+Used for deployment of kickstartDS and encore websites... Personal Access Tokens, no expiry and no further options (only token name) configurable.
 
 ## Sanity
 
@@ -71,6 +74,19 @@ Link: https://app.circleci.com/settings/organization/github/kickstartDS/contexts
 - `GH_TOKEN`: https://github.com/settings/tokens / 90 days valid
 - `NPM_TOKEN`: https://www.npmjs.com/settings/julrich/tokens / never expires
 - Current in use: ![[Pasted image 20230105213139.png]]
+
+### Projects
+
+- `kickstartDS/kickstartDS`: https://github.com/kickstartDS/kickstartDS
+- `kickstartDS/gatsby-theme-kickstartDS`:https://github.com/kickstartDS/gatsby-theme-kickstartDS
+- `kickstartDS/config`: https://github.com/kickstartDS/config
+- `kickstartDS/kickstartDS-cli`:https://github.com/kickstartDS/kickstartDS-cli
+- `kickstartDS/website-deployment`:https://github.com/kickstartDS/website-deployment
+- `kickstartDS/kickstartDS-schema-toolkit`:https://github.com/kickstartDS/kickstartDS-schema-toolkit
+- `kickstartDS/storybook-addon-component-tokens`:https://github.com/kickstartDS/storybook-addon-component-tokens
+- `kickstartDS/kickstartDS-storybook`:https://github.com/kickstartDS/kickstartDS-storybook
+- `kickstartDS/website`: https://github.com/kickstartDS/website
+- `kickstartDS/content`:https://github.com/kickstartDS/content
 
 ## Project: kickstartDS
 
@@ -133,7 +149,7 @@ Link: https://app.circleci.com/settings/project/github/kickstartDS/website-deplo
 
 ### Token
 
-- `NETLIFY_AUTH_TOKEN`: TBD
+- `NETLIFY_AUTH_TOKEN`: https://app.netlify.com/user/applications / never expires (currently private token for [[Lukas Mestel]])
 
 ### Environment
 
@@ -147,8 +163,8 @@ Link: https://app.circleci.com/settings/project/github/kickstartDS/encore/enviro
 ### Token
 
 - `CHROMATIC_PROJECT_TOKEN`: https://www.chromatic.com/manage?appId=61bc751a722f9a003a3d5dc2&view=configure / never expires
-- `CIRCLE_TOKEN`: https://app.circleci.com/settings/user/tokens / never expires (currently private token for [[Lukas Mestel]])
-- `NETLIFY_AUTH_TOKEN`: TBD
+- `CIRCLE_TOKEN`: https://app.circleci.com/settings/user/tokens / never expires (currently private token for [[Lukas Mestel]], called `ENCORE_TOKEN`)
+- `NETLIFY_AUTH_TOKEN`: https://app.netlify.com/user/applications / never expires (currently private token for [[Lukas Mestel]])
 - `SANITY_TOKEN`: https://www.sanity.io/organizations/oCCmIQBos/project/fb9udcri/api / never expires
 
 ### Environment

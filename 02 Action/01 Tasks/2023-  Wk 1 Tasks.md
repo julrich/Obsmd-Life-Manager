@@ -1,12 +1,8 @@
-- [ ] Move rest of tasks (most at least) to fitting projects 🔼 📅 2023-01-09
-
 - [ ] Do weekly review ⏫ 📅 2023-01-15
 
 - [x] Finish yesterdays note by processing the links ⏫ 📅 2023-01-08 ✅ 2023-01-08
 
 - [x] Move overdue tasks, preferrably in accordance with GTD ⏫ 📅 2023-01-08 ✅ 2023-01-09
-
-- [ ] Update `.circleci/config.yml` after Circle CI incident ⏫ 📅 2023-01-09
 
 - [ ] Get all flagged emails in Outlook into tasks / notes 🔼 📅 2023-01-31
 
@@ -21,5 +17,3 @@
 - [ ] Download Justice videos from YouTube [[Parties]] 🔼 📅 2023-01-22
 
 - [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-10
-
-
