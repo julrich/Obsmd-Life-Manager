@@ -9,5 +9,5 @@
 ## Periodic Overviews
 
 - [[01 Daily|Daily]]
-- [[02 Weekly|Weekly]]
+- [[03 Periodic/02 Weekly/02 Weekly|Weekly]]
 - [[03 Monthly|Monthly]]

@@ -13,20 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d8305814da5011fb",
+            "id": "406ee86cc35ee929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Deployment and CI with Micha.md",
-                "mode": "source",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Deployment and CI with Micha.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-10.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Deployment and CI with Micha.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,17 +186,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d8305814da5011fb",
+  "active": "406ee86cc35ee929",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Synchronization before sprint review.md",
+    "02 Action/02 Projects/Initialize Second Brain.md",
+    "02 Action/03 Goals/Increase kickstartDS Security.md",
     "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Review-Feedback `#17762` Nazif.md",
-    "02 Action/02 Action.md",
+    "02 Action/01 Tasks/01 Tasks.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
+    "03 Periodic/02 Weekly/02 Weekly.md",
     "Home.md",
-    "01 Notes/02 Resources/01 People/Jonas Ulrich.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-10 - Austausch Taktsoft Planung Q1.md",
-    "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
-    "02 Action/02 Projects/Assemble Ergonomic Keyboard.md"
+    "02 Weekly.md",
+    "01 Notes/02 Resources/03 Meetings/03 Meetings.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Deployment and CI with Micha.md"
   ]
 }

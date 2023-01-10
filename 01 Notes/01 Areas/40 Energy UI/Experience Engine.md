@@ -49,6 +49,12 @@ Can be done by linking with `yarn link`:
 
 ## Next.js
 
+### Create release
+
+Locally in `packages/journey` run:
+1. `yarn build`
+2. `yarn release-it`
+
 ### Journeys
 
 #### `withoutEntryPage.ts`

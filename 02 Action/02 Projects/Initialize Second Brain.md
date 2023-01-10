@@ -50,7 +50,7 @@ tags: project
 - [ ] Add missing directory notes for dashboards / overviews (Resouces > People, Meetings, Clipped, Attachments) 📅 2023-01-15
 - [ ] Integrate Templater and Quick Add with [[Media Template]] 📅 2023-02-15
 - [ ] Create a process and template for weekly and monthly reviews ⏫ 📅 2023-01-15
-- [ ] Investigate missing calendar icon for Weekly page 🔼 📅 2023-01-13
+- [x] Investigate missing calendar icon for Weekly page 🔼 📅 2023-01-13 ✅ 2023-01-10
 - [ ] Move rest of tasks (most at least) to fitting projects 🔼 📅 2023-01-09
 - [ ] Add Tracker plugin for overview / dashboard type notes, see [[Obsidian#How To Use]] 🔼 📅 2023-01-15
 - [ ] Review blog series for Obsidian [[Obsidian#^3e301f|here]] 🔼 📅 2023-01-13
