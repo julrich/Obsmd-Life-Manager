@@ -23,7 +23,7 @@ tags: project
 - [x] Complete note for [[Eduard Dridiger]] 🔽 📅 2023-01-09 ✅ 2023-01-09
 - [ ] Complete note for [[Niels Cloer]] 🔽 📅 2023-01-10
 - [ ] Complete note for [[Ivan Barisic]] 🔽 📅 2023-01-10
-- [ ] Complete note for [[Michael Micke]] 🔽 📅 2023-01-10
+- [x] Complete note for [[Michael Micke]] 🔽 📅 2023-01-10 ✅ 2023-01-10
 - [ ] Get [[Nazif Isaki]]s birthday #next 🔽 📅 2023-01-10
 
 ## Links
