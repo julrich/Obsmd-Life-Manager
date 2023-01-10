@@ -51,14 +51,25 @@ Can be done by linking with `yarn link`:
 
 ### Journeys
 
-#### `withEntryPage.ts`
+#### `withoutEntryPage.ts`
 
 * Journey: http://localhost:3000/journey/pcd/?view=structure&id=0&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
 * Editor: http://localhost:3000/editor/pcd/?view=steps&id=0&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
 
-`withoutEntryPage.ts`
+#### `withEntryPage.ts`
 
+* Journey: http://localhost:3000/journey/pcd/?view=structure&id=1&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+* Editor: http://localhost:3000/editor/pcd/?view=steps&id=1&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
 
+#### `elmo.ts`
+
+- Journey: http://localhost:3000/journey/pcd/?view=structure&id=2&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+- Editor: http://localhost:3000/editor/pcd/?view=steps&id=2&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+
+#### `commodity.ts`
+
+- Journey: http://localhost:3000/journey/pcd/?view=structure&id=3&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+- Editor: http://localhost:3000/editor/pcd/?view=steps&id=3&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
 
 # Projects
 
