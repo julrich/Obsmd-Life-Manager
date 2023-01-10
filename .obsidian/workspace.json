@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
-                "mode": "preview",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-09.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-10.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,15 +188,15 @@
   },
   "active": "d8305814da5011fb",
   "lastOpenFiles": [
+    "01 Notes/02 Resources/03 Meetings/2023-01-10 - kickstartDS Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-09 - kickstartDS Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Daily.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-09.md",
-    "01 Notes/02 Resources/10 Nerdy Coding/Raspberry PI & MicroPython.md",
-    "02 Action/02 Projects/Initialize Second Brain.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-06 - ExE Daily.md",
+    "01 Notes/02 Resources/01 People/Ivan Barisic.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-09 - ExE Daily.md",
     "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
-    "02 Action/01 Tasks/2023-  Wk 2 Tasks.md",
-    "01 Notes/01 Areas/03 Software/Obsidian.md",
-    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
-    "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md",
-    "01 Notes/02 Resources/14 Cyberdecks/14 Cyberdecks.md"
+    "02 Action/02 Projects/02 Projects.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-09.md"
   ]
 }
