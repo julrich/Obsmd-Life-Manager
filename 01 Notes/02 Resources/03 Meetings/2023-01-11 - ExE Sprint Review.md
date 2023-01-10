@@ -1,6 +1,6 @@
 ---
 tags: meeting-note
-full-date: 2023-01-10
+full-date: 2023-01-11
 week: 2023-W02
 month: 2023 - 01-January
 year: 2023
