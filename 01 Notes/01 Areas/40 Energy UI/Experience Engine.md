@@ -47,6 +47,19 @@ Can be done by linking with `yarn link`:
 - Integrate linked release into `journey_engine` with `yarn prepare && yarn build`
 - Start server with `rails s` (start Prometheus exporter and PostgresQL DB first, if not already running) 
 
+## Next.js
+
+### Journeys
+
+#### `withEntryPage.ts`
+
+* Journey: http://localhost:3000/journey/pcd/?view=structure&id=0&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+* Editor: http://localhost:3000/editor/pcd/?view=steps&id=0&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+
+`withoutEntryPage.ts`
+
+
+
 # Projects
 
 ```dataview

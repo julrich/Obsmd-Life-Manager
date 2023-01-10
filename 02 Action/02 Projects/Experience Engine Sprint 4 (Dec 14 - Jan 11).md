@@ -34,6 +34,11 @@ tags: project
 - **Gitlab** Journey Engine: https://git.taktsoft.com/taktsoft/wlp.cloud/journey_engine
 - **Gitlab** Admin UI: https://git.taktsoft.com/taktsoft/wlp.cloud/admin_ui
 
+### ELMO Journey
+
+- Journey: http://localhost:3000/journey/pcd/?view=structure&id=2&step=1&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+- Editor: http://localhost:3000/editor/pcd/?view=structure&id=2&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+
 ## Resources
 
 - A11y Testing with Storybook: https://twitter.com/storybookjs/status/1605926134251753472
