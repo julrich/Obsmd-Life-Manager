@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Action/02 Action.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Deployment and CI with Micha.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Action/02 Action.md"
+                "file": "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Deployment and CI with Micha.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Action/02 Action.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Deployment and CI with Micha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,15 +188,15 @@
   },
   "active": "d8305814da5011fb",
   "lastOpenFiles": [
+    "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Synchronization before sprint review.md",
+    "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-10 - ExE Review-Feedback `#17762` Nazif.md",
+    "02 Action/02 Action.md",
     "Home.md",
     "01 Notes/02 Resources/01 People/Jonas Ulrich.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-10 - Austausch Taktsoft Planung Q1.md",
     "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
-    "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
-    "01 Notes/02 Resources/01 People/Nils Brettschneider.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-09 - kickstartDS Daily.md",
-    "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
-    "01 Notes/01 Areas/40 Energy UI/40 Energy UI.md"
+    "02 Action/02 Projects/Assemble Ergonomic Keyboard.md"
   ]
 }

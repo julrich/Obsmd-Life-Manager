@@ -14,11 +14,11 @@ tags: project
 
 - [x] Fix redirect loop in production auth 🔼 📅 2023-01-04 ✅ 2023-01-06
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-10
-- [ ] Do some reviews 📅 2023-01-10
+- [x] Do some reviews 📅 2023-01-10 ✅ 2023-01-10
 - [ ] Give [[Nazif Isaki]] feedback for his implementation strategy for `#17765` #next 🔼 📅 2023-01-10
 - [x] Discuss design of error message spanning two fields with [[Daniel Ley]] 🔼 ⏳ 2023-01-05 📅 2023-01-06 ✅ 2023-01-06
 - [x] Get access to `admin_ui` repository in Taktsoft Gitlab  ⏫ 📅 2023-01-05 ✅ 2023-01-05
-- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development ⏫ 📅 2023-01-10
+- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development ⏫ 📅 2023-01-11
 - [ ] Document generation of `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` with [[Lukas Mestel]] 🔼 📅 2023-01-10
 - [x] Create ExE area and link meeting note [[2022-12-29 - ExE Handover Michael Micke]] 🔼 📅 2022-12-31 ✅ 2023-01-03
 
@@ -26,6 +26,7 @@ tags: project
 
 - "Frontend-Testing Konzept erstellen": https://resources.bonn.taktsoft.com/redmine/issues/17639
 - "Authentifizierung prüfen": https://resources.bonn.taktsoft.com/redmine/issues/17592
+- "Pricefinder-Block": https://resources.bonn.taktsoft.com/redmine/issues/17774
 
 ## Links
 
