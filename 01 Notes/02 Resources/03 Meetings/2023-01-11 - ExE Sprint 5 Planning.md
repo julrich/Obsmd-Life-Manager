@@ -12,7 +12,7 @@ project: "[[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]"
 
 [Date :: January 11, 2023]
 [Attendees :: [[Nazif Isaki]], [[Daniel Lehmann]], [[Lukas Mestel]], [[Michael Micke]], [[Daniel Ley]], [[Ivan Barisic]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `160m`]
 
 ---
 
@@ -24,7 +24,7 @@ project: "[[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]"
 - Discussion about realistic and achievable goals for commodity
 - Implementation WLP Rails vs. ExE
 - Going through the legacy commodity journey (WLP) in light of implementation in EXE would help the whole team
-- 
+- Gone through the tickets and committed to scope
 
 # Action items
 No action items.
