@@ -12,7 +12,7 @@ project: "[[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]"
 
 [Date :: January 11, 2023]
 [Attendees :: [[Ivan Barisic]], [[Nazif Isaki]], [[Lukas Mestel]], [[Michael Micke]], [[Daniel Ley]], [[Daniel Lehmann]] [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `55m`]
 
 ---
 
@@ -23,9 +23,8 @@ project: "[[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]"
 - Started by reviewing last interventions, and if we acted on those
 - We only acted on one: workshop with [[Biser Yordanov]] and [[Nazif Isaki]]
 - Format of workshop was felt as a bit inefficient in reaching the stated goal of onboarding the two
-- 
+- Discussion around one-piece flow, integration, testing and how we can ensure better results, earlier in the sprint. Try to avoid integration marathon at the last day
+- Timebox hopefully blown up, rest of the meeting moved to next week
 
 # Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+No action items.
