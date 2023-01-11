@@ -21,7 +21,7 @@ banner: https://images.unsplash.com/photo-1506994011460-5482746d30a1?crop=entrop
 [Birthday :: 01-09]
 
 #### Reminder
-- [ ] [[Elis Westphal]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-10
+- [ ] [[Elis Westphal]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-11
 
 ### Company
 [Company :: encore GmbH]

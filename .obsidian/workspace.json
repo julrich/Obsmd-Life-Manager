@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
-                "mode": "preview",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad53ce0a9cc1903e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-11.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Action/02 Projects/Assemble Ergonomic Keyboard.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-11.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,17 +198,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "406ee86cc35ee929",
+  "active": "ad53ce0a9cc1903e",
   "lastOpenFiles": [
-    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "02 Action/01 Tasks/01 Tasks.md",
+    "02 Action/01 Tasks/Views/⚡ Overdue Tasks.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-11.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-11 - ExE Sprint 5 Planning.md",
-    "02 Action/01 Tasks/2023-  Wk 1 Tasks.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-11 - ExE Sprint Retro.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-12.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-10.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-11 - ExE Sprint Review.md",
-    "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
-    "01 Notes/01 Areas/21 kickstartDS Development/Miscellaneous.md",
-    "01 Notes/02 Resources/13 Microprocessors/13 Microprocessors.md"
+    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "01 Notes/01 Areas/03 Software/Docker.md",
+    "01 Notes/01 Areas/04 Apartment/Home Automation.md",
+    "01 Notes/01 Areas/04 Apartment/Childrens room.md",
+    "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md"
   ]
 }

@@ -31,7 +31,7 @@ tags: project
 - [ ] Add "Supercharged Links" for areas and resources to have nice icons for all notes automatically
 - [x] Fix automatic "Meetings" in [[2023-01-06]], copy to other daily notes and template ⏫ 📅 2023-01-08 ✅ 2023-01-08
 - [x] Fix [[🥂 Annual Tasks]] tasks query ⏫ 📅 2023-01-08 ✅ 2023-01-08
-- [ ] Add review of hours spent, distance biked, progress made on values, goals and projects and focus status to weekly review automatically (aggregate up to monthly, too) 🔼 📅 2023-01-10
+- [ ] Add review of hours spent, distance biked, progress made on values, goals and projects and focus status to weekly review automatically (aggregate up to monthly, too) 🔼 📅 2023-01-15
 - [ ] Add resonance calendar like described in [[My Obsidian GTD setup]] 🔼 📅 2023-02-15
 - [ ] Check why crossing of tasks in a project doesn't add finish date, etc 🔼 📅 2023-01-15
 - [ ] Add team selection to project template Quick Add 📅 2023-01-22

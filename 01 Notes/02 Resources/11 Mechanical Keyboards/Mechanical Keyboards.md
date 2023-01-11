@@ -15,6 +15,7 @@ SORT complete DESCENDING
 ## Keyboard
 
 - Awesome Keyboards: https://github.com/qmk/keyboard_awesome
+- Yet another keyboard post, or, introducing ErgoNICE: https://val.packett.cool/blog/ergonice/
 
 ## Split Keyboards
 
