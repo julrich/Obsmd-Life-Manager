@@ -21,7 +21,7 @@ banner: https://images.unsplash.com/photo-1621534416159-42d19eb5ed0b?crop=entrop
 [Birthday :: 01-09]
 
 #### Reminder
-- [ ] [[Ivan Barisic]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-11
+- [ ] [[Ivan Barisic]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-12
 
 ### Company
 [Company :: Taktsoft GmbH]

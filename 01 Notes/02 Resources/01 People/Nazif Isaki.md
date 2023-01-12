@@ -18,10 +18,10 @@ banner: https://images.unsplash.com/photo-1549490349-8643362247b5?crop=entropy&c
 ## Details
 
 ### Birthday
-01-09
+[Birthday :: 12-27]
 
 #### Reminder
-- [ ] [[Nazif Isaki]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-11
+- [ ] [[Nazif Isaki]] Birthday (12-27) #ann 🔁 every year 📅 2023-12-27
 
 ### Company
 **Taktsoft GmbH**

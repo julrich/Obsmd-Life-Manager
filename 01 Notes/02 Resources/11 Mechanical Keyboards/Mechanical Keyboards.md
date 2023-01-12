@@ -228,7 +228,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 	- https://customkbd.com/products/sea-picro?_pos=1&_sid=50beea8f0&_ss=r
 	- ![[Pasted image 20221231145529.png]]
 	- ![[Pasted image 20221231145537.png]]
-- 🚚 Cable Name Tag
+- ✅ Cable Name Tag
 	- Ordered in black with `TSNM` as the text
 	- https://www.etsy.com/de/listing/762665558/personalisierte-kabelanhanger-3d
 	- ![[Pasted image 20230104132759.png]]

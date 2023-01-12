@@ -5,8 +5,8 @@ tags: person-note
 ping: 
 contact:
 - email: franz.leven@kickstartds.com
-- phone: 
-- whatsApp: 
+- phone: +4915782270226
+- whatsApp: +4915782270226
 - twitter: 
 - linkedin: https://www.linkedin.com/in/franz-leven-b398aa232
 - github: https://github.com/fleven-kds

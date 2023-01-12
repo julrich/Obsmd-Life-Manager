@@ -14,7 +14,7 @@ tags: project
 
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-12
 - [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development ⏫ 📅 2023-01-12
-- [ ] Document generation of `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` with [[Lukas Mestel]] 🔼 📅 2023-01-11
+- [ ] Document generation of `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` with [[Lukas Mestel]] 🔼 📅 2023-01-12
 
 ## Tickets in sprint
 

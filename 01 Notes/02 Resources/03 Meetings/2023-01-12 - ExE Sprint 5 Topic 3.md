@@ -12,7 +12,7 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 
 [Date :: January 12, 2023]
 [Attendees :: [[Michael Micke]], [[Nazif Isaki]], [[Lukas Mestel]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `80m`]
 
 ---
 
@@ -20,6 +20,7 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 1. Develop a more detailed implenetation plan for stories in the sprint
 
 # Discussion notes
+- Redmine Wiki: https://resources.bonn.taktsoft.com/redmine/projects/experience-engine/wiki/Topic_3_-_Sprint_5
 - Missed the first 20mins
 - [[Ivan Barisic]] is sick, not part of the meeting
 - `#17703`
@@ -28,6 +29,7 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 	- Sliced into two stories:
 		- `#17915`: "Sanity Account anbinden": https://resources.bonn.taktsoft.com/redmine/issues/17915
 		- `#17916`: "EWE Sanity Account anlegen": https://resources.bonn.taktsoft.com/redmine/issues/17703
+- Added dev tickets for Linting and Pre-Commit hooks
 
 # Action items
 No action items.

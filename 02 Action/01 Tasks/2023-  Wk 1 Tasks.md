@@ -4,8 +4,6 @@
 
 - [x] Move overdue tasks, preferrably in accordance with GTD ⏫ 📅 2023-01-08 ✅ 2023-01-09
 
-- [ ] Get all flagged emails in Outlook into tasks / notes 🔼 📅 2023-01-31
-
 - [ ] Get a better deskmat covering mouse and keyboard space 🔼 📅 2023-02-15
 
 - [x] Check why there's a docker container for MOSP running after boot 🔼 📅 2023-01-11 ✅ 2023-01-11
@@ -16,4 +14,4 @@
 
 - [ ] Download Justice videos from YouTube [[Parties]] 🔼 📅 2023-01-22
 
-- [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-11
+- [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-13

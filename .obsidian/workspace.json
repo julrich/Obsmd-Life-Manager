@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-12 - ExE Sprint 5 Topic 3.md",
+                "file": "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-12 - ExE Sprint 5 Topic 3.md"
+                "file": "02 Action/02 Projects/Assemble Ergonomic Keyboard.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-12 - ExE Sprint 5 Topic 3.md",
+                "file": "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,15 +212,15 @@
   },
   "active": "bdb0d8a053a68a14",
   "lastOpenFiles": [
-    "01 Notes/01 Areas/21 kickstartDS Development/Token and Environment variables.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-12 - ExE Sprint 5 Topic 3.md",
-    "02 Action/02 Projects/Experience Engine Sprint 5 (Jan 11 - Jan 25).md",
-    "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
+    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-12.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-12 - Centigrade Deep-Dive kickstartDS.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-11 - ExE Sprint Review.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-12 - kickstartDS Team-Planning Q1.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-11 - ExE Sprint 5 Planning.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-10 - kickstartDS Daily.md"
+    "01 Notes/02 Resources/01 People/Kai-Dominik Kuhn.md",
+    "02 Action/02 Projects/Initialize Second Brain.md",
+    "02 Action/01 Tasks/2023-  Wk 52 Tasks.md",
+    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md",
+    "02 Action/01 Tasks/2023-  Wk 1 Tasks.md",
+    "02 Action/01 Tasks/2023-  Wk 2 Tasks.md",
+    "02 Action/01 Tasks/01 Tasks.md"
   ]
 }
