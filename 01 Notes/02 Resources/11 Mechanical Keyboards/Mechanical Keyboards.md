@@ -157,6 +157,15 @@ https://www.caniusevia.com/docs/supported_keyboards
 ## LEDs
 
 - Control your Keyboard LEDs with StreamerBot | macro pad part 4: https://www.youtube.com/watch?v=x9fZ-6AX4nM
+
+# Links
+
+## YouTube channels
+
+- https://www.youtube.com/@Glarses
+- https://www.youtube.com/@SwitchandClickOfficial
+- https://www.youtube.com/@HipyoTech
+
 # Sofle RGB + GMK Grand Prix + Kailh Speed Bronze
 
 ## Parts

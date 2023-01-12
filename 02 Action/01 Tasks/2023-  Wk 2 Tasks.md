@@ -1,3 +1,5 @@
+- [ ] Create person notes for Kai-Dominik and Thomas 🔼 📅 2023-01-12
+
 - [ ] Clarify two shipping codes with Leo / beekeeb 🔼 📅 2023-01-11
 
 - [ ] Create project for management / planning tasks for kickstartDS 🔼 📅 2023-01-11
