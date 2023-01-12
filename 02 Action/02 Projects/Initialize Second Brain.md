@@ -54,10 +54,10 @@ tags: project
 - [ ] Move rest of tasks (most at least) to fitting projects 🔼 📅 2023-01-15
 - [ ] Add Tracker plugin for overview / dashboard type notes, see [[Obsidian#How To Use]] 🔼 📅 2023-01-15
 - [ ] Review blog series for Obsidian [[Obsidian#^3e301f|here]] 🔼 📅 2023-01-13
-- [ ] Add Action items from Meetings to task overviews (project task overview, task / action dashboard) 🔼 📅 2023-01-12
-- [ ] Create project and area for RUB ⏫ 📅 2023-01-12
-- [ ] Prepare RUB workshop for tomorrow ⏫ 📅 2023-01-12
-- [ ] Create project for management / planning tasks for kickstartDS 🔼 📅 2023-01-12
+- [ ] Add Action items from Meetings to task overviews (project task overview, task / action dashboard) 🔼 📅 2023-01-13
+- [ ] Create project and area for RUB ⏫ 📅 2023-01-13
+- [ ] Prepare RUB workshop for tomorrow ⏫ 📅 2023-01-13
+- [ ] Create project for management / planning tasks for kickstartDS 🔼 📅 2023-01-13
 - [ ] Get all flagged emails in Outlook into tasks / notes 🔼 📅 2023-01-31
 
 ## Links

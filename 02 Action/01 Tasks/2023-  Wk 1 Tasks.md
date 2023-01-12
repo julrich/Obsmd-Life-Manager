@@ -8,7 +8,7 @@
 
 - [x] Check why there's a docker container for MOSP running after boot 🔼 📅 2023-01-11 ✅ 2023-01-11
 
-- [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-12
+- [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-16
 
 - [ ] Add images of prenatal appointment 🔼 📅 2023-01-13
 

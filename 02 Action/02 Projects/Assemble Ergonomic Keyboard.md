@@ -21,7 +21,7 @@ tags: project
 - [x] Add all tracking links 🔼 📅 2023-01-08 ✅ 2023-01-08
 - [x] Finish Split Keyboard plan   📅 2022-12-28
 - [ ] Check resource collection for Sofle v2 🔼 📅 2023-01-13
-- [ ] Clarify two shipping codes with Leo / beekeeb 🔼 📅 2023-01-12
+- [ ] Clarify two shipping codes with Leo / beekeeb 🔼 📅 2023-01-13
 
 ## Notes
 
