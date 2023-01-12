@@ -26,8 +26,10 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 	- https://www.kickstartds.com/docs/guides/components/create
 	- https://www.kickstartds.com/docs/guides/examples/components/interstitial#1-component-definition
 	- https://story.to.design/
-- We'll continue looking for potential customers
+- Did a quick rundown of what kickstartDS is and offers
+- We'll continue looking for potential customers of Centigrade that could profit off that
 - Maybe do a PoC for LeanScope, get your feet wet?
+- Centrigrade will have a deeper look at kickstartDS (and the links above) for themselves
 
 # Action items
-No action items.
+- [x] Send links to attendees ⏫ 📅 2023-01-12 ✅ 2023-01-12
