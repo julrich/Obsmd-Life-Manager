@@ -12,13 +12,13 @@ tags: project
 
 - [x] Add project for initial run of person collection with goal [[Be Organized]] 🔼 📅 2023-01-08 ✅ 2023-01-08
 - [x] Add missing people entries 🔼 📅 2023-01-02 ✅ 2023-01-07
-- [ ] Complete note for [[Daniel Lehmann]] 🔽 📅 2023-01-12
+- [x] Complete note for [[Daniel Lehmann]] 🔽 📅 2023-01-12 ✅ 2023-01-12
 - [ ] Add note for [[Anita Lehmann]] 🔽 📅 2023-01-15
 - [x] Complete note for [[Lukas Mestel]] 🔽 📅 2023-01-09 ✅ 2023-01-09
 - [x] Complete note for [[Franz Leven]] 🔽 📅 2023-01-09 ✅ 2023-01-09
 - [x] Complete note for [[Biser Yordanov]] 🔽 📅 2023-01-11 ✅ 2023-01-12
 - [x] Complete note for [[Daniel Ley]] #next 🔽 📅 2023-01-09 ✅ 2023-01-09
-- [ ] Complete note for [[Simon Stehle]] 🔽 📅 2023-01-12
+- [x] Complete note for [[Simon Stehle]] 🔽 📅 2023-01-12 ✅ 2023-01-12
 - [x] Complete note for [[Eduard Dridiger]] 🔽 📅 2023-01-09 ✅ 2023-01-09
 - [x] Complete note for [[Niels Cloer]] 🔽 📅 2023-01-11 ✅ 2023-01-12
 - [ ] Complete note for [[Ivan Barisic]]  #next 🔽 📅 2023-01-13

@@ -18,10 +18,10 @@ banner: https://images.unsplash.com/photo-1554755229-ca4470e07232?crop=entropy&c
 ## Details
 
 ### Birthday
-[Birthday :: 01-10]
+[Birthday :: 06-24]
 
 #### Reminder
-- [ ] [[Nils Brettschneider]] Birthday (01-10) #ann 🔁 every year 📅 2023-01-12
+- [ ] [[Nils Brettschneider]] Birthday (06-24) #ann 🔁 every year 📅 2023-06-24
 
 ### Company
 [Company :: Taktsoft GmbH]

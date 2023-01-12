@@ -18,10 +18,10 @@ banner: https://images.unsplash.com/photo-1503776768674-0e612f631345?crop=entrop
 ## Details
 
 ### Birthday
-[Birthday :: 01-09]
+[Birthday :: 11-16]
 
 #### Reminder
-- [ ] [[Daniel Lehmann]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-12
+- [ ] [[Daniel Lehmann]] Birthday (11-16) #ann 🔁 every year 📅 2023-11-16
 
 ### Company
 [Company :: Taktsoft GmbH]
