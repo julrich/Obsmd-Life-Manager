@@ -21,7 +21,7 @@ tags: project
 - [x] Complete note for [[Simon Stehle]] 🔽 📅 2023-01-12 ✅ 2023-01-12
 - [x] Complete note for [[Eduard Dridiger]] 🔽 📅 2023-01-09 ✅ 2023-01-09
 - [x] Complete note for [[Niels Cloer]] 🔽 📅 2023-01-11 ✅ 2023-01-12
-- [ ] Complete note for [[Ivan Barisic]]  #next 🔽 📅 2023-01-13
+- [x] Complete note for [[Ivan Barisic]]  #next 🔽 📅 2023-01-13 ✅ 2023-01-13
 - [x] Complete note for [[Michael Micke]] 🔽 📅 2023-01-10 ✅ 2023-01-10
 - [x] Get [[Nazif Isaki]]s birthday 🔽 📅 2023-01-11 ✅ 2023-01-12
 - [x] Create person notes for [[Kai-Dominik Kuhn]] and [[Thomas Immich]] 🔼 📅 2023-01-12 ✅ 2023-01-12

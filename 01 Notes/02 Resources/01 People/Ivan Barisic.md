@@ -18,10 +18,10 @@ banner: https://images.unsplash.com/photo-1621534416159-42d19eb5ed0b?crop=entrop
 ## Details
 
 ### Birthday
-[Birthday :: 01-09]
+[Birthday :: 08-19]
 
 #### Reminder
-- [ ] [[Ivan Barisic]] Birthday (01-09) #ann 🔁 every year 📅 2023-01-13
+- [ ] [[Ivan Barisic]] Birthday (08-19) #ann 🔁 every year 📅 2023-08-19
 
 ### Company
 [Company :: Taktsoft GmbH]
