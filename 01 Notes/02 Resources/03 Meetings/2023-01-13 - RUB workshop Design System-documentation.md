@@ -4,14 +4,14 @@ full-date: 2023-01-13
 week: 2023-W02
 month: 2023 - 01-January
 year: 2023
-area:
-project:
+area: [[Design System Initiative]]
+project: [[Ruhr-Universität Bochum DSI]]
 ---
 
 # 2023-01-13 - RUB workshop Design System-documentation
 
 [Date :: January 13, 2023]
-[Attendees :: [[Jonas Ulrich]]]
+[Attendees :: [[Sonja Israel]], [[Andreas Rohden]], [[Katrin Nemec]], [[Jonas Ulrich]]]
 [Length :: `130m`]
 
 ---
