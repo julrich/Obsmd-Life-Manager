@@ -21,7 +21,7 @@ tags: project
 - [x] Add all tracking links 🔼 📅 2023-01-08 ✅ 2023-01-08
 - [x] Finish Split Keyboard plan   📅 2022-12-28
 - [ ] Check resource collection for Sofle v2 🔼 📅 2023-01-13
-- [ ] Clarify two shipping codes with Leo / beekeeb 🔼 📅 2023-01-13
+- [x] Clarify two shipping codes with Leo / beekeeb 🔼 📅 2023-01-13 ✅ 2023-01-13
 
 ## Notes
 
@@ -30,9 +30,8 @@ No current notes.
 ## Links
 
 - Tracking:
-	- **Sofle RGB**: http://www.hongkongpost.hk/eng/tracking/index.htm > `LK773201020HK`
+	- **Sofle RGB** / **Sea-Picro**: http://www.hongkongpost.hk/eng/tracking/index.htm > `LK773201020HK`
 	- **USB-C Cable**: http://www.sf-express.com/us/en/ > `SF6043522735038`
-	- **Sea-Picro**: https://webapp.hongkongpost.hk/en/mail_tracking/index.html > `RD024816924HK`
 	- **TRRS Cable**: https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=LZ256248920US
 	- **GMK Grand Prix Novelties & Space Bar Kits**: https://tools.usps.com/go/TrackConfirmAction?tRef=fullpage&tLc=2&text28777=&tLabels=LZ232861188US%2C&tABt=true
 
