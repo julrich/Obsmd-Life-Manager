@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-13 - RUB workshop Design System-documentation.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-13 - RUB workshop Design System-documentation.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-13.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-13 - RUB workshop Design System-documentation.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,10 +224,10 @@
   },
   "active": "14c6c811ca1a308e",
   "lastOpenFiles": [
-    "02 Action/01 Tasks/01 Tasks.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-13 - RUB workshop Design System-documentation.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-13.md",
     "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
+    "02 Action/01 Tasks/01 Tasks.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-13 - kickstartDS Daily.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-10 - kickstartDS Daily.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-09 - kickstartDS Daily.md",

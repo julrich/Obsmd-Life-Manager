@@ -12,7 +12,7 @@ project:
 
 [Date :: January 13, 2023]
 [Attendees :: [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `130m`]
 
 ---
 
