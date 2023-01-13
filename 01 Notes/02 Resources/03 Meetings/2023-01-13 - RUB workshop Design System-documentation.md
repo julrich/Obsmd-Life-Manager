@@ -29,6 +29,7 @@ Backlight collection: https://backlight.dev/mastery/the-best-design-system-docum
 - https://nordhealth.design/
 - https://druids.datadoghq.com/
 - https://rivet.uits.iu.edu/
+- https://hds.hel.fi/
 
 ## Ways of documenting
 
@@ -121,9 +122,10 @@ Examples of such Markdown format:
 
 
 # Discussion notes
-- 
+- Is it possible to reduce activated addons?
+- Remove @kickstartds components from sidebar
+- Add header dummy to templates / recipes
+- Miro board: https://miro.com/app/board/uXjVOQ_0On0=/?moveToWidget=3458764543191144491&cot=14
 
 # Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+No action items.
