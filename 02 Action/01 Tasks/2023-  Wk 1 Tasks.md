@@ -10,8 +10,8 @@
 
 - [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-16
 
-- [ ] Add images of prenatal appointment 🔼 📅 2023-01-13
+- [ ] Add images of prenatal appointment 🔼 📅 2023-01-15
 
 - [ ] Download Justice videos from YouTube [[Parties]] 🔼 📅 2023-01-22
 
-- [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-13
+- [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-16

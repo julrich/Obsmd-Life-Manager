@@ -14,7 +14,7 @@ tags: project
 
 - [x] Determine correct project and cost target for Tyme 🔼 📅 2023-01-05 ✅ 2023-01-05
 - [x] Check for project status 🔼 📅 2023-01-06 ✅ 2023-01-06
-- [ ] Review changes to Sanity with [[Eduard Dridiger]] #next 🔼 📅 2023-01-13
+- [ ] Review changes to Sanity with [[Eduard Dridiger]] #next 🔼 📅 2023-01-16
 
 ## Links
 

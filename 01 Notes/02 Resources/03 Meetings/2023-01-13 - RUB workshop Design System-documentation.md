@@ -4,8 +4,8 @@ full-date: 2023-01-13
 week: 2023-W02
 month: 2023 - 01-January
 year: 2023
-area: [[Design System Initiative]]
-project: [[Ruhr-Universität Bochum DSI]]
+area: "[[Design System Initiative]]"
+project: "[[Ruhr-Universität Bochum DSI]]"
 ---
 
 # 2023-01-13 - RUB workshop Design System-documentation

@@ -6,13 +6,15 @@ tags: project
 [Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-01-30 ] ⠀•⠀ [Complete :: ❌]
 [Target :: When all components and the generated Storybook are accepted by customer]
 [Area :: [[Design System Initiative]]]
-[Team :: [[Lukas Mestel]], [[Franz Leven]], [[Daniel Ley]], [[Jonas Ulrich]]]
+[Team :: [[Lukas Mestel]], [[Franz Leven]], [[Daniel Ley]], [[Jonas Ulrich]], [[Sonja Israel]], [[Andreas Rohden]], [[Katrin Nemec]]]
 [Tyme :: "RUB - Ruhr-Universität Bochum > Beratung Design System Initiative"]
 
 ---
 ## Tasks
 
-No tasks yet.
+- [ ] Create header recipe, include in all templates and pages 🔼 📅 2023-01-16
+- [ ] Remove @kickstartds components from sidebar #next 🔼 📅 2023-01-16
+- [ ] Add header dummy to templates / recipes 🔼 📅 2023-01-16
 
 ## Links
 

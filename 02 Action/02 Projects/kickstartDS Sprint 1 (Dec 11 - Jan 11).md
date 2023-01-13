@@ -12,7 +12,7 @@ tags: project
 
 - [x] Associate meetings missing a project with new kickstartDS planning project 🔼 📅 2023-01-09 ✅ 2023-01-09
 - [x] Create project for kickstartDS Planning related tasks 🔼 📅 2023-01-09 ✅ 2023-01-09
-- [ ] Create structure for sprint on Github #next ⏫ 📅 2023-01-13
+- [ ] Create structure for sprint on Github #next ⏫ 📅 2023-01-16
 
 ## Links
 

@@ -10,7 +10,7 @@ contact:
 - twitter: 
 - linkedin: 
 - github: 
-location: 
+location: Bochum, Germany
 banner: https://images.unsplash.com/photo-1533998839656-76f5e4b2bccb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=150&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3QgdGV4dHVyZXx8fHx8fDE2NzM2Mjk5Njk&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900
 ---
 # Sonja Israel
@@ -36,7 +36,7 @@ More focus on design, less development.
 
 ## How We Met
 
-As part of a Design System Initiative request by Sonja as head of the design / communication team for web inside RUB.
+As part of a Design System Initiative request to ruhmesmeile, by Sonja as head of the design / communication team for web inside RUB. Resulted in our first project with RUB: [[Ruhr-Universität Bochum DSI]].
 
 ## Meetings
 

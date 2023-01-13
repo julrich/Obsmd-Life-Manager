@@ -4,13 +4,13 @@ Full Name: Katrin Nemec
 tags: person-note
 ping: yyyyw##
 contact:
-- email: 
+- email: katrin.nemec@ruhr-uni-bochum.de
 - phone: 
 - whatsApp: 
 - twitter: 
 - linkedin: 
 - github: 
-location: 
+location: Bochum, Germany
 banner: https://images.unsplash.com/photo-1579547621113-e4bb2a19bdd6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=150&ixid=MnwxfDB8MXxyYW5kb218MHx8YWJzdHJhY3QgdGV4dHVyZXx8fHx8fDE2NzM2MzEzOTE&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900
 ---
 # Katrin Nemec
@@ -18,19 +18,25 @@ banner: https://images.unsplash.com/photo-1579547621113-e4bb2a19bdd6?crop=entrop
 ## Details
 
 ### Birthday
-[Birthday :: 01-13]
+/
 
 #### Reminder
-- [ ] [[Katrin Nemec]] Birthday (01-13) #ann 🔁 every year 📅 2023-01-13
+%% - [ ] [[Katrin Nemec]] Birthday (01-13) #ann 🔁 every year 📅 2023-01-13 %%
 
 ### Company
 [Company :: Ruhr-Universität Bochum]
 
 #### Role
 
+Main content editor for the communication department.
+
 #### Details
 
+Part of the Design System core team at the communication department for the editorial perspective.
+
 ## How We Met
+
+As part of the [[Ruhr-Universität Bochum DSI]] project.
 
 ## Meetings
 
