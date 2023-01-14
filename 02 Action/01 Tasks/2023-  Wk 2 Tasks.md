@@ -1,3 +1,5 @@
+- [ ] Add QMK configuration and code to new castle in homeshick 🔼 📅 2023-01-15
+
 - [ ] Respond to comment on Github: https://github.com/sanity-io/sanity/issues/1857 ⏫ 📅 2023-01-14
 
 - [ ] Move documentation links to fitting kickstartDS area 🔼 📅 2023-01-15
