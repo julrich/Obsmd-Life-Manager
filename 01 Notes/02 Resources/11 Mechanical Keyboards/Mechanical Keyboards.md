@@ -68,6 +68,8 @@ https://www.reddit.com/r/Colemak/comments/qslro8/10000_simple_wikipedia_sentence
 - Miryoku:
 	- GIthub: https://github.com/manna-harbour/miryoku
 	- Reference Manual: https://github.com/manna-harbour/miryoku/tree/master/docs/reference
+	- ![[Pasted image 20230114163304.png]]
+	- https://github.com/manna-harbour/miryoku/blob/master/data/cover/miryoku-kle-cover-miryoku_qmk.png
 - QWERTY is the worst keyboard layout. A Colemak Odyssey: https://youtube.com/watch?v=VfSloMvEwd4
 - Learning a new Keyboard Layout - Colemak DH: https://youtube.com/watch?v=_Y0MT-QR7xg
 - "Moonlander Layout 5 months on. Tap dance, Colemak and layers on ZSA's split programmable keyboard": https://www.youtube.com/watch?v=W20mCn2NdXc
