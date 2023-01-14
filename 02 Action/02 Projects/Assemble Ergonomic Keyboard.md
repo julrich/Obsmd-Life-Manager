@@ -30,7 +30,6 @@ No current notes.
 ## Links
 
 - Tracking:
-	- **Sofle RGB** / **Sea-Picro**: http://www.hongkongpost.hk/eng/tracking/index.htm > `LK773201020HK`
 	- **USB-C Cable**: http://www.sf-express.com/us/en/ > `SF6043522735038`
 	- **TRRS Cable**: https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=LZ256248920US
 	- **GMK Grand Prix Novelties & Space Bar Kits**: https://tools.usps.com/go/TrackConfirmAction?tRef=fullpage&tLc=2&text28777=&tLabels=LZ232861188US%2C&tABt=true
