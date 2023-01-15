@@ -11,7 +11,7 @@ tags: project
 ## Tasks
 
 - [x] Add dedicated project for backups and archival 🔼 📅 2023-01-08 ✅ 2023-01-08
-- [ ] Devise a first plan of action #next ⏫ 📅 2023-01-15
+- [ ] Devise a first plan of action #next ⏫ 📅 2023-01-22
 - [ ] De-activate archive_org submittal when using [[ArchiveBox]]
 - [ ] Automate archival of (specific, tagged?) links with [[ArchiveBox]]
 

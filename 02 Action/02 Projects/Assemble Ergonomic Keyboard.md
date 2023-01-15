@@ -22,6 +22,7 @@ tags: project
 - [x] Finish Split Keyboard plan   📅 2022-12-28
 - [ ] Check resource collection for Sofle v2 🔼 📅 2023-01-15
 - [x] Clarify two shipping codes with Leo / beekeeb 🔼 📅 2023-01-13 ✅ 2023-01-13
+- [ ] Get fitting standoffs for higher OLED display 🔼
 
 ## Notes
 

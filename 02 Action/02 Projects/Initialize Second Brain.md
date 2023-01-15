@@ -49,15 +49,15 @@ tags: project
 - [ ] Create general Area directory note template 📅 2023-01-15
 - [ ] Add missing directory notes for dashboards / overviews (Resouces > People, Meetings, Clipped, Attachments) 📅 2023-01-15
 - [ ] Integrate Templater and Quick Add with [[Media Template]] 📅 2023-02-15
-- [ ] Create a process and template for weekly and monthly reviews ⏫ 📅 2023-01-15
+- [ ] Create a process and template for weekly and monthly reviews ⏫ 📅 2023-01-29
 - [x] Investigate missing calendar icon for Weekly page 🔼 📅 2023-01-13 ✅ 2023-01-10
 - [ ] Move rest of tasks (most at least) to fitting projects 🔼 📅 2023-01-15
 - [ ] Add Tracker plugin for overview / dashboard type notes, see [[Obsidian#How To Use]] 🔼 📅 2023-01-15
-- [ ] Review blog series for Obsidian [[Obsidian#^3e301f|here]] 🔼 📅 2023-01-14
-- [ ] Add Action items from Meetings to task overviews (project task overview, task / action dashboard) 🔼 📅 2023-01-14
+- [ ] Review blog series for Obsidian [[Obsidian#^3e301f|here]] 🔼 📅 2023-01-22
+- [ ] Add Action items from Meetings to task overviews (project task overview, task / action dashboard) 🔼 📅 2023-01-29
 - [x] Create project and area for RUB ⏫ 📅 2023-01-13 ✅ 2023-01-13
 - [x] Prepare RUB workshop for tomorrow ⏫ 📅 2023-01-13 ✅ 2023-01-13
-- [ ] Create project for management / planning tasks for kickstartDS 🔼 📅 2023-01-14
+- [ ] Create project for management / planning tasks for kickstartDS 🔼 📅 2023-01-16
 - [ ] Get all flagged emails in Outlook into tasks / notes 🔼 📅 2023-01-31
 
 ## Links

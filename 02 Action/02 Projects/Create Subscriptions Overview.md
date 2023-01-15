@@ -11,7 +11,7 @@ tags: project
 ## Tasks
 
 - [x] Add tasks and project for subscriptions review 🔼 📅 2023-01-08 ✅ 2023-01-08
-- [ ] Gather all subscriptions #next ⏫ 📅 2023-01-15
+- [ ] Gather all subscriptions #next ⏫ 📅 2023-01-22
 
 ## Links
 
