@@ -8,11 +8,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiPaletteLine",
       "RiHaze2Line",
       "RiDeviceLine",
       "RiCpuLine",
-      "RiCodeBoxLine",
-      "RiVideoChatLine"
+      "RiCodeBoxLine"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -49,5 +49,6 @@
   "06 Scripts": "RiCodeBoxLine",
   "01 Notes/02 Resources/13 Microprocessors": "RiCpuLine",
   "01 Notes/02 Resources/14 Cyberdecks": "RiDeviceLine",
-  "01 Notes/02 Resources/15 Tinkering": "RiHaze2Line"
+  "01 Notes/02 Resources/15 Tinkering": "RiHaze2Line",
+  "01 Notes/02 Resources/16 Design Systems": "RiPaletteLine"
 }

@@ -8,10 +8,10 @@
 
 - [x] Check why there's a docker container for MOSP running after boot 🔼 📅 2023-01-11 ✅ 2023-01-11
 
-- [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-16
+- [ ] Document additional (e.g. "secondary") color scales in kickstartDS (see [[Taktsoft Campus Talents MVP#^396d94|notes here]]) 🔼 📅 2023-01-18
 
 - [ ] Add images of prenatal appointment 🔼 📅 2023-01-22
 
 - [ ] Download Justice videos from YouTube [[Parties]] 🔼 📅 2023-01-22
 
-- [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-16
+- [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-17

@@ -40,6 +40,7 @@ Pages where you can train typing precision and speed:
 - https://www.keybr.com/de/index
 - https://en.wikipedia.org/wiki/Epistory_-_Typing_Chronicles
 - https://en.wikipedia.org/wiki/Nanotale_-_Typing_Chronicles
+- https://gnusenpai.net/colemakclub/
 
 ## Alternative layouts
 
