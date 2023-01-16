@@ -21,6 +21,7 @@ project:
 
 # Discussion notes
 - Vacation on Thursday / Friday
+- Continued focus on ExE
 - 
 
 # Action items
