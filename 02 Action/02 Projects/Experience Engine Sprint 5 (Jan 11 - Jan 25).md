@@ -23,7 +23,9 @@ Review driver: [[Michael Micke]]
 
 ## Tickets in sprint
 
-No tickets yet.
+
+- "Frontend-Testing Konzept erstellen": https://resources.bonn.taktsoft.com/redmine/issues/17639
+- "Pricefinder-Block": https://resources.bonn.taktsoft.com/redmine/issues/17774
 
 ## Links
 
@@ -36,6 +38,11 @@ No tickets yet.
 
 - Journey: http://localhost:3000/journey/pcd/?view=structure&id=2&step=1&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
 - Editor: http://localhost:3000/editor/pcd/?view=structure&id=2&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+
+### Commodity
+
+- Journey: http://localhost:3000/journey/pcd/?view=structure&id=3&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
+- Editor: http://localhost:3000/editor/pcd/?view=steps&id=3&step=0&apiBaseUrl=%2Fapi&apiGatewayBaseUrl=%2Fapi
 
 ## Resources
 
