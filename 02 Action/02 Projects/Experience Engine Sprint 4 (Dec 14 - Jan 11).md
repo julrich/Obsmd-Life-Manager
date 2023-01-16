@@ -10,6 +10,11 @@ tags: project
 [Tyme :: "WLP > Umsetzung Frontend 2.0"]
 
 ---
+
+## Info
+
+Review driver: [[Jonas Ulrich]]
+
 ## Tasks
 
 - [x] Fix redirect loop in production auth 🔼 📅 2023-01-04 ✅ 2023-01-06

@@ -49,50 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-13 - ExE Daily.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14c6c811ca1a308e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Notes/01 Areas/40 Energy UI/40 Energy UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4e96c7fdd44b3ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Action/02 Projects/Ruhr-Universität Bochum DSI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c21a54d233b679c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-16.md",
+                "file": "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-16.md"
+                "file": "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md"
               }
             }
           },
@@ -203,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-16.md",
+                "file": "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,17 +210,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7c21a54d233b679c",
+  "active": "bdb0d8a053a68a14",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/01-January/2023-01-15.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-16 - kickstartDS Weekly Planning.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-09 - kickstartDS Weekly Planning.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-16 - kickstartDS Daily.md",
+    "02 Action/02 Projects/kickstartDS Sprint 1 (Dec 11 - Jan 11).md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-16.md",
-    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
-    "02 Action/01 Tasks/2023-  Wk 2 Tasks.md",
-    "02 Action/01 Tasks/2023-  Wk 1 Tasks.md",
-    "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md",
-    "02 Action/01 Tasks/2023-  Wk 52 Tasks.md",
-    "02 Action/01 Tasks/2022-  Wk 52 Tasks.md",
-    "02 Action/02 Action.md",
-    "Home.md"
+    "01 Notes/02 Resources/03 Meetings/2023-01-13 - ExE Daily.md",
+    "02 Action/02 Projects/Experience Engine Sprint 5 (Jan 11 - Jan 25).md",
+    "01 Notes/01 Areas/40 Energy UI/40 Energy UI.md",
+    "02 Action/02 Projects/Ruhr-Universität Bochum DSI.md",
+    "02 Action/02 Projects/Experience Engine Sprint 4 (Dec 14 - Jan 11).md"
   ]
 }
