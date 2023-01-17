@@ -282,6 +282,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 	- Github documentation: https://josefadamcik.github.io/SofleKeyboard/
 	- Github repository: https://github.com/josefadamcik/SofleKeyboard
 	- Resource collection: https://wfendler.notion.site/Sofle-v2-3927311fb2fc4d03896f3081ca439b29
+	- OLED: 2 ssd1306 128x32 OLED display module
 	- ![[Pasted image 20230109122144.png]]
 	- ![[Pasted image 20230109122110.png]]
 	- ![[Pasted image 20221230175054.png]]
