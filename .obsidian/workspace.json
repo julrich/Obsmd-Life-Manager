@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-17 - ExE Daily.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-17 - ExE Daily.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-17.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-17 - ExE Daily.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,15 +212,15 @@
   },
   "active": "bdb0d8a053a68a14",
   "lastOpenFiles": [
+    "01 Notes/02 Resources/03 Meetings/2023-01-17 - kickstartDS Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-16 - kickstartDS Daily.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-17.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-17 - ExE Daily.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-16 - ExE Daily.md",
     "01 Notes/02 Resources/03 Meetings/03 Meetings.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-17 - ExE Daily.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-17.md",
     "02 Action/02 Projects/Assemble Ergonomic Keyboard.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-16.md",
     "01 Notes/02 Resources/16 Design Systems/Why build one.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-14.md",
-    "01 Notes/01 Areas/03 Software/Obsidian.md",
-    "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md"
+    "03 Periodic/01 Daily/2023/01-January/2023-01-14.md"
   ]
 }
