@@ -14,4 +14,4 @@
 
 - [ ] Download Justice videos from YouTube [[Parties]] 🔼 📅 2023-01-22
 
-- [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-17
+- [ ] Make appointment with Jonathan / Sanity exchange 🔼 📅 2023-01-18

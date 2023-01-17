@@ -274,7 +274,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 
 ### Already bought
 
-- 🚚 Sofle RGB
+- ✅ Sofle RGB
 	- Images of the done build:
 	- Tracking Sofle: http://www.hongkongpost.hk/eng/tracking/index.htm > `LK773201020HK`
 	- Etsy Listing: https://www.etsy.com/de/listing/1256160429/vorgelotete-sofle-rgb-mx-hotswap-sockel
@@ -315,7 +315,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 - ✅ Kailh Speed Bronze Switches
 		- Shop: https://www.caseking.de/glorious-kailh-speed-bronze-switches-120-stueck-gakc-068.html
 		- ![[Pasted image 20221228120549.png]]
-- 🚚 USB-C Cable
+- ✅ USB-C Cable
 	- Tracking: http://www.sf-express.com/us/en/ > `SF6043522735038`
 	- https://www.etsy.com/de/listing/1189082143/gewickeltes-kabel-rgb-leuchtendes
 	- ![[Pasted image 20221228122044.png]]
@@ -324,7 +324,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 - ✅ Anti slip feet
 	- "Elastikpuffer, 320 Stück Gummipuffer Schutzpuffer Transparent Möbelpuffer Selbstklebende Gummifüße Gumminoppen Lärm Dämpfung Pads Anschlagpuffer (8 Größen)": https://www.amazon.de/dp/B0929JTY9G?psc=1&smid=A17HADPK8J469Q&ref_=chk_typ_imgToDp
 	- ![[Pasted image 20230103234743.png]]
-- 🚚 Sea-Picro
+- ✅ Sea-Picro
 	- Tracking: https://webapp.hongkongpost.hk/en/mail_tracking/index.html > `RD024816924HK`
 	- https://joshajohnson.github.io/sea-picro/
 	- https://customkbd.com/products/sea-picro?_pos=1&_sid=50beea8f0&_ss=r
@@ -334,7 +334,7 @@ https://www.caniusevia.com/docs/supported_keyboards
 	- Ordered in black with `TSNM` as the text
 	- https://www.etsy.com/de/listing/762665558/personalisierte-kabelanhanger-3d
 	- ![[Pasted image 20230104132759.png]]
-- 🚚 TRRS Cable
+- ✅ TRRS Cable
 	- Tracking: https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=LZ256248920US
 	- Ordered: ![[Pasted image 20230105142340.png]]
 	- https://www.etsy.com/de/listing/1377899017/benutzerdefiniertes-geteilte-tastatur

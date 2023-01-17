@@ -7,7 +7,12 @@ Working Agreements: https://resources.bonn.taktsoft.com/redmine/projects/experie
 
 # Notes
 
-There's a token `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` needed to access dependencies published in the npm registry for the project (a Gitlab registry here: https://git.taktsoft.com/sw-web/experience-engine/-/packages). Generation of token TBD.
+There's a token `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` needed to access dependencies published in the npm registry for the project (a Gitlab registry here: https://git.taktsoft.com/sw-web/experience-engine/-/packages).
+
+It can be generated in personal account settings of Gitlab:
+https://git.taktsoft.com/-/profile/personal_access_tokens
+
+Currently using the `ExE Token`, created on 4 Nov, 2022.
 
 ## Rails
 

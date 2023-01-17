@@ -14,7 +14,8 @@ tags: project
 - [x] Add missing people entries 🔼 📅 2023-01-02 ✅ 2023-01-07
 - [x] Complete note for [[Daniel Lehmann]] 🔽 📅 2023-01-12 ✅ 2023-01-12
 - [ ] Add note for [[Anita Lehmann]] 🔽 📅 2023-01-22
-- [ ] Add note for [[Tom Dalhoff]] #next 🔽 📅 2023-01-17
+- [ ] Add note for [[Tom Dalhoff]] 🔽 📅 2023-01-18
+- [ ] Add note for [[Michael Bury]] #next 🔼 📅 2023-01-18
 - [x] Complete note for [[Lukas Mestel]] 🔽 📅 2023-01-09 ✅ 2023-01-09
 - [x] Complete note for [[Franz Leven]] 🔽 📅 2023-01-09 ✅ 2023-01-09
 - [x] Complete note for [[Biser Yordanov]] 🔽 📅 2023-01-11 ✅ 2023-01-12
