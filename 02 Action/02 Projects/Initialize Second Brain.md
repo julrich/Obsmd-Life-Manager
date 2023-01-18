@@ -57,7 +57,7 @@ tags: project
 - [ ] Add Action items from Meetings to task overviews (project task overview, task / action dashboard) 🔼 📅 2023-01-29
 - [x] Create project and area for RUB ⏫ 📅 2023-01-13 ✅ 2023-01-13
 - [x] Prepare RUB workshop for tomorrow ⏫ 📅 2023-01-13 ✅ 2023-01-13
-- [ ] Create project for management / planning tasks for kickstartDS 🔼 📅 2023-01-18
+- [ ] Create project for management / planning tasks for kickstartDS 🔼 📅 2023-01-23
 - [ ] Get all flagged emails in Outlook into tasks / notes 🔼 📅 2023-01-31
 
 ## Links

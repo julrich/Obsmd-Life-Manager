@@ -93,6 +93,7 @@ xev | awk -F'[ )]+' '/^KeyPress/ { a[NR+2] } NR in a { printf "%-3s %s\n", $5, $
 - https://github.com/manna-harbour/miryoku/blob/master/data/cover/miryoku-kle-cover-miryoku_qmk.png
 - https://github.com/manna-harbour/miryoku/discussions/85 > `Custom Hardware Support` > `Miryoku QMK`
 - https://github.com/manna-harbour/miryoku_qmk/tree/miryoku/users/manna-harbour_miryoku#checkout-update-and-merge
+- OLED support on split keyboards: https://www.reddit.com/r/ErgoMechKeyboards/comments/ujaj8t/miryoku_need_help_enabling_oleds_on_crkbd/
 
 #### Links
 
@@ -206,6 +207,7 @@ RGB_MATRIX_DRIVER = WS2812
 	- oledbongocat: https://github.com/nwii/oledbongocat
 	- Sofle Keyboard Bongo Cat WPM: https://www.youtube.com/watch?v=WdGJuWOdpCA
 - Luna the keyboard cat: https://www.reddit.com/r/olkb/comments/lmtgxc/introducing_luna_the_qmk_keyboard_pet/
+- OLED image generator: https://joric.github.io/qle/
 
 #### MCUs
 
@@ -243,6 +245,9 @@ RGB_MATRIX_DRIVER = WS2812
 - https://thomasbaart.nl/2018/12/01/reducing-firmware-size-in-qmk/
 - https://github.com/qmk/qmk_firmware/blob/master/docs/feature_tap_dance.md
 - https://blog.splitkb.com/how-to-work-with-small-keyboards
+- https://github.com/qmk/qmk_firmware/blob/master/docs/squeezing_avr.md
+- https://github.com/manna-harbour/miryoku/issues/90
+- https://github.com/manna-harbour/miryoku/discussions/76
 
 #### Keyboard layouts
 
