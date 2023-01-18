@@ -5,7 +5,7 @@ week: 2023-W02
 month: 2023 - 01-January
 year: 2023
 area: "[[Experience Engine]]"
-project: "[[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]"
+project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 ---
 
 # 2023-01-11 - ExE Sprint 5 Planning

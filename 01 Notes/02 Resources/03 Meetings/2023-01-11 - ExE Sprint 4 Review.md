@@ -8,7 +8,7 @@ area: "[[Experience Engine]]"
 project: "[[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]"
 ---
 
-# 2023-01-11 - ExE Sprint Review
+# 2023-01-11 - ExE Sprint 4 Review
 
 [Date :: January 11, 2023]
 [Attendees :: [[Daniel Ley]], [[Daniel Lehmann]], [[Ivan Barisic]], [[Nazif Isaki]], [[Elis Westphal]], [[Michael Micke]], [[Lukas Mestel]] [[Jonas Ulrich]]]

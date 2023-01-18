@@ -8,7 +8,7 @@ area: "[[Experience Engine]]"
 project: "[[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]"
 ---
 
-# 2023-01-11 - ExE Sprint Retro
+# 2023-01-11 - ExE Sprint 4 Retro
 
 [Date :: January 11, 2023]
 [Attendees :: [[Ivan Barisic]], [[Nazif Isaki]], [[Lukas Mestel]], [[Michael Micke]], [[Daniel Ley]], [[Daniel Lehmann]] [[Jonas Ulrich]]]

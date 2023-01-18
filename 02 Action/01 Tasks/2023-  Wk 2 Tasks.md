@@ -8,7 +8,7 @@
 
 - [x] Sign mail server migration document and give it to [[Farina Rechenberger]] 🔼 📅 2023-01-12 ✅ 2023-01-12
 
-- [ ] Read over [[Daniel Ley]]s meta blog post 🔼 📅 2023-01-18
+- [x] Read over [[Daniel Ley]]s meta blog post 🔼 📅 2023-01-18 ✅ 2023-01-18
 
 - [x] Clean staircase 🔼 📅 2023-01-14 ✅ 2023-01-15
 
