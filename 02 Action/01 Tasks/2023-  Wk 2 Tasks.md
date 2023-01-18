@@ -4,7 +4,7 @@
 
 - [ ] Move documentation links to fitting kickstartDS area 🔼 📅 2023-01-18
 
-- [ ] Find unshared Figma file, notifiy everyone that's requested access ⏫ 📅 2023-01-18
+- [x] Find unshared Figma file, notifiy everyone that's requested access ⏫ 📅 2023-01-18 ✅ 2023-01-18
 
 - [x] Sign mail server migration document and give it to [[Farina Rechenberger]] 🔼 📅 2023-01-12 ✅ 2023-01-12
 
