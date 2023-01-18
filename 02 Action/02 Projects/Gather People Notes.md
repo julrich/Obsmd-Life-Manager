@@ -3,7 +3,7 @@ tags: project
 ---
 # Gather People Notes
 
-[Goal :: [[Be Organized]]]  ⠀•⠀ [Deadline :: 📅 2023-01-31 ] ⠀•⠀ [Complete :: ❌]
+[Goal :: [[Find Focus]]]  ⠀•⠀ [Deadline :: 📅 2023-01-31 ] ⠀•⠀ [Complete :: ❌]
 [Target :: All primary contacts have their own, mostly complete note]
 [Area :: [[Obsidian]]]
 
