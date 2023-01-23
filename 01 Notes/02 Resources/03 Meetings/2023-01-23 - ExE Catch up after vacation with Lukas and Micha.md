@@ -12,7 +12,7 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 
 [Date :: January 23, 2023]
 [Attendees :: [[Lukas Mestel]], [[Michael Micke]], [[Nazif Isaki]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `150m`]
 
 ---
 
@@ -26,7 +26,10 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 	- continuous summaries (in steps)
 	- parameterized journey entries
 	- partial blocks for "result completion"
-- 
+- Parallel abstractions?
+	- Results, summaries and continuous summaries
+	- Opt-Ins / Opt-Outs (without continuous aspect)
+	- Footnotes and continuous footnotes
 
 # Action items
 No action items.

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-23 - ExE Catch up after vacation with Lukas and Micha.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-23 - ExE Catch up after vacation with Lukas and Micha.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-23.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-01-23 - ExE Catch up after vacation with Lukas and Micha.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +224,8 @@
   },
   "active": "8b8d90feb68d1188",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/01-January/2023-01-23.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-23 - ExE Catch up after vacation with Lukas and Micha.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-23.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-23 - ExE Daily.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-23 - kickstartDS Daily + Planning.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-18 - kickstartDS Daily.md",
