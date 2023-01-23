@@ -21,7 +21,7 @@ banner: https://images.unsplash.com/photo-1506792006437-256b665541e2?crop=entrop
 [Birthday :: 01-22]
 
 #### Reminder
-- [ ] [[Jonas Ulrich]] Birthday (01-22) #ann 🔁 every year 📅 2023-01-22
+- [ ] [[Jonas Ulrich]] Birthday (01-22) #ann 🔁 every year 📅 2024-01-22
 
 ### Company
 [Company :: ruhmesmeile GmbH, kickstartDS]

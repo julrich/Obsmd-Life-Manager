@@ -17,8 +17,8 @@ Review driver: [[Michael Micke]]
 
 ## Tasks
 
-- [ ] Add a11y testing to CI 🔼 📅 2023-01-23
-- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development #next ⏫ 📅 2023-01-23
+- [ ] Add a11y testing to CI 🔼 📅 2023-01-27
+- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development #next ⏫ 📅 2023-01-24
 - [x] Document generation of `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` with [[Lukas Mestel]] 🔼 📅 2023-01-17 ✅ 2023-01-17
 
 ## Tickets in sprint
