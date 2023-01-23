@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-23.md",
-                "mode": "preview",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-24.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-23.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-24.md"
               }
             }
           },
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-23.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,15 +224,15 @@
   },
   "active": "8b8d90feb68d1188",
   "lastOpenFiles": [
+    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-23.md",
     "02 Action/02 Action.md",
     "Home.md",
     "02 Action/02 Projects/02 Projects.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-23.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-24.md",
     "02 Action/02 Projects/kickstartDS Sprint 1 (Dec 11 - Jan 11).md",
     "01 Notes/01 Areas/04 Apartment/Home Automation.md",
     "01 Notes/01 Areas/04 Apartment/Childrens room.md",
-    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
     "01 Notes/01 Areas/21 kickstartDS Development/Miscellaneous.md"
   ]
 }

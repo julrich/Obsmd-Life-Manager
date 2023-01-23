@@ -47,6 +47,7 @@ Pages where you can train typing precision and speed:
 - https://en.wikipedia.org/wiki/Epistory_-_Typing_Chronicles
 - https://en.wikipedia.org/wiki/Nanotale_-_Typing_Chronicles
 - https://gnusenpai.net/colemakclub/
+- https://en.wikipedia.org/wiki/The_Typing_of_the_Dead
 
 ## Alternative layouts
 
