@@ -8,7 +8,7 @@ area: "[[Experience Engine]]"
 project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 ---
 
-# 2023-01-23 - ExE Catch up after vacation with Lukas and Micha
+# 2023-01-23 - ExE Catch up Refinement after vacation with Lukas and Micha
 
 [Date :: January 23, 2023]
 [Attendees :: [[Lukas Mestel]], [[Michael Micke]], [[Nazif Isaki]], [[Jonas Ulrich]]]
@@ -26,8 +26,7 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 	- continuous summaries (in steps)
 	- parameterized journey entries
 	- partial blocks for "result completion"
+- 
 
 # Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+No action items.
