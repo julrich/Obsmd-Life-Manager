@@ -25,6 +25,7 @@ Review driver: [[Michael Micke]]
 
 - "Frontend-Testing Konzept erstellen": https://resources.bonn.taktsoft.com/redmine/issues/17639
 - "Pricefinder-Block": https://resources.bonn.taktsoft.com/redmine/issues/17774
+- "Bug: Leere Daten bei der ELMO-Nutzeridentifkation": https://resources.bonn.taktsoft.com/redmine/issues/17852
 
 ## Links
 
