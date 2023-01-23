@@ -22,6 +22,10 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 # Discussion notes
 - Refinement for commodity tickets
 - Enable "classic WLP" on ExE platform
+- Discussed different abstractions for results and blocks in relation to:
+	- continuous summaries (in steps)
+	- parameterized journey entries
+	- partial blocks for "result completion"
 
 # Action items
 - [ ] Meeting Notes Distributed to the Team
