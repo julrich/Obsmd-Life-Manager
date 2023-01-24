@@ -46,6 +46,15 @@ hide task count
 [Bike Time :: 0]
 [Bike Distance :: 0]
 
+###### ◷ TYPING LOG
+[Typing Colemak Level :: X]
+[Typing Colemak WPM :: XX]
+[Typing Colemak Accuracy :: XX%]
+[Typing Colemak Time :: XmXXs]
+[Typing Querty WPM :: XXX]
+[Typing Querty Accuracy :: XX%]
+[Typing Querty Consistency :: XX%]
+
 ###### ◨ EVENING JOURNAL
 [Focus status ::]
 [Daily Note finished :: ➖]

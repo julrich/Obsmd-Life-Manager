@@ -11,8 +11,8 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 # 2023-01-24 - kickstartDS Daily
 
 [Date :: January 24, 2023]
-[Attendees :: [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Attendees :: [[Lukas Mestel]], [[Franz Leven]], [[Jonas Ulrich]]]
+[Length :: `15m`]
 
 ---
 
@@ -20,7 +20,8 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 1. Devise a plan for the day
 
 # Discussion notes
-- 
+- [[Franz Leven]] has enough tasks to do
+- Rest will be concentrated on finishing ExE sprint
 
 # Action items
 No action items.
