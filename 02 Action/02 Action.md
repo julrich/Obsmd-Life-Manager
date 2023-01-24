@@ -44,7 +44,9 @@ TABLE WITHOUT ID
 	exercise AS "🚴",
 	plan-next-day AS "✏️",
 	keep-time AS "🕒",
-	daily-note-finished AS "📝"
+	daily-note-finished AS "📝",
+	colemak-test AS "C ⌨️",
+	querty-test AS "Q ⌨️"
 	FROM "03 Periodic/01 Daily" 
 	SORT file.name DESC
 	LIMIT 30

@@ -12,7 +12,7 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 
 [Date :: January 24, 2023]
 [Attendees :: [[Lukas Mestel]], [[Michael Micke]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `135m`]
 
 ---
 
