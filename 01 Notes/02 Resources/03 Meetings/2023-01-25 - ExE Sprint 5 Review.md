@@ -32,7 +32,8 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 	- Potentially refactor to make settings overall more generic ("new settings only a migration away")
 - https://resources.bonn.taktsoft.com/redmine/issues/17850
 	- Problem with scrolling on native iOS
-- 
+- https://resources.bonn.taktsoft.com/redmine/issues/17774
+	- Always display monthly values (base price currently yearly)
 
 # Action items
 - https://resources.bonn.taktsoft.com/redmine/issues/17887
