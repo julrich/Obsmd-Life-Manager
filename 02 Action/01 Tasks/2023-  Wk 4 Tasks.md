@@ -1,3 +1,5 @@
+- [ ] Answer Anatinas request on Mattermost 🔼 📅 2023-01-25
+
 - [ ] Create project and tasks for lights in childrens room, document current inventory 🔼 📅 2023-01-24
 
 - [ ] Ask [[Daniel Ley]] about [[Niels Cloer]] + maxcluster 🔼 📅 2023-01-24
