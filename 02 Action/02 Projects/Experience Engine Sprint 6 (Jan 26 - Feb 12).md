@@ -18,7 +18,7 @@ Review driver: `TBD`
 ## Tasks
 
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-27
-- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development #next ⏫ 📅 2023-01-24
+- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development #next ⏫ 📅 2023-01-27
 
 ## Links
 

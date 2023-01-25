@@ -12,7 +12,7 @@ project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 12)]]"
 
 [Date :: January 25, 2023]
 [Attendees :: [[Daniel Lehmann]], [[Michael Micke]], [[Ivan Barisic]], [[Lukas Mestel]], [[Elis Westphal]], [[Daniel Ley]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `200m`]
 
 ---
 
