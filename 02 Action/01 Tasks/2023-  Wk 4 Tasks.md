@@ -4,7 +4,7 @@
 
 - [ ] Ask [[Daniel Ley]] about [[Niels Cloer]] + maxcluster 🔼 📅 2023-01-24
 
-- [ ] Answer [[Tim Benniks]] on Twitter, add person note 🔼 📅 2023-01-24
+- [x] Answer [[Tim Benniks]] on Twitter, add person note 🔼 📅 2023-01-24 ✅ 2023-01-25
 
 - [ ] Share blog post by [[Daniel Ley]] 🔼 📅 2023-01-24
 

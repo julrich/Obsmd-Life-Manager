@@ -3,7 +3,7 @@ tags: project
 ---
 # Experience Engine Sprint 4 (Dec 14 - Jan 11)
 
-[Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-01-11 ] ⠀•⠀ [Complete :: ❌]
+[Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-01-11 ] ⠀•⠀ [Complete :: ✅]
 [Target :: Make ELMO order flow usable in production]
 [Area :: [[Experience Engine]]]
 [Team :: [[Nazif Isaki]], [[Ivan Barisic]], [[Michael Micke]], [[Lukas Mestel]], [[Franz Leven]], [[Daniel Ley]], [[Daniel Lehmann]], [[Elis Westphal]], [[Jonas Ulrich]]]

@@ -12,7 +12,7 @@ project: "[[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]"
 
 [Date :: January 25, 2023]
 [Attendees :: [[Nazif Isaki]], [[Daniel Lehmann]], [[Michael Micke]], [[Ivan Barisic]], [[Lukas Mestel]], [[Elis Westphal]], [[Daniel Ley]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `150m`]
 
 ---
 

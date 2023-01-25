@@ -1,10 +1,10 @@
 ---
 tags: project
 ---
-# Experience Engine Sprint 5 (Jan 11 - Jan 25)
+# Experience Engine Sprint 6 (Jan 26 - Feb 12)
 
-[Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-01-26 ] ⠀•⠀ [Complete :: ✅]
-[Target :: Make ELMO order flow usable in production]
+[Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-02-12 ] ⠀•⠀ [Complete :: ❌]
+[Target :: Add goal]
 [Area :: [[Experience Engine]]]
 [Team :: [[Nazif Isaki]], [[Ivan Barisic]], [[Michael Micke]], [[Lukas Mestel]], [[Franz Leven]], [[Daniel Ley]], [[Daniel Lehmann]], [[Elis Westphal]], [[Jonas Ulrich]]]
 [Tyme :: "WLP > Umsetzung Frontend 2.0"]
@@ -13,17 +13,12 @@ tags: project
 
 ## Info
 
-Review driver: [[Michael Micke]]
+Review driver: `TBD`
 
 ## Tasks
 
-- [x] Document generation of `EXPERIENCE_ENGINE_NPM_AUTH_TOKEN` with [[Lukas Mestel]] 🔼 📅 2023-01-17 ✅ 2023-01-17
-
-## Tickets in sprint
-
-- "Frontend-Testing Konzept erstellen": https://resources.bonn.taktsoft.com/redmine/issues/17639
-- "Pricefinder-Block": https://resources.bonn.taktsoft.com/redmine/issues/17774
-- "Bug: Leere Daten bei der ELMO-Nutzeridentifkation": https://resources.bonn.taktsoft.com/redmine/issues/17852
+- [ ] Add a11y testing to CI 🔼 📅 2023-01-27
+- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development #next ⏫ 📅 2023-01-24
 
 ## Links
 
@@ -51,6 +46,6 @@ Review driver: [[Michael Micke]]
 ```dataview
 TABLE project, Length
 FROM "01 Notes/02 Resources/03 Meetings"
-WHERE project = [[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]
+WHERE project = [[Experience Engine Sprint 6 (Jan 26 - Feb 12)]]
 SORT full-date DESC
 ```
