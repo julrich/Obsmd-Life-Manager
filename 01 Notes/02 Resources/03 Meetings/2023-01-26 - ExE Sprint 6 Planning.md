@@ -20,7 +20,9 @@ project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 12)]]"
 1. Have a sprint goal and a committed scope by the team
 
 # Discussion notes
-- 
+- First went through tickets for EWE Elmo production (mostly layout and design)
+- Second: foundational tickets for commodity
+- Third: block components
 
 # Action items
 No action items.

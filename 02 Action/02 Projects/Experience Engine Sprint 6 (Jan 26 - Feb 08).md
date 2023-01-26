@@ -1,9 +1,9 @@
 ---
 tags: project
 ---
-# Experience Engine Sprint 6 (Jan 26 - Feb 12)
+# Experience Engine Sprint 6 (Jan 26 - Feb 08)
 
-[Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-02-12 ] ⠀•⠀ [Complete :: ❌]
+[Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-02-08 ] ⠀•⠀ [Complete :: ❌]
 [Target :: Add goal]
 [Area :: [[Experience Engine]]]
 [Team :: [[Nazif Isaki]], [[Ivan Barisic]], [[Michael Micke]], [[Lukas Mestel]], [[Franz Leven]], [[Daniel Ley]], [[Daniel Lehmann]], [[Elis Westphal]], [[Jonas Ulrich]]]
