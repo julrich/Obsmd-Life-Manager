@@ -5,7 +5,7 @@ week: 2023-W04
 month: 2023 - 01-January
 year: 2023
 area: "[[Experience Engine]]"
-project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 12)]]"
+project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 08)]]"
 ---
 
 # 2023-01-26 - ExE Sprint 6 Workshop Commodity 2 of 2
@@ -22,10 +22,12 @@ project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 12)]]"
 # Discussion notes
 - This time with bigger round: WLP classic + ExE team
 - Overview given by [[Michael Micke]] to onboard classic team
-- Discussed board again in team:
+- Discussed board again with whole team:
 	- ![[Pasted image 20230126102834.png]]
 	- ![[Pasted image 20230126102840.png]]
 	- ![[Pasted image 20230126102846.png]]
-
+- Refined information flow in journeys block of topics
+- Added some new tickets
+- Updated some tickets related to those flows
 # Action items
 No action items.

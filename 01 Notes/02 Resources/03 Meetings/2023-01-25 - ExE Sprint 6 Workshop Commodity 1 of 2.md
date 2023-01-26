@@ -5,7 +5,7 @@ week: 2023-W04
 month: 2023 - 01-January
 year: 2023
 area: "[[Experience Engine]]"
-project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 12)]]"
+project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 08)]]"
 ---
 
 # 2023-01-25 - ExE Sprint 6 Workshop Commodity 1 of 2

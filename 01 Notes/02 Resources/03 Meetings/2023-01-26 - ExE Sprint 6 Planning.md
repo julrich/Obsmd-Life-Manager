@@ -5,14 +5,14 @@ week: 2023-W04
 month: 2023 - 01-January
 year: 2023
 area: "[[Experience Engine]]"
-project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 12)]]"
+project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 08)]]"
 ---
 
 # 2023-01-26 - ExE Sprint 6 Planning
 
 [Date :: January 26, 2023]
 [Attendees :: [[Daniel Lehmann]], [[Ivan Barisic]], [[Daniel Ley]], [[Lukas Mestel]], [[Nazif Isaki]], [[Elis Westphal]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `180m`]
 
 ---
 
