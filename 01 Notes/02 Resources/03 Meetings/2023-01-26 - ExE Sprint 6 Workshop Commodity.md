@@ -22,7 +22,10 @@ project:
 # Discussion notes
 - This time with bigger round: WLP classic + ExE team
 - Overview given by [[Michael Micke]] to onboard classic team
-- 
+- Discussed board again in team:
+	- ![[Pasted image 20230126102834.png]]
+	- ![[Pasted image 20230126102840.png]]
+	- ![[Pasted image 20230126102846.png]]
 
 # Action items
 No action items.
