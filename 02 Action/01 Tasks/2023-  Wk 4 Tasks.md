@@ -1,3 +1,5 @@
+- [ ] Add people notes for [[2023-01-26 - ExE Sprint 6 Workshop Commodity]] 🔼 📅 2023-01-26
+
 - [x] Answer Anatinas request on Mattermost 🔼 📅 2023-01-25 ✅ 2023-01-25
 
 - [ ] Create project and tasks for lights in childrens room, document current inventory 🔼 📅 2023-01-28
