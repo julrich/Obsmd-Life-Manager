@@ -8,16 +8,16 @@ area: "[[Experience Engine]]"
 project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 12)]]"
 ---
 
-# 2023-01-26 - ExE Sprint 6 Workshop Commodity 3 of 3
+# 2023-01-26 - ExE Sprint 6 Planning
 
 [Date :: January 26, 2023]
-[Attendees :: [[Jonas Ulrich]]]
+[Attendees :: [[Daniel Lehmann]], [[Ivan Barisic]], [[Daniel Ley]], [[Lukas Mestel]], [[Nazif Isaki]], [[Elis Westphal]], [[Jonas Ulrich]]]
 [Length :: `XXm`]
 
 ---
 
 # Goals / agenda
-1. Refine concepts for commodity journey types
+1. Have a sprint goal and a committed scope by the team
 
 # Discussion notes
 - 

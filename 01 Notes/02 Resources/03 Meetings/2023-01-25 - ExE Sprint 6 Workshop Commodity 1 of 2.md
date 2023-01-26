@@ -8,7 +8,7 @@ area: "[[Experience Engine]]"
 project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 12)]]"
 ---
 
-# 2023-01-25 - ExE Sprint 6 Workshop Commodity 1 of 3
+# 2023-01-25 - ExE Sprint 6 Workshop Commodity 1 of 2
 
 [Date :: January 25, 2023]
 [Attendees :: [[Daniel Lehmann]], [[Michael Micke]], [[Ivan Barisic]], [[Lukas Mestel]], [[Elis Westphal]], [[Daniel Ley]], [[Jonas Ulrich]]]
