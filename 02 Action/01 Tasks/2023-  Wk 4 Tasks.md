@@ -1,4 +1,4 @@
-- [ ] Add people notes for [[2023-01-26 - ExE Sprint 6 Workshop Commodity]] 🔼 📅 2023-01-26
+- [ ] Add people notes for [[2023-01-26 - ExE Sprint 6 Workshop Commodity 2 of 3]] 🔼 📅 2023-01-26
 
 - [x] Answer Anatinas request on Mattermost 🔼 📅 2023-01-25 ✅ 2023-01-25
 
