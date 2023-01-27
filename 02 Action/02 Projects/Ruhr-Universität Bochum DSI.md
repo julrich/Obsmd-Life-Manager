@@ -12,9 +12,9 @@ tags: project
 ---
 ## Tasks
 
-- [ ] Create header recipe, include in all templates and pages 🔼 📅 2023-01-26
-- [ ] Remove @kickstartds components from sidebar #next 🔼 📅 2023-01-26
-- [ ] Add header dummy to templates / recipes 🔼 📅 2023-01-26
+- [x] Create header recipe, include in all templates and pages 🔼 📅 2023-01-26 ✅ 2023-01-27
+- [x] Remove @kickstartds components from sidebar #next 🔼 📅 2023-01-26 ✅ 2023-01-27
+- [x] Add header dummy to templates / recipes 🔼 📅 2023-01-26 ✅ 2023-01-27
 
 ## Links
 
