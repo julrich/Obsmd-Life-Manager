@@ -30,4 +30,4 @@ No notes.
 - [ ] Storybook "Logo Kacheln" gutter not working on MacOS Firefox?
 - [x] Disable Interactions addon
 - [x] Check Actions addon, remove if no actions available
-- [ ] Check Docs -> lots of `undefined`
+- [x] Check Docs -> lots of `undefined`
