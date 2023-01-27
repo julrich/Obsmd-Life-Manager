@@ -21,13 +21,13 @@ project: "[[Ruhr-Universität Bochum DSI]]"
 2. Find perspective for cooperation
 
 # Discussion notes
-- Switch "Willkommen" / "Integration" docs pages in sidebar
-- Switch categories "Design Token" and "Komponenten" in sidebar
-- Fix Design Token display
-- Storybook "Logo Kacheln" gutter not working on MacOS Firefox?
-- Disable Interactions addon
-- Check Actions addon, remove if no actions available
-- Check Docs -> lots of `undefined`
+No notes.
 
 # Action items
-No action items.
+- [x] Switch "Willkommen" / "Integration" docs pages in sidebar
+- [x] Switch categories "Design Token" and "Komponenten" in sidebar
+- [x] Fix Design Token display
+- [ ] Storybook "Logo Kacheln" gutter not working on MacOS Firefox?
+- [x] Disable Interactions addon
+- [x] Check Actions addon, remove if no actions available
+- [ ] Check Docs -> lots of `undefined`
