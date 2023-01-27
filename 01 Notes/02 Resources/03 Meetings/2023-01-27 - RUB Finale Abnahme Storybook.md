@@ -12,7 +12,7 @@ project: "[[Ruhr-Universität Bochum DSI]]"
 
 [Date :: January 27, 2023]
 [Attendees :: [[Andreas Rohden]], [[Sonja Israel]],  [[Daniel Ley]], [[Jonas Ulrich]]]
-[Length :: `70m`]
+[Length :: `120m`]
 
 ---
 
