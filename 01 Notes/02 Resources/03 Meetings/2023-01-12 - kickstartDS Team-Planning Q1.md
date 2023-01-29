@@ -27,4 +27,4 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 - First planning Q4 for February to find a sprint goal
 
 # Action items
-- [ ] Add structure on Github 🔼 📅 2023-01-27
+- [ ] Add structure on Github 🔼 📅 2023-01-30

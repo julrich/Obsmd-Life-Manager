@@ -4,7 +4,7 @@ tags: project
 # Experience Engine Sprint 6 (Jan 26 - Feb 08)
 
 [Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-02-08 ] ⠀•⠀ [Complete :: ❌]
-[Target :: Add goal]
+[Target :: ELMO strecke polishen]
 [Area :: [[Experience Engine]]]
 [Team :: [[Nazif Isaki]], [[Ivan Barisic]], [[Michael Micke]], [[Lukas Mestel]], [[Franz Leven]], [[Daniel Ley]], [[Daniel Lehmann]], [[Elis Westphal]], [[Jonas Ulrich]]]
 [Tyme :: "WLP > Umsetzung Frontend 2.0"]
@@ -17,8 +17,8 @@ Review driver: `TBD`
 
 ## Tasks
 
-- [ ] Add a11y testing to CI 🔼 📅 2023-01-27
-- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development #next ⏫ 📅 2023-01-27
+- [ ] Add a11y testing to CI 🔼 📅 2023-01-31
+- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development #next ⏫ 📅 2023-01-30
 
 ## Links
 

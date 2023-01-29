@@ -11,7 +11,7 @@ project: "[[Experience Engine Sprint 6 (Jan 26 - Feb 08)]]"
 # 2023-01-26 - ExE Sprint 6 Workshop Commodity 2 of 2
 
 [Date :: January 26, 2023]
-[Attendees :: [[Annika Dietz]], [[Wassilij]], [[Michael Micke]], [[Daniel Lehmann]], [[Ivan Barisic]], [[Lukas Mestel]], [[Elis Westphal]], [[Daniel Ley]], [[Biser Yordanov]], [[Yuri]], [[Jonas Ulrich]]]
+[Attendees :: [[Annika Dietz]], [[Vassilij Schneider]], [[Michael Micke]], [[Daniel Lehmann]], [[Ivan Barisic]], [[Lukas Mestel]], [[Elis Westphal]], [[Daniel Ley]], [[Biser Yordanov]], [[Yurii Diholian]], [[Jonas Ulrich]]]
 [Length :: `255m`]
 
 ---
