@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-28.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-28.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-29.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-28.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,15 +188,15 @@
   },
   "active": "bc082b7fae7edbc9",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/01-January/2023-01-27.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-28.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-29.md",
+    "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-27.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-27 - RUB Finale Abnahme Storybook.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-27 - kickstartDS Exchange Token Playground.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-26.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-13 - RUB workshop Design System-documentation.md",
     "02 Action/02 Projects/Ruhr-Universität Bochum DSI.md",
-    "01 Notes/01 Areas/21 kickstartDS Development/Token Playground.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-25.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-26 - ExE Sprint 6 Planning.md"
+    "01 Notes/01 Areas/21 kickstartDS Development/Token Playground.md"
   ]
 }
