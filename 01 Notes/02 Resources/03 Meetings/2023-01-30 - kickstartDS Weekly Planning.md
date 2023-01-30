@@ -12,7 +12,7 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 
 [Date :: January 30, 2023]
 [Attendees :: [[Lukas Mestel]], [[Daniel Ley]], [[Franz Leven]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `45m`]
 
 ---
 
@@ -20,9 +20,7 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 1. Have a plan for the current week
 
 # Discussion notes
-- 
+- Need to focus, and also need to generate enough billable hours
 
 # Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+No action items.
