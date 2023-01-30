@@ -1,10 +1,10 @@
-- [ ] Collect images from recent Den Haag vacation, add Google Photos album 🔼 📅 2023-01-29
+- [ ] Collect images from recent Den Haag vacation, add Google Photos album 🔼 📅 2023-02-01
 
 - [x] Add people notes for [[2023-01-26 - ExE Sprint 6 Workshop Commodity 2 of 2]] 🔼 📅 2023-01-30 ✅ 2023-01-29
 
 - [x] Answer Anatinas request on Mattermost 🔼 📅 2023-01-25 ✅ 2023-01-25
 
-- [ ] Create project and tasks for lights in childrens room, document current inventory 🔼 📅 2023-01-29
+- [ ] Create project and tasks for lights in childrens room, document current inventory 🔼 📅 2023-02-04
 
 - [ ] Ask [[Daniel Ley]] about [[Niels Cloer]] + maxcluster 🔼 📅 2023-01-30
 

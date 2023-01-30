@@ -6,7 +6,7 @@ tags: project
 [Goal :: [[Generate Billable Hours]]]  ⠀•⠀ [Deadline :: 📅 2023-01-11 ] ⠀•⠀ [Complete :: ❌]
 [Target :: First micropage is production ready and online]
 [Area :: [[Taktsoft Campus Talents]]]
-[Team :: [[Simon Stehle]], [[Eduard Dridiger]], [[Jonas Ulrich]]]
+[Team :: [[Simon Stehle]], [[Eduard Dridiger]], [[Jonas Ulrich]], [[Michael Bury]]]
 [Tyme :: "Partner Taktsoft > Taktsoft.com, headless"]
 
 ---

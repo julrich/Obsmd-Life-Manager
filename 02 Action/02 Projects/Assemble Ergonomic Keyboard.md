@@ -23,7 +23,7 @@ tags: project
 - [ ] Check resource collection for Sofle v2 🔼 📅 2023-02-05
 - [x] Clarify two shipping codes with Leo / beekeeb 🔼 📅 2023-01-13 ✅ 2023-01-13
 - [x] Get fitting standoffs for higher OLED display 🔼 📅 2023-01-18 ✅ 2023-01-18
-- [ ] Fix switched Y and Z on QMK / Miryoku ⏫ 📅 2023-01-29
+- [ ] Fix switched Y and Z on QMK / Miryoku ⏫ 📅 2023-01-30
 
 ## Notes
 
