@@ -8,21 +8,21 @@ area: "[[Planning]]"
 project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 ---
 
-# 2023-01-30 - kickstartDS Daily
+# 2023-01-30 - kickstartDS Weekly Planning
 
 [Date :: January 30, 2023]
 [Attendees :: [[Lukas Mestel]], [[Daniel Ley]], [[Franz Leven]], [[Jonas Ulrich]]]
-[Length :: `30m`]
+[Length :: `XXm`]
 
 ---
 
 # Goals / agenda
-1. Devise a plan for the day
+1. Have a plan for the current week
 
 # Discussion notes
-- [[Franz Leven]] starting ~02/09 1 week vacation
-- Short recap of [[Ruhr-Universität Bochum DSI]] from Friday
-- Demonstration of Token Playground
+- 
 
 # Action items
-No action items.
+- [ ] Meeting Notes Distributed to the Team
+- [ ] Tasks & Projects Completed, Processed or Delegated
+- [ ] Key Dates Completed or Scheduled
