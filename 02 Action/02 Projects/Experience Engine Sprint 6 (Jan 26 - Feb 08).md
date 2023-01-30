@@ -18,7 +18,8 @@ Review driver: `TBD`
 ## Tasks
 
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-31
-- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development #next ⏫ 📅 2023-01-30
+- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development ⏫ 📅 2023-01-30
+- [ ] Create Sanity account with [[Elis Westphal]] #next 🔼 📅 2023-01-30
 
 ## Links
 

@@ -4,7 +4,7 @@ Full Name: Tom Dalhoff
 tags: person-note
 ping: 
 contact:
-- email: 
+- email: dalhoff@taktsoft.com
 - phone: 
 - whatsApp: 
 - twitter: 
@@ -18,19 +18,25 @@ banner: https://images.unsplash.com/photo-1505356822725-08ad25f3ffe4?crop=entrop
 ## Details
 
 ### Birthday
-/
+[Birthday :: 01-20]
 
 #### Reminder
-%% _- [ ] [[Tom Dalhoff]] Birthday (01-29) #ann 🔁 every year 📅 2023-01-29 %%
+- [ ] [[Tom Dalhoff]] Birthday (01-20) #ann 🔁 every year 📅 2024-01-20
 
 ### Company
 [Company :: Taktsoft GmbH]
 
 #### Role
 
+Data protection officer
+
 #### Details
 
+Officially data protection officer for Taktsoft, also PM / Scrum Master.
+
 ## How We Met
+
+Was our data protection officer at ruhmesmeile before.
 
 ## Meetings
 

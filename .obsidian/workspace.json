@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-29.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-29.md"
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-30.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-29.md",
+                "file": "03 Periodic/01 Daily/2023/01-January/2023-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,15 +200,15 @@
   },
   "active": "1e334e516c23a591",
   "lastOpenFiles": [
+    "01 Notes/02 Resources/03 Meetings/2023-01-30 - kickstartDS Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-24 - kickstartDS Daily.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-30.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-26 - ExE Sprint 6 Workshop Commodity 2 of 2.md",
-    "02 Action/01 Tasks/01 Tasks.md",
-    "02 Action/01 Tasks/Views/⚡ Overdue Tasks.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-26.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-29.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-30 - ExE Daily.md",
     "02 Action/02 Projects/Experience Engine Sprint 6 (Jan 26 - Feb 08).md",
-    "02 Action/02 Projects/Experience Engine Sprint 5 (Jan 11 - Jan 25).md",
-    "02 Action/02 Action.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-28.md"
+    "01 Notes/02 Resources/03 Meetings/2023-01-24 - ExE Daily.md",
+    "01 Notes/02 Resources/01 People/Tom Dalhoff.md",
+    "01 Notes/02 Resources/01 People/Daniel Ley.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-29.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-26 - ExE Sprint 6 Workshop Commodity 2 of 2.md"
   ]
 }
