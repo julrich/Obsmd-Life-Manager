@@ -13,13 +13,24 @@ tags: project
 
 ## Info
 
-Review driver: `TBD`
+Review driver: [[Ivan Barisic]] and [[Nazif Isaki]]
 
 ## Tasks
 
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-31
 - [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development ⏫ 📅 2023-01-30
 - [ ] Create Sanity account with [[Elis Westphal]] #next 🔼 📅 2023-01-30
+- [ ] Software / onboarding exchange with the team (3pm-4pm) 🔼 📅 2023-02-03
+- [ ] e2e FE testing setup exchange with the team (1:45pm-2:45pm) 🔼 📅 2023-02-03
+- [ ] Results refactoring mob programming with the team (2pm-4pm) 🔼 📅 2023-02-02
+
+## Tickets in sprint
+
+- "Bug: Leere Daten bei der ELMO-Nutzeridentifkation": https://resources.bonn.taktsoft.com/redmine/issues/17852
+- "EWE Sanity Account anlegen": https://resources.bonn.taktsoft.com/redmine/issues/17916
+- "Dev: Testdaten dokumentieren": https://resources.bonn.taktsoft.com/redmine/issues/18035
+- "Frontend-Testing Konzept erstellen": https://resources.bonn.taktsoft.com/redmine/issues/17639
+- "Results Überarbeitung": https://resources.bonn.taktsoft.com/redmine/issues/18037
 
 ## Links
 
