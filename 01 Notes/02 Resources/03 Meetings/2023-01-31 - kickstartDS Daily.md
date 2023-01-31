@@ -12,7 +12,7 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 
 [Date :: January 31, 2023]
 [Attendees :: [[Daniel Ley]], [[Lukas Mestel]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `40m`]
 
 ---
 
@@ -20,7 +20,8 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 1. Devise a plan for the day
 
 # Discussion notes
-- 
+- Had a look at Unicef, for first proposal on what could be done for their LP DS
+- Quick thoughts about preparation for 1pm sprint planning
 
 # Action items
 No action items.
