@@ -12,8 +12,8 @@ tags: project
 
 - [x] Associate meetings missing a project with new kickstartDS planning project 🔼 📅 2023-01-09 ✅ 2023-01-09
 - [x] Create project for kickstartDS Planning related tasks 🔼 📅 2023-01-09 ✅ 2023-01-09
-- [ ] Create structure for sprint on Github #next ⏫ 📅 2023-01-30
-- [ ] Prepare monthly planning ⏫ ⏳ 2023-01-25 📅 2023-01-30
+- [ ] Create structure for sprint on Github #next ⏫ 📅 2023-02-01
+- [x] Prepare monthly planning ⏫ ⏳ 2023-01-25 📅 2023-01-30 ✅ 2023-01-31
 	- available resources for work on kickstartDS
 	- infrastructure on Github
 	- prioritization backlog

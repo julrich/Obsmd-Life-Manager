@@ -18,7 +18,7 @@ Review driver: [[Ivan Barisic]] and [[Nazif Isaki]]
 ## Tasks
 
 - [ ] Add a11y testing to CI 🔼 📅 2023-01-31
-- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development ⏫ 📅 2023-01-30
+- [ ] Add mock data documentation for `experience_engine` and `journey_engine` local development ⏫ 📅 2023-02-01
 - [ ] Create Sanity account with [[Elis Westphal]] #next 🔼 📅 2023-01-30
 - [ ] Software / onboarding exchange with the team (3pm-4pm) 🔼 📅 2023-02-03
 - [ ] e2e FE testing setup exchange with the team (1:45pm-2:45pm) 🔼 📅 2023-02-03

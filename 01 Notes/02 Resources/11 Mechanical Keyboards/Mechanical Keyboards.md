@@ -85,6 +85,16 @@ System Locale: LANG=de_DE.UTF-8
   X11 Variant: nodeadkeys  
 ```
 
+Set layout (general):
+```
+setxkbmap -layout us
+```
+
+Get original german layout again (general):
+```
+setxkbmap -layout de
+```
+
 ##### Commands
 
 Debug keycodes:

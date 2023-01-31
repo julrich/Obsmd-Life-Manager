@@ -15,7 +15,7 @@ tags: project
 - [x] Create header recipe, include in all templates and pages 🔼 📅 2023-01-26 ✅ 2023-01-27
 - [x] Remove @kickstartds components from sidebar 🔼 📅 2023-01-26 ✅ 2023-01-27
 - [x] Add header dummy to templates / recipes 🔼 📅 2023-01-26 ✅ 2023-01-27
-- [ ] Fix missing Design Token on production build #next ⏫ 📅 2023-01-30
+- [ ] Fix missing Design Token on production build #next ⏫ 📅 2023-02-01
 
 ## Links
 
