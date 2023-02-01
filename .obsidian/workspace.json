@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-02-01 - Taktsoft Campus Talents exchange with Simon and Eduard.md",
+                "file": "03 Periodic/01 Daily/2023/02-February/2023-02-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-02-01 - Taktsoft Campus Talents exchange with Simon and Eduard.md"
+                "file": "03 Periodic/01 Daily/2023/02-February/2023-02-01.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-02-01 - Taktsoft Campus Talents exchange with Simon and Eduard.md",
+                "file": "03 Periodic/01 Daily/2023/02-February/2023-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,15 +212,15 @@
   },
   "active": "64bdc58f2fcc9102",
   "lastOpenFiles": [
+    "02 Action/02 Projects/Taktsoft Campus Talents MVP.md",
+    "03 Periodic/01 Daily/2023/02-February/2023-02-01.md",
+    "03 Periodic/01 Daily/2023/02-February/2023-02-02.md",
+    "03 Periodic/01 Daily/2023/01-January/2023-01-31.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-01 - Taktsoft Campus Talents exchange with Simon and Eduard.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-04 - Taktsoft Campus Talents Design Token Exchange (Font Weight, Secondary Color).md",
     "01 Notes/02 Resources/03 Meetings/2023-01-10 - Exchange Taktsoft planning Q1.md",
-    "01 Notes/02 Resources/03 Meetings/2023-02-01 - Taktsoft Campus Talents exchange with Simon and Eduard.md",
-    "03 Periodic/01 Daily/2023/02-February/2023-02-01.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-31.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-01 - kickstartDS Daily.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-01 - UNICEF Landing Page Builder.md",
-    "01 Notes/02 Resources/03 Meetings/2023-02-01 - ExE Daily.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-31 - kickstartDS Daily.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-30 - kickstartDS Daily.md"
+    "01 Notes/02 Resources/03 Meetings/2023-02-01 - ExE Daily.md"
   ]
 }
