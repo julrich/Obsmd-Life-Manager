@@ -8,7 +8,7 @@ area: "[[Planning]]"
 project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 ---
 
-# 2023-01-10 - Austausch Taktsoft Planung Q1
+# 2023-01-10 - Exchange Taktsoft planning Q1
 
 [Date :: January 10, 2023]
 [Attendees :: [[Daniel Ley]], [[Daniel Lehmann]], [[Nils Brettschneider]], [[Jonas Ulrich]]]

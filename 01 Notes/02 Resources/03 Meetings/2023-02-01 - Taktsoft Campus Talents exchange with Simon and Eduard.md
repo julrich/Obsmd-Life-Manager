@@ -4,8 +4,8 @@ full-date: 2023-02-01
 week: 2023-W05
 month: 2023 - 02-February
 year: 2023
-area:
-project:
+area: "[[Taktsoft Campus Talents]]"
+project: "[[Taktsoft Campus Talents MVP]]"
 ---
 
 # 2023-02-01 - Taktsoft Campus Talents exchange with Simon and Eduard
