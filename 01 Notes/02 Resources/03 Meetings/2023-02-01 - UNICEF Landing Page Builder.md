@@ -11,8 +11,8 @@ project:
 # 2023-02-01 - UNICEF Landing Page Builder
 
 [Date :: February 01, 2023]
-[Attendees :: [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Attendees :: [[Daniel Ley]], [[Lukas Mestel]], [[Esther Krumm]], [[Lukas Grebe]], [[Jonas Ulrich]]]
+[Length :: `35m`]
 
 ---
 
@@ -21,7 +21,10 @@ project:
 2. How could kickstartDS help?
 
 # Discussion notes
-- 
+- Show Playroom at a later date
+- Seems to be a potential fit
+- Create mini DS for LPs, based on kickstartDS
+- Needs project and area
 
 # Action items
 No action items.

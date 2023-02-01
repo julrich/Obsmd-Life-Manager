@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-02-01 - UNICEF Landing Page Builder.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-02-01 - kickstartDS Daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-02-01 - UNICEF Landing Page Builder.md"
+                "file": "01 Notes/02 Resources/03 Meetings/2023-02-01 - kickstartDS Daily.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-02-01 - UNICEF Landing Page Builder.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-02-01 - kickstartDS Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,15 +212,15 @@
   },
   "active": "64bdc58f2fcc9102",
   "lastOpenFiles": [
+    "01 Notes/02 Resources/03 Meetings/2023-02-01 - UNICEF Landing Page Builder.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-01 - kickstartDS Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-01 - ExE Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-31 - kickstartDS Daily.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-01.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-30 - kickstartDS Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-31 - ExE Daily.md",
     "03 Periodic/01 Daily/2023/01-January/2023-01-31.md",
     "01 Notes/02 Resources/11 Mechanical Keyboards/Mechanical Keyboards.md",
-    "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md",
-    "01 Notes/01 Areas/21 kickstartDS Development/Token Playground.md",
-    "01 Notes/01 Areas/40 Energy UI/Sanity.io.md",
-    "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
-    "01 Notes/01 Areas/40 Energy UI/40 Energy UI.md",
-    "03 Periodic/01 Daily/2023/01-January/2023-01-30.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-31 - kickstartDS Daily.md"
+    "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md"
   ]
 }
