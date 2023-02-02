@@ -12,7 +12,7 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 
 [Date :: February 02, 2023]
 [Attendees :: [[Lukas Mestel]], [[Daniel Ley]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `15m`]
 
 ---
 
@@ -20,7 +20,7 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 1. Devise a plan for the day
 
 # Discussion notes
-- 
+- Nothing special, attempt to debug analytics again with [[Lukas Mestel]] today
 
 # Action items
 No action items.
