@@ -23,7 +23,7 @@ Review driver: [[Jonas Ulrich]]
 - [x] Discuss design of error message spanning two fields with [[Daniel Ley]] 🔼 ⏳ 2023-01-05 📅 2023-01-06 ✅ 2023-01-06
 - [x] Get access to `admin_ui` repository in Taktsoft Gitlab  ⏫ 📅 2023-01-05 ✅ 2023-01-05
 - [x] Create ExE area and link meeting note [[2022-12-29 - ExE Handover Michael Micke]] 🔼 📅 2022-12-31 ✅ 2023-01-03
-- [ ] Archive ExE Sprint 4, document archiving process #next 🔼 📅 2023-02-05
+- [ ] Archive ExE Sprint 4, document archiving process #next 🔼 📅 2023-02-26
 
 ## Tickets in sprint
 

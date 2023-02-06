@@ -4,7 +4,7 @@
 
 - [ ] Add other set / mix listings from Google Drive: https://docs.google.com/document/u/2/
 
-- [ ] Check all mp3s in TSNM collection, add info to `01 Music` area 🔼 📅 2023-01-31
+- [ ] Check all mp3s in TSNM collection, add info to `01 Music` area 🔼 📅 2023-02-26
 
 - [x] Finish daily notes for the past few days ⏫ 📅 2022-12-29 ✅ 2023-01-02
 

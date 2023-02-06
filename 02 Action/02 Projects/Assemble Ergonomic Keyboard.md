@@ -20,10 +20,10 @@ tags: project
 - [ ] Wait for all items to arrive #next ⏳ 2023-01-22 📅 2023-02-15
 - [x] Add all tracking links 🔼 📅 2023-01-08 ✅ 2023-01-08
 - [x] Finish Split Keyboard plan   📅 2022-12-28
-- [ ] Check resource collection for Sofle v2 🔼 📅 2023-02-05
+- [ ] Check resource collection for Sofle v2 🔼 📅 2023-02-11
 - [x] Clarify two shipping codes with Leo / beekeeb 🔼 📅 2023-01-13 ✅ 2023-01-13
 - [x] Get fitting standoffs for higher OLED display 🔼 📅 2023-01-18 ✅ 2023-01-18
-- [ ] Fix switched Y and Z on QMK / Miryoku ⏫ 📅 2023-02-01
+- [ ] Fix switched Y and Z on QMK / Miryoku ⏫ 📅 2023-02-08
 
 ## Notes
 
