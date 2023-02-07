@@ -26,13 +26,28 @@ npm create sanity@latest -- --template clean --create-project "Sanity Project" -
 	  ![[Pasted image 20230207180622.png]]
 	- You should be greeted by this:
 	  ![[Pasted image 20230207180711.png]]
-	- Confirm the default `Project output path` by just entering a return
+	- Back at the terminal: Confirm the default `Project output path` by just entering a return
 	- Confirm using TypeScript with `Y` or use the default by again entering a return
 	- Select `yarn` for the package manager to use
 	- This should result in roughly this output in your terminal:
 	  ![[Pasted image 20230207181013.png]]
-- Inside of your Sanity.io dashboard you should now see the newly created project:
+- ... and inside of your Sanity.io dashboard you should now see the newly created project:
   ![[Pasted image 20230207181109.png]]
-
-
-https://api.sanity.io/v1/auth/callback/sanity?code=0agpxNdMPyPlnc0T&state=vrsYZjr2QgMQ7sQfoiggPjuu
+- Open `Sanity Project`, go to the `Datasets` tab and click on `+ New dataset`
+  ![[Pasted image 20230207195934.png]]
+  - Create a `staging` dataset
+    ![[Pasted image 20230207200030.png]]
+- Add additional `CORS origins` and and a `Token` through the `API` tab
+  ![[Pasted image 20230207200714.png]]
+- Remove the pre-filled `CORS origin` for `http://localhost:3333`
+  ![[Pasted image 20230207200812.png]]
+- Add new `CORS origins` for `http://localhost:5009` (local, but integrated in Rails app), `https://journeyengine.staging.wlp.cloud` (staging), and `http://localhost:3000` (local, but frontend only), like this (allowing credentials!):
+  ![[Pasted image 20230207201032.png]]
+- Create a `Token` with `Editor` permissions with name `EDL`, like follows:
+  ![[Pasted image 20230207201146.png]]
+- Be sure to copy the token, as this will be the only time it will be shown. Losing this would mean having to generate a wholly new token
+  ![[Pasted image 20230207201405.png]]
+- This should leave you with this view for the `API` tab
+  ![[Pasted image 20230207201500.png]]
+- Invite additional editors / users as needed through the `Members` tab (when doing so, make sure to select `Administrator` / `administrator` as the role, as those don't count towards the limited 3 editor seats... with the only distinction being that editors can't view / change project and accounting settings)
+  ![[Pasted image 20230207200207.png]]
