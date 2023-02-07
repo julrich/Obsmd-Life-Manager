@@ -18,7 +18,21 @@ npm create sanity@latest -- --template clean --create-project "Sanity Project" -
 ```
 - Answer the prompts as follows:
 	- Confirm installing `create-npm` globally with `y`
+	- Choose `Login type` `E-mail / password`
+	- Open the URL pasted to your terminal in your browser
+	- Login with the account created before
+	  ![[Pasted image 20230207180336.png]]
+	- Confirm creation and linkage of your access token:
+	  ![[Pasted image 20230207180622.png]]
+	- You should be greeted by this:
+	  ![[Pasted image 20230207180711.png]]
 	- Confirm the default `Project output path` by just entering a return
 	- Confirm using TypeScript with `Y` or use the default by again entering a return
 	- Select `yarn` for the package manager to use
-	- ![[Pasted image 20230207140052.png]]
+	- This should result in roughly this output in your terminal:
+	  ![[Pasted image 20230207181013.png]]
+- Inside of your Sanity.io dashboard you should now see the newly created project:
+  ![[Pasted image 20230207181109.png]]
+
+
+https://api.sanity.io/v1/auth/callback/sanity?code=0agpxNdMPyPlnc0T&state=vrsYZjr2QgMQ7sQfoiggPjuu
