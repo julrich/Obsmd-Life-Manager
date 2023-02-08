@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/02-February/2023-02-08.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-02-08 - ExE Sprint 6 Retro.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/02-February/2023-02-08.md"
+                "file": "01 Notes/02 Resources/03 Meetings/2023-02-08 - ExE Sprint 6 Retro.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/02-February/2023-02-08.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-02-08 - ExE Sprint 6 Retro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,15 +236,15 @@
   },
   "active": "be15681100189d2f",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/02-February/2023-02-07.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-08 - ExE Sprint 6 Review.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-08 - ExE Sprint 6 Retro.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-25 - ExE Sprint 5 Retro.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-07 - ExE Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-25 - ExE Sprint 5 Review.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-08.md",
+    "03 Periodic/01 Daily/2023/02-February/2023-02-07.md",
     "01 Notes/02 Resources/03 Meetings/03 Meetings.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-06.md",
-    "01 Notes/01 Areas/40 Energy UI/Sanity.io.md",
-    "01 Notes/02 Resources/03 Meetings/2023-02-07 - ExE Daily.md",
-    "01 Notes/02 Resources/03 Meetings/2023-02-06 - ExE Daily.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-12 - kickstartDS Team-Planning Q1.md",
-    "02 Action/02 Projects/Experience Engine Sprint 6 (Jan 26 - Feb 08).md",
-    "02 Action/01 Tasks/01 Tasks.md"
+    "01 Notes/01 Areas/40 Energy UI/Sanity.io.md"
   ]
 }
