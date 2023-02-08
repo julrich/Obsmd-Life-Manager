@@ -50,6 +50,8 @@ if (stuck.length > 0) {
 - [[Create Subscriptions Overview]]
 - [[Experience Engine Sprint 4 (Dec 14 - Jan 11)]]
 - [[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]
+- [[Experience Engine Sprint 6 (Jan 26 - Feb 08)]]
+- [[Experience Engine Sprint 7 (Feb 08 - Feb 22)]]
 - [[Gather People Notes]]
 - [[Improve kickstartDS Onboarding]]
 - [[Initialize Second Brain]]
