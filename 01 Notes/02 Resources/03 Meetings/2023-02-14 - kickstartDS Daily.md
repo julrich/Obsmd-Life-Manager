@@ -12,7 +12,7 @@ project: "[[kickstartDS Sprint 1 (Dec 11 - Jan 11)]]"
 
 [Date :: February 14, 2023]
 [Attendees :: [[Lukas Mestel]], [[Daniel Ley]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `25m`]
 
 ---
 
