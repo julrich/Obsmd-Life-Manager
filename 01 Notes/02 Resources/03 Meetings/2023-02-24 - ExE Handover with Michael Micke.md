@@ -21,6 +21,9 @@ project:
 
 # Discussion notes
 - https://resources.bonn.taktsoft.com/redmine/issues/17993
+- Merge journey tests in frontend (EWE Elmo + Core commodity)
+- Fix `createJourneyDecorator`
+- See if testing results is a possibility (e.g. by using a Context)
 
 # Action items
 - [ ] Meeting Notes Distributed to the Team
