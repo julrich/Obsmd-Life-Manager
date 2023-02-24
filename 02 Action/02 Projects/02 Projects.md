@@ -52,6 +52,7 @@ if (stuck.length > 0) {
 - [[Experience Engine Sprint 5 (Jan 11 - Jan 25)]]
 - [[Experience Engine Sprint 6 (Jan 26 - Feb 08)]]
 - [[Experience Engine Sprint 7 (Feb 08 - Feb 22)]]
+- [[Experience Engine Sprint 8 (Feb 22 - Mar 08)]]
 - [[Gather People Notes]]
 - [[Improve kickstartDS Onboarding]]
 - [[Initialize Second Brain]]
