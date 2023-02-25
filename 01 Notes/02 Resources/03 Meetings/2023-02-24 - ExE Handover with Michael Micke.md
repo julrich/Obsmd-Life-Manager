@@ -4,15 +4,15 @@ full-date: 2023-02-24
 week: 2023-W08
 month: 2023 - 02-February
 year: 2023
-area:
-project:
+area: "[[Experience Engine]]"
+project: "[[Experience Engine Sprint 8 (Feb 22 - Mar 08)]]"
 ---
 
 # 2023-02-24 - ExE Handover with Michael Micke
 
 [Date :: February 24, 2023]
 [Attendees :: [[Michael Micke]], [[Jonas Ulrich]]]
-[Length :: `XXm`]
+[Length :: `45m`]
 
 ---
 
@@ -26,6 +26,4 @@ project:
 - See if testing results is a possibility (e.g. by using a Context)
 
 # Action items
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+No action items
