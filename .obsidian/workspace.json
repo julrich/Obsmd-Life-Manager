@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-02-27 - ExE Exchange with Lukas about entry validation in steps.md",
+                "file": "03 Periodic/01 Daily/2023/02-February/2023-02-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-02-27 - ExE Exchange with Lukas about entry validation in steps.md"
+                "file": "03 Periodic/01 Daily/2023/02-February/2023-02-27.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/02 Resources/03 Meetings/2023-02-27 - ExE Exchange with Lukas about entry validation in steps.md",
+                "file": "03 Periodic/01 Daily/2023/02-February/2023-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,16 +188,21 @@
   },
   "active": "fd63d0e856e796a0",
   "lastOpenFiles": [
+    "01 Notes/02 Resources/03 Meetings/2023-02-27 - ruhmesmeile Exchange about DRVB with Nils and Daniel.md",
+    "01 Notes/02 Resources/03 Meetings/2023-01-23 - ruhmesmeile Exchange about company audit.md",
+    "01 Notes/01 Areas/26 kickstartDS Management/Planning.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-24 - kickstartDS Weekly Planning + Token Playground.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-27.md",
+    "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-27 - ExE Security Exchange with EWE.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-27 - ExE Exchange with Lukas about entry validation in steps.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-24 - ExE Daily.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-26.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-25.md",
     "04 Archive/Migrate (2022-12-27)/ArchLinux.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-24.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-23.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-24 - ExE Handover with Michael Micke.md",
-    "01 Notes/02 Resources/03 Meetings/2023-02-24 - ExE Daily.md",
-    "01 Notes/02 Resources/03 Meetings/2023-02-24 - kickstartDS Weekly Planning + Token Playground.md",
     "01 Notes/02 Resources/03 Meetings/2023-01-30 - kickstartDS Weekly Planning.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-24 - kickstartDS Daily.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-14 - kickstartDS Daily.md",
@@ -208,11 +213,6 @@
     "01 Notes/02 Resources/03 Meetings/2023-02-21 - ExE Daily.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-17.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-16.md",
-    "03 Periodic/01 Daily/2023/02-February/2023-02-15.md",
-    "03 Periodic/01 Daily/2023/02-February/2023-02-14.md",
-    "03 Periodic/01 Daily/2023/02-February/2023-02-10.md",
-    "03 Periodic/01 Daily/2023/02-February/2023-02-08.md",
-    "03 Periodic/01 Daily/2023/02-February/2023-02-07.md",
-    "03 Periodic/01 Daily/2023/02-February/2023-02-22.md"
+    "03 Periodic/01 Daily/2023/02-February/2023-02-15.md"
   ]
 }
