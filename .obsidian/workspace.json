@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-05.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-03-06 - kickstartDS Daily + Weekly + Sprint Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-05.md"
+                "file": "01 Notes/02 Resources/03 Meetings/2023-03-06 - kickstartDS Daily + Weekly + Sprint Planning.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-05.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-03-06 - kickstartDS Daily + Weekly + Sprint Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,15 +200,20 @@
   },
   "active": "83bd344f2e1ec59a",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/03-March/2023-03-04.md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-24 - kickstartDS Daily.md",
+    "01 Notes/02 Resources/03 Meetings/2023-03-06 - kickstartDS Daily + Weekly + Sprint Planning.md",
+    "03 Periodic/01 Daily/2023/03-March/2023-03-06.md",
+    "01 Notes/02 Resources/03 Meetings/2023-03-06 - ExE Daily.md",
+    "02 Action/02 Projects/Experience Engine Sprint 8 (Feb 22 - Mar 08).md",
+    "01 Notes/02 Resources/03 Meetings/2023-02-24 - ExE Daily.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-05.md",
+    "03 Periodic/01 Daily/2023/03-March/2023-03-04.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-03.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-02.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-01.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-28.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-27.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-24 - ExE Handover with Michael Micke.md",
-    "02 Action/02 Projects/Experience Engine Sprint 8 (Feb 22 - Mar 08).md",
     "03 Periodic/01 Daily/2023/03-March",
     "03 Periodic/01 Daily/2023/02-February/2023-02-26.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-27 - ruhmesmeile Exchange about DRVB with Nils and Daniel.md",
@@ -218,14 +223,9 @@
     "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-27 - ExE Security Exchange with EWE.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-27 - ExE Exchange with Lukas about entry validation in steps.md",
-    "01 Notes/02 Resources/03 Meetings/2023-02-24 - ExE Daily.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-25.md",
     "04 Archive/Migrate (2022-12-27)/ArchLinux.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-24.md",
-    "03 Periodic/01 Daily/2023/02-February/2023-02-23.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-30 - kickstartDS Weekly Planning.md",
-    "01 Notes/02 Resources/03 Meetings/2023-02-24 - kickstartDS Daily.md",
-    "01 Notes/02 Resources/03 Meetings/2023-02-14 - kickstartDS Daily.md",
-    "02 Action/02 Projects/02 Projects.md"
+    "03 Periodic/01 Daily/2023/02-February/2023-02-23.md"
   ]
 }
