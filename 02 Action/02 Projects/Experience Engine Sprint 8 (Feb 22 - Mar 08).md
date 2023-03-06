@@ -13,7 +13,10 @@ tags: project
 No tasks yet.
 
 ## Tickets in sprint
-No tickets yet.
+
+- https://resources.bonn.taktsoft.com/redmine/issues/18174
+- https://resources.bonn.taktsoft.com/redmine/issues/18094
+- https://resources.bonn.taktsoft.com/redmine/issues/18063
 
 ## Links
 
