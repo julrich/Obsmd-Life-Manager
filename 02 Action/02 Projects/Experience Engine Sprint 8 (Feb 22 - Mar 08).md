@@ -17,6 +17,9 @@ No tasks yet.
 - https://resources.bonn.taktsoft.com/redmine/issues/18174
 - https://resources.bonn.taktsoft.com/redmine/issues/18094
 - https://resources.bonn.taktsoft.com/redmine/issues/18063
+- https://resources.bonn.taktsoft.com/redmine/issues/17993
+	- https://resources.bonn.taktsoft.com/redmine/issues/18124
+	- https://resources.bonn.taktsoft.com/redmine/issues/18123
 
 ## Links
 
