@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-15.md",
+                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-15.md"
+                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-16.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-15.md",
+                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,10 +200,11 @@
   },
   "active": "83bd344f2e1ec59a",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/03-March/2023-03-14.md",
-    "03 Periodic/01 Daily/2023/03-March/2023-03-15.md",
-    "03 Periodic/01 Daily/2023/03-March/2023-03-13.md",
     "02 Action/02 Projects/Experience Engine Sprint 8 (Feb 22 - Mar 08).md",
+    "03 Periodic/01 Daily/2023/03-March/2023-03-16.md",
+    "03 Periodic/01 Daily/2023/03-March/2023-03-15.md",
+    "03 Periodic/01 Daily/2023/03-March/2023-03-14.md",
+    "03 Periodic/01 Daily/2023/03-March/2023-03-13.md",
     "01 Notes/02 Resources/03 Meetings/2023-03-06 - ExE Daily.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-10.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-09.md",
@@ -226,7 +227,6 @@
     "03 Periodic/01 Daily/2023/03-March",
     "03 Periodic/01 Daily/2023/02-February/2023-02-26.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-27 - ruhmesmeile Exchange about DRVB with Nils and Daniel.md",
-    "01 Notes/02 Resources/03 Meetings/2023-01-23 - ruhmesmeile Exchange about company audit.md",
-    "01 Notes/01 Areas/26 kickstartDS Management/Planning.md"
+    "01 Notes/02 Resources/03 Meetings/2023-01-23 - ruhmesmeile Exchange about company audit.md"
   ]
 }
