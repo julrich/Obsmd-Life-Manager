@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-23.md",
+                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-23.md"
+                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-25.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-23.md",
+                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +200,9 @@
   },
   "active": "83bd344f2e1ec59a",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/03-March/2023-03-22.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-23.md",
+    "03 Periodic/01 Daily/2023/03-March/2023-03-25.md",
+    "03 Periodic/01 Daily/2023/03-March/2023-03-22.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-19.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-18.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-13.md",
@@ -226,7 +227,6 @@
     "03 Periodic/01 Daily/2023/03-March/2023-03-02.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-01.md",
     "03 Periodic/01 Daily/2023/02-February/2023-02-28.md",
-    "03 Periodic/01 Daily/2023/02-February/2023-02-27.md",
     "03 Periodic/01 Daily/2023/03-March"
   ]
 }
