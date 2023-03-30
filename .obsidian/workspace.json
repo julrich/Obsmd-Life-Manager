@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-26.md",
+                "file": "01 Notes/01 Areas/04 Apartment/Home Automation.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EXPERIENCE_ENGINE_NPM_AUTH_TOKEN",
+                "query": "led",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-26.md"
+                "file": "01 Notes/01 Areas/04 Apartment/Home Automation.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Periodic/01 Daily/2023/03-March/2023-03-26.md",
+                "file": "01 Notes/01 Areas/04 Apartment/Home Automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +200,11 @@
   },
   "active": "83bd344f2e1ec59a",
   "lastOpenFiles": [
-    "03 Periodic/01 Daily/2023/03-March/2023-03-25.md",
+    "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md",
+    "01 Notes/01 Areas/04 Apartment/Home Automation.md",
+    "01 Notes/01 Areas/04 Apartment/Childrens room.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-26.md",
+    "03 Periodic/01 Daily/2023/03-March/2023-03-25.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-23.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-22.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-19.md",
@@ -224,9 +227,6 @@
     "01 Notes/02 Resources/03 Meetings/2023-02-24 - ExE Daily.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-05.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-04.md",
-    "03 Periodic/01 Daily/2023/03-March/2023-03-03.md",
-    "03 Periodic/01 Daily/2023/03-March/2023-03-02.md",
-    "03 Periodic/01 Daily/2023/03-March/2023-03-01.md",
     "03 Periodic/01 Daily/2023/03-March"
   ]
 }
