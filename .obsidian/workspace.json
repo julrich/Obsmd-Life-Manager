@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/01 Areas/04 Apartment/Home Automation.md",
+                "file": "02 Action/02 Projects/Experience Engine Sprint 8 (Feb 22 - Mar 08).md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/01 Areas/04 Apartment/Home Automation.md"
+                "file": "02 Action/02 Projects/Experience Engine Sprint 8 (Feb 22 - Mar 08).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/01 Areas/04 Apartment/Home Automation.md",
+                "file": "02 Action/02 Projects/Experience Engine Sprint 8 (Feb 22 - Mar 08).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +200,9 @@
   },
   "active": "83bd344f2e1ec59a",
   "lastOpenFiles": [
-    "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md",
+    "02 Action/02 Projects/Experience Engine Sprint 7 (Feb 08 - Feb 22).md",
     "01 Notes/01 Areas/04 Apartment/Home Automation.md",
+    "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md",
     "01 Notes/01 Areas/04 Apartment/Childrens room.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-26.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-25.md",
@@ -226,7 +227,6 @@
     "01 Notes/02 Resources/03 Meetings/2023-02-24 - kickstartDS Daily.md",
     "01 Notes/02 Resources/03 Meetings/2023-02-24 - ExE Daily.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-05.md",
-    "03 Periodic/01 Daily/2023/03-March/2023-03-04.md",
     "03 Periodic/01 Daily/2023/03-March"
   ]
 }
