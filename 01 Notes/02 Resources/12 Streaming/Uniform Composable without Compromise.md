@@ -30,8 +30,19 @@ YouTube URL: https://youtube.com/live/DvqvXGgnp5Q
 ### 5.  _What feature from old technology would you like to bring back to today?_
 
 - Decentralization: More user-run, self-owned communities... phpBB, IRC, etc
-- "Classic" frontend engineering
+- "Classic" frontend engineering focus (BEM, Vanilly JavaScript, et al)
 
 ### 6.  _How would you explain composable architectures to a digitally native 15 year old?_
 
-- 
+- Compare it to classroom assignments:
+	- Monolith:
+		- Everybody gets assigned exact tasks to do
+		- There's a detailed plan beforehand, "everything is known"
+		- Coordinated by one person, hierarchically (the teacher)
+	- Composable:
+		- Class builds groups by themselves
+		- The plan is given roughly, with room for interpretation on how the solution could look
+		- Groups coordinate themselves to solve specific parts
+	- You'll need someone coordinating in the composable scenario, too. How do you organize that?
+	- How do you ensure the end result is fit for purpose, how do you actually monitor progress?
+	- Pro: teams can organize based on skillset, interest and motivation... potentially unlocking way better results
