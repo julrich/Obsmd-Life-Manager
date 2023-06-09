@@ -45,4 +45,4 @@ YouTube URL: https://youtube.com/live/DvqvXGgnp5Q
 		- Groups coordinate themselves to solve specific parts
 	- You'll need someone coordinating in the composable scenario, too. How do you organize that?
 	- How do you ensure the end result is fit for purpose, how do you actually monitor progress?
-	- Pro: teams can organize based on skillset, interest and motivation... potentially unlocking way better results 
+	- Pro: teams can organize based on skillset, interest and motivation... potentially unlocking way better results 9
