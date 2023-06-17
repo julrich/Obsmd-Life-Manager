@@ -4,4 +4,4 @@
 
 ## Todo
 * [ ] Migrate configuration from installed system
-* [ ] Resolve Imagick version confliect (1808 vs 1809)
+* [ ] Resolve Imagick version conflict (1808 vs 1809)
