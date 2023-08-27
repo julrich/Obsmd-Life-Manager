@@ -22,7 +22,6 @@
 ## Backup
 see: [[Backups]]
 # Childrens room
-
 ## LEDs
 
 - Lighting Strip (60 / s): https://www.amazon.de/BTF-LIGHTING-WS2812B-300LEDs-Streifen-NichtWasserdicht/dp/B01CDTEG1O?th=1

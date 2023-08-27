@@ -19,7 +19,9 @@ Current backups at BorgBase: https://www.borgbase.com/
 ## Links
 
 * https://torsion.org/borgmatic/docs/how-to/set-up-backups/
-
+## How it works
+* Uses systemd files that come with package (AUR `borgmatic`), in `/usr/lib/systemd/system/borgmatic.service` and `/usr/lib/systemd/system/borgmatic.timer`
+* PW passed and encrypted with: https://wiki.archlinux.org/title/Borgmatic#Using_systemd-creds_to_provide_a_password_for_borgmatic.service
 # Link Dump
 
 - https://soyuka.me/borg-backups-archlinux-synology/
