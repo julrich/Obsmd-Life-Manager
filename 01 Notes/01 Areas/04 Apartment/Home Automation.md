@@ -8,6 +8,7 @@
 			* Batch add: https://github.com/nextcloud/cookbook/issues/288
 	* phpMyAdmin: https://annijo.mooo.com/phpMyAdmin/index.php
 * Home Assistant: http://192.168.2.134:8123/lovelace/default_view
+	* Current Admin User: `julrich`, PW: https://start.1password.com/open/i?a=WRYEXKIGMJCTBNM4VHBLAIFLCE&v=tevasol2hhnmrv5idpb2br7ini&i=cthyjq6u27l4yvts45cgsoyu5q&h=ruhmesmeile.1password.com
 	* ZoneMinder: 
 		* https://www.home-assistant.io/integrations/zoneminder/
 		* https://cloud.zoneminder.com/
