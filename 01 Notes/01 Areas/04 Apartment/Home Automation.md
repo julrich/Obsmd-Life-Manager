@@ -1,3 +1,25 @@
+# General
+## Links
+
+* Home Server:
+	* Jellyfin: https://annijo.mooo.com/jellyfin/
+	* Nextcloud: https://annijo.mooo.com/nextcloud/
+		* Recipes: 
+			* Batch add: https://github.com/nextcloud/cookbook/issues/288
+	* phpMyAdmin: https://annijo.mooo.com/phpMyAdmin/index.php
+* Home Assistant: http://192.168.2.134:8123/lovelace/default_view
+	* ZoneMinder: 
+		* https://www.home-assistant.io/integrations/zoneminder/
+		* https://cloud.zoneminder.com/
+		* https://wiki.archlinux.org/title/ZoneMinder
+	* ONVIF: https://www.home-assistant.io/integrations/onvif/
+## Migrate to Homeserver
+* https://wiki.archlinux.org/title/Home_Assistant
+* Modern alternative for ZigBee:
+		* https://mediarath.de/products/home-assistant-skyconnect-zigbee-thread-matter-usb-stick-fur-home-assistant
+		* https://www.home-assistant.io/skyconnect/
+## Backup
+see: [[Backups]]
 # Childrens room
 
 ## LEDs
