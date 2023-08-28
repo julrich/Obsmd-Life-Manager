@@ -2,8 +2,8 @@
 Current backups at BorgBase: https://www.borgbase.com/
 
 ## TODO
-- [ ] Use relative paths: https://projects.torsion.org/borgmatic-collective/borgmatic/issues/431
-- [ ] Test ssh key setup (ssh-agent, etc) on homeserver
+- [x] Use relative paths: https://projects.torsion.org/borgmatic-collective/borgmatic/issues/431
+- [x] Test ssh key setup (ssh-agent, etc) on homeserver
 - [ ] Backup ssh keys / passphrases themselves
 - [ ] Add application backups:
 	- [ ] https://torsion.org/borgmatic/docs/how-to/make-per-application-backups/
@@ -11,7 +11,7 @@ Current backups at BorgBase: https://www.borgbase.com/
 		- [ ] https://docs.nextcloud.com/server/latest/admin_manual/maintenance/backup.html
 		- [ ] https://codeberg.org/BernieO/calcardbackup/src/branch/stable/README_GER.md
 	- [ ] Jellyfin: https://www.reddit.com/r/jellyfin/comments/x8c3yj/full_backup_of_your_jellyfin_setup/
-- [ ] Add health checks, notifications
+- [x] Add health checks, notifications
 - [ ] Add on-site backup
 - [ ] Add full backup of Homeserver
 - [ ] Add full backup of personal laptop
