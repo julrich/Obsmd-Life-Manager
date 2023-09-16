@@ -17,8 +17,11 @@
 ## Migrate to Homeserver
 * https://wiki.archlinux.org/title/Home_Assistant
 * Modern alternative for ZigBee:
-		* https://mediarath.de/products/home-assistant-skyconnect-zigbee-thread-matter-usb-stick-fur-home-assistant
-		* https://www.home-assistant.io/skyconnect/
+	* https://mediarath.de/products/home-assistant-skyconnect-zigbee-thread-matter-usb-stick-fur-home-assistant
+	* https://www.home-assistant.io/skyconnect/
+## To do / Improvements
+* Fix LetsEncrypt
+* Fix Free DNS
 ## Backup
 see: [[Backups]]
 # Childrens room

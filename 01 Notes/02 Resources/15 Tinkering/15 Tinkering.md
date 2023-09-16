@@ -21,3 +21,4 @@
 - [ ] Schrumpfkappen-"Fön"
 - [ ] Diverse Kabelschuhe
 - [ ] Kleine Löt-Lampe / -Lupe
+- [ ] Verschiedene Kabeldicken
