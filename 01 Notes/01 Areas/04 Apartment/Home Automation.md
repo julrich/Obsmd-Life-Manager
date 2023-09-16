@@ -48,3 +48,20 @@ More links to sift through:
 - https://amzn.eu/d/ftoAbQD
 - https://kno.wled.ge/
 - https://kno.wled.ge/basics/tutorials/
+
+# Tooling
+## Arch Home Server
+* Fix certificate renewal for NGINX / Certbot
+* Fix boot order for disk mounting and php-fpm-legacy / Nextcloud
+## Home Assistant
+## Nextcloud
+* Error Handling:
+	* Log: `/var/log/nextcloud/nextcloud.log`
+	* Doesn't start because of missing `.ocdata` in root dir:
+		* Ensure symlink exists (reference `/etc/webapps/nextcloud/config/config.php` if in doubt about location about target) from `/var/lib/nextcloud/data` to `/run/media/root/myCloudDrive/ncdata/data`
+		* Ensure permissions for the whole tree / path (!!) are set to `chown -R nextcloud:http /run/media/root` down to `/run/media/root/myCloudDrive/ncdata/data`
+## Jellyfin
+* Error Handling:
+	* Log: `/var/log/jellyfin/logXXX.log`
+	* Doesn't start:
+		* Ensure symlink for `jellyfin-web` exists: `ln -s /usr/share/jellyfin-web /usr/lib/jellyfin/jellyfin-web`
