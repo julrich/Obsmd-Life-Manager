@@ -1,19 +1,20 @@
 # General
 ## Links
-
 * Home Server:
 	* Jellyfin: https://annijo.mooo.com/jellyfin/
 	* Nextcloud: https://annijo.mooo.com/nextcloud/
 		* Recipes: 
 			* Batch add: https://github.com/nextcloud/cookbook/issues/288
 	* phpMyAdmin: https://annijo.mooo.com/phpMyAdmin/index.php
-* Home Assistant: http://192.168.2.134:8123/lovelace/default_view
+* Old Home Assistant: http://192.168.2.134:8123/lovelace/default_view
 	* Current Admin User: `julrich`, PW: https://start.1password.com/open/i?a=WRYEXKIGMJCTBNM4VHBLAIFLCE&v=tevasol2hhnmrv5idpb2br7ini&i=cthyjq6u27l4yvts45cgsoyu5q&h=ruhmesmeile.1password.com
 	* ZoneMinder: 
 		* https://www.home-assistant.io/integrations/zoneminder/
 		* https://cloud.zoneminder.com/
 		* https://wiki.archlinux.org/title/ZoneMinder
 	* ONVIF: https://www.home-assistant.io/integrations/onvif/
+* New Home Assistant: http://192.168.2.174:8123/dashboard-default/0
+	* Current Admin User: `oberkassel`, PW: https://start.1password.com/open/i?a=DGPHNUOGZFD43AGLVCYZFDB6EQ&v=a325oqzxizt342p5vx2rjyuxdu&i=65hqcg4qmyczdc23zow4m7ugdq&h=my.1password.com
 ## Migrate to Homeserver
 * https://wiki.archlinux.org/title/Home_Assistant
 * Modern alternative for ZigBee:
@@ -24,12 +25,25 @@
 * Fix Free DNS
 ## Backup
 see: [[Backups]]
+# Living room
+## Ideas
+- Ambilight Clone: see also [[Ambilight Clone]]
+	- HDMI-Splitter: https://www.amazon.de/gp/product/B07K5RKQB7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+	- USB Video Grabber: https://www.amazon.de/gp/product/B08FDM6N6H/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+	- https://www.kodinerds.net/thread/70573-ambilight-eigenbau-mit-wled-f%C3%BCr-4k-hdmi-edit-mit-bezahlbaren-komponenten-m%C3%B6glich/
 # Childrens room
 ## LEDs
-
 - Lighting Strip (60 / s): https://www.amazon.de/BTF-LIGHTING-WS2812B-300LEDs-Streifen-NichtWasserdicht/dp/B01CDTEG1O?th=1
 - WLED: https://kno.wled.ge/
 - LED Diffuser comparison: "I bought every LED Diffuser channel on Amazon to find the best one.  Mission Accomplished" - https://youtu.be/DKOWeuV1FWE
+
+## Ideas
+- `LedFx`: React to music playing on device
+	- https://www.ledfx.app/
+	- https://github.com/LedFx/LedFx
+	- "Make your LEDs Dance to Music!": https://www.youtube.com/watch?v=ipSfQdfX4fE
+	- Home Assistant integration: https://community.home-assistant.io/t/ledfx-deep-integration-component/366750
+	- https://aur.archlinux.org/packages/ledfx-git
 
 More links to sift through:
 - https://www.freva.com/how-to-control-a-neopixel-led-strip-with-a-raspberry-pi-pico/
@@ -54,6 +68,8 @@ More links to sift through:
 * Fix certificate renewal for NGINX / Certbot
 * Fix boot order for disk mounting and php-fpm-legacy / Nextcloud
 ## Home Assistant
+Currently uses: https://wiki.archlinux.org/title/Home_Assistant_Supervised
+More, general Arch related information: https://wiki.archlinux.org/title/Home_Assistant
 ## Nextcloud
 * Error Handling:
 	* Log: `/var/log/nextcloud/nextcloud.log`

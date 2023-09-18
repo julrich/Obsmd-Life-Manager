@@ -13,7 +13,8 @@
 ### Resources
 - Resizing a partition: https://linuxhint.com/resize_a_btrfs_filesystem/
 ### Useful commands
-- 
+- `btrfs device usage /data`: show device usage for file system mounted at `/data`
+- `btrfs filesystem resize -1G /data`: reduce file system mounted at `/data` by 1G
 ## LVM
 In use on [[Home Automation#Arch Home Server]], created according to this manual: https://computingforgeeks.com/install-arch-linux-with-lvm-on-uefi-system/
 ### Resources
@@ -21,4 +22,4 @@ In use on [[Home Automation#Arch Home Server]], created according to this manual
 - Increase LVM partition: https://www.rootusers.com/lvm-resize-how-to-increase-an-lvm-partition/
 ### Useful commands
 * `lvdisplay`: show logical volumes
-* 
+* `pvdisplay`: show physical volumes
