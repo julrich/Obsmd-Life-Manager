@@ -23,6 +23,7 @@ Current backups at BorgBase: https://www.borgbase.com/
 * Uses systemd files that come with package (AUR `borgmatic`), in `/usr/lib/systemd/system/borgmatic.service` and `/usr/lib/systemd/system/borgmatic.timer`
 * PW passed and encrypted with: https://wiki.archlinux.org/title/Borgmatic#Using_systemd-creds_to_provide_a_password_for_borgmatic.service
 * Repository-specific configuration in `/etc/borgmatic.d/NAME.yml` and `/etc/systemd/system/borgmatic.service.d/NAME.yml`
+* Need to make sure repository is actually created, use the following command for that: `BORG_PASSPHRASE=REPOPASSPHRASE borg init -e repokey-blake2 ssh://REPOUSER@REPONAME.repo.borgbase.com/./repo`
 # Link Dump
 
 - https://soyuka.me/borg-backups-archlinux-synology/
