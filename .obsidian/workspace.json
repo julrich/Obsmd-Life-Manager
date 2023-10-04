@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/01 Areas/03 Software/Backups.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-10-04 - ExE Sprint 23 Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/01 Areas/03 Software/Backups.md"
+                "file": "01 Notes/02 Resources/03 Meetings/2023-10-04 - ExE Sprint 23 Review.md"
               }
             }
           },
@@ -235,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/01 Areas/03 Software/Backups.md",
+                "file": "01 Notes/02 Resources/03 Meetings/2023-10-04 - ExE Sprint 23 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,6 +292,10 @@
   },
   "active": "3193132806081b2c",
   "lastOpenFiles": [
+    "01 Notes/01 Areas/40 Energy UI/Experience Engine.md",
+    "01 Notes/02 Resources/03 Meetings/2023-10-04 - ExE Sprint 23 Review.md",
+    "01 Notes/01 Areas/40 Energy UI/40 Energy UI.md",
+    "01 Notes/01 Areas/03 Software/Backups.md",
     "01 Notes/01 Areas/04 Apartment/Home Automation.md",
     "01 Notes/02 Resources/15 Tinkering/Ambilight Clone.md",
     "01 Notes/01 Areas/04 Apartment/Childrens room.md",
@@ -301,14 +305,12 @@
     "01 Notes/01 Areas/22 kickstartDS Marketing/DWX Talk.md",
     "01 Notes/01 Areas/10 Parenting/Babyphone.md",
     "01 Notes/02 Resources/15 Tinkering/15 Tinkering.md",
-    "01 Notes/01 Areas/03 Software/Backups.md",
     "01 Notes/02 Resources/10 Nerdy Coding/JSON Schema.md",
     "01 Notes/02 Resources/10 Nerdy Coding/SSH.md",
     "01 Notes/01 Areas/10 Parenting/Elterngeld.md",
     "01 Notes/01 Areas/03 Software/Nextcloud.md",
     "01 Notes/02 Resources/02 Media/02 Media.md",
     "01 Notes/02 Resources/02 Media/Test Media.md",
-    "01 Notes/01 Areas/40 Energy UI/40 Energy UI.md",
     "01 Notes/02 Resources/12 Streaming/Uniform Composable without Compromise.md",
     "02 Action/02 Projects/02 Projects.md",
     "02 Action/03 Goals/03 Goals.md",
@@ -316,8 +318,6 @@
     "02 Action/02 Projects/Experience Engine Sprint 7 (Feb 08 - Feb 22).md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-26.md",
     "03 Periodic/01 Daily/2023/03-March/2023-03-25.md",
-    "03 Periodic/01 Daily/2023/03-March/2023-03-23.md",
-    "03 Periodic/01 Daily/2023/03-March/2023-03-22.md",
     "01 Notes/02 Resources/05 Attachments/Pasted image 20230309155708.png",
     "03 Periodic/01 Daily/2023/03-March"
   ]
