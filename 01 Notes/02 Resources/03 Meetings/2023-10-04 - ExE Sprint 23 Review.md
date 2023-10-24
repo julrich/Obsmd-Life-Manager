@@ -38,3 +38,5 @@ https://journeyengine.staging.wlp.cloud/journeys/journey/von/?apiBaseUrl=https%3
 - [ ] Meeting Notes Distributed to the Team
 - [ ] Tasks & Projects Completed, Processed or Delegated
 - [ ] Key Dates Completed or Scheduled
+
+      "previousProviderCode": "9906422000001",
