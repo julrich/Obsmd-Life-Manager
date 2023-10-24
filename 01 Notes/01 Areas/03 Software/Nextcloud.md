@@ -5,3 +5,11 @@
 ## Todo
 * [ ] Migrate configuration from installed system
 * [ ] Resolve Imagick version conflict (1808 vs 1809)
+
+## Foto album ideas
+
+- Mathilda op jöck
+- Parties
+- Oberkassel Ort
+- Paderborn
+- Alfter
