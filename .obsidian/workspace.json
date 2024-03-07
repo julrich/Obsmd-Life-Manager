@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/01 Areas/01 Music/Parties.md",
+                "file": "01 Notes/01 Areas/03 Software/Backups.md",
                 "mode": "source",
                 "source": false
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/01 Areas/01 Music/Parties.md"
+                "file": "01 Notes/01 Areas/03 Software/Backups.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/01 Areas/01 Music/Parties.md",
+                "file": "01 Notes/01 Areas/03 Software/Backups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,9 +306,9 @@
   },
   "active": "ffb04578c400e097",
   "lastOpenFiles": [
+    "01 Notes/01 Areas/01 Music/Parties.md",
     "01 Notes/01 Areas/01 Music/Bandcamp.md",
     "01 Notes/01 Areas/01 Music/TSNM.md",
-    "01 Notes/01 Areas/01 Music/Parties.md",
     "01 Notes/01 Areas/10 Parenting/Taufe.md",
     "01 Notes/01 Areas/10 Parenting/Elterngeld.md",
     "02 Action/02 Projects/Experience Engine Sprint 27 (Nov 15 - Nov 29).md",
