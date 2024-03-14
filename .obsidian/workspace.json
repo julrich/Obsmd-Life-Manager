@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Notes/01 Areas/04 Apartment/Home Automation.md",
+                "file": "01 Notes/01 Areas/03 Software/Backups.md",
                 "mode": "source",
                 "source": false
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Notes/01 Areas/04 Apartment/Home Automation.md"
+                "file": "01 Notes/01 Areas/03 Software/Backups.md"
               }
             }
           },
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Notes/01 Areas/04 Apartment/Home Automation.md",
+                "file": "01 Notes/01 Areas/03 Software/Backups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,10 +318,10 @@
   },
   "active": "1acc174c62d956b9",
   "lastOpenFiles": [
+    "01 Notes/01 Areas/04 Apartment/Home Automation.md",
     "01 Notes/01 Areas/03 Software/Arch Linux.md",
     "01 Notes/01 Areas/03 Software/ArchiveBox.md",
     "01 Notes/01 Areas/03 Software/Backups.md",
-    "01 Notes/01 Areas/04 Apartment/Home Automation.md",
     "01 Notes/02 Resources/10 Nerdy Coding/Optics.md",
     "01 Notes/02 Resources/10 Nerdy Coding/JSON Schema.md",
     "01 Notes/01 Areas/01 Music/Parties.md",
