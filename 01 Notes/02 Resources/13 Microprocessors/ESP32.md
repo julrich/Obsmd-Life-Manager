@@ -1,3 +1,1 @@
-## Links
-
-- https://www.espressif.com/en/products/sdks/esp-wifi-mesh/overview
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/02 Resources/13 Microprocessors/ESP32.md

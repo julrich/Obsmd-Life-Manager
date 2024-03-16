@@ -1,3 +1,1 @@
-## Links
-
-- Great Open Source employee handbook: https://github.com/artsy/README
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/24 kickstartDS Community/Transparency.md

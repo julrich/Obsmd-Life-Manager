@@ -1,2 +1,1 @@
-# Setup
-https://github.com/julrich/dotfiles
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/03 Software/Dotfiles.md

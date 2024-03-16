@@ -1,1 +1,1 @@
-Miro-Board: https://miro.com/app/board/uXjVOQ_0On0=/
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/41 Ruhr-Universität Bochum/Design System Initiative.md

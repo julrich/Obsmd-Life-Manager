@@ -1,6 +1,1 @@
-# 40 Energy UI
- 
-```ccard
-type: folder_brief_live
-```
- 
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/40 Energy UI/40 Energy UI.md

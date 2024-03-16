@@ -1,3 +1,1 @@
-## Links
-
-- Why Docker containers might be running on boot, and how to change it: https://stackoverflow.com/a/45022623
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/03 Software/Docker.md

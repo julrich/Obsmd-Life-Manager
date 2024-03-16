@@ -1,0 +1,1 @@
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/05 Finances/Subscriptions.md

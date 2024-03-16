@@ -1,2 +1,1 @@
-* add wiki notes
-* 
+../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/04 Archive/Migrate (2022-12-27)/Update Dotiles.md

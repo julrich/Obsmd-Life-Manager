@@ -1,8 +1,1 @@
-Link: https://archivebox.io/
-
-- [[Obsidian]] integration: https://github.com/invariant/obsidian-archivebox-plugin
-
-# Local Setup
-
-Local User: `archivebox` / `archivebox`
-Local Folder: `/home/archivebox/archivebox`
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/03 Software/ArchiveBox.md

@@ -1,12 +1,1 @@
-# Einführung
-
-## Slide
-Was sind WebComponents?
-
-Unsere eigenen HTML-Elemente, als Erweiterung der vorhandenen, durch Browser und Standards definierten, Standard-Elementen (<div>, <p>, etc)
-
--> Kurze Demo Minimalkomponente
-
-
-## Slide
-
+../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/04 Archive/Migrate (2022-12-27)/SeminarWebcomponents.md

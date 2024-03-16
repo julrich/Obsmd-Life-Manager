@@ -1,4 +1,1 @@
-# Links:
-
-- App state in URLs: https://news.ycombinator.com/item?id=34312546
-- Show HN: Taggy – Open-source package to auto-tag input/text: https://news.ycombinator.com/item?id=34454713
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/21 kickstartDS Development/Miscellaneous.md

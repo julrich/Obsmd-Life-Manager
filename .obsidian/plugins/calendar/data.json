@@ -1,10 +1,1 @@
-{
-  "shouldConfirmBeforeCreate": true,
-  "weekStart": "locale",
-  "wordsPerDot": 250,
-  "showWeeklyNote": true,
-  "weeklyNoteFormat": "",
-  "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "",
-  "localeOverride": "system-default"
-}
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/.obsidian/plugins/calendar/data.json

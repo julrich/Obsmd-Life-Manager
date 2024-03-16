@@ -1,4 +1,1 @@
----
-tags: project
----
-# <% tp.file.title %>
+../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/05 Templates/Project Template.md

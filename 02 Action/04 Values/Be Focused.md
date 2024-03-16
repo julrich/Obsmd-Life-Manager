@@ -1,6 +1,1 @@
----
-tags: Value
----
-# Be Focused
-
-[Why :: To get more done in less time]
+../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/02 Action/04 Values/Be Focused.md

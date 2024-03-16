@@ -1,12 +1,1 @@
-{
-  "baseFontSize": 16,
-  "cssTheme": "Minimal",
-  "enabledCssSnippets": [
-    "supercharged-links-gen",
-    "banner"
-  ],
-  "accentColor": "#ecff00",
-  "showViewHeader": false,
-  "nativeMenus": false,
-  "monospaceFontFamily": "Hack Nerd Font Mono"
-}
+../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/.obsidian/appearance.json

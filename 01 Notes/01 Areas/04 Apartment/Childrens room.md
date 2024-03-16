@@ -1,3 +1,1 @@
-# Automation
-
-See: [[Home Automation#Childrens room]].
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/04 Apartment/Childrens room.md

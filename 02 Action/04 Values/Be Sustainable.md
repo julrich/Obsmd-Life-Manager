@@ -1,6 +1,1 @@
----
-tags: value
----
-# Be Sustainable
-
-[Why :: Because every business needs to make money to exist]
+../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/02 Action/04 Values/Be Sustainable.md

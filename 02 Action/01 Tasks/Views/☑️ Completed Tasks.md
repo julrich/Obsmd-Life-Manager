@@ -1,5 +1,1 @@
----
-```tasks
-done
-sort by done date
-```
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/02 Action/01 Tasks/Views/☑️ Completed Tasks.md

@@ -1,6 +1,1 @@
----
-tags: Value
----
-# Be Organized
-
-[Why :: To keep on top of everything more easily]
+../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/02 Action/04 Values/Be Organized.md

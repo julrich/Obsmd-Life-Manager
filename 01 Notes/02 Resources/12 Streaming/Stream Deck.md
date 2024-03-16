@@ -1,4 +1,1 @@
-- Compatibility for Linux / Arch: https://aur.archlinux.org/packages/streamdeck-ui
-- https://kocustomcreations.com/carbon-fiber-elgato-stream-deck-skin/
-- https://kocustomcreations.com/forged-carbon-elgato-stream-deck-skin/
-- https://www.corsair.com/de/de/search/?text=faceplate&type=all
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/02 Resources/12 Streaming/Stream Deck.md

@@ -1,4 +1,1 @@
----
-tags: value
----
-# <% tp.file.title %>
+../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/05 Templates/Value Template.md

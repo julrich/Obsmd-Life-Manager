@@ -1,5 +1,1 @@
-# 13 Microprocessors Overview
-
-## Links
-
-- USB plugin boards: https://tomu.im/
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/02 Resources/13 Microprocessors/13 Microprocessors.md

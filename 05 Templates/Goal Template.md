@@ -1,4 +1,1 @@
----
-tags: goal
----
-# <% tp.file.title %>
+../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/05 Templates/Goal Template.md

@@ -1,6 +1,1 @@
-# 02 Weekly Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
+../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/03 Periodic/02 Weekly/02 Weekly.md

@@ -1,3 +1,1 @@
-## Links
-
-- Sixel images in Tmux: https://github.com/csdvrx/sixel-tmux
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/02 Resources/10 Nerdy Coding/Tmux.md

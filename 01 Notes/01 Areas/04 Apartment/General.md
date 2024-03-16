@@ -1,2 +1,1 @@
-## Needed
-- Smaller vacuum cleaners
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/01 Areas/04 Apartment/General.md

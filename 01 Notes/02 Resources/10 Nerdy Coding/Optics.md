@@ -1,5 +1,1 @@
-## Links
-
-- "Looking into Immutable Data with Optics - Simon Vergauwen": https://www.youtube.com/watch?v=Q7GtlbAFGCc
-- Optics in use (`unmock-js`): https://github.com/meeshkan/unmock-js/blob/dev/packages/openapi-refinements/src/index.ts
-- https://akheron.github.io/optics-ts/
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/02 Resources/10 Nerdy Coding/Optics.md

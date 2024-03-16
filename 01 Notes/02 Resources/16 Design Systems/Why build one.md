@@ -1,3 +1,1 @@
-## Links
-
-- In German: https://assets.website-files.com/603c9be75dc3e972627a97ab/627a4fb0f3deb34fa00f6902_Design%20Systeme_Pitch%20Deck_TEAM23.pdf
+../../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/01 Notes/02 Resources/16 Design Systems/Why build one.md

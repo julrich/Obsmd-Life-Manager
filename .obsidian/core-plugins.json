@@ -1,18 +1,1 @@
-[
-  "file-explorer",
-  "global-search",
-  "switcher",
-  "graph",
-  "backlink",
-  "canvas",
-  "properties",
-  "page-preview",
-  "note-composer",
-  "command-palette",
-  "editor-status",
-  "bookmarks",
-  "markdown-importer",
-  "outline",
-  "word-count",
-  "file-recovery"
-]
+../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/.obsidian/core-plugins.json

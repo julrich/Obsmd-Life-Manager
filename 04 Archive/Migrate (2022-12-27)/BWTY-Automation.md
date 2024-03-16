@@ -1,4 +1,1 @@
-# TODO
-* issueKey über alle Builds (Frontend-Modul -> Live-Deployment) transportieren
-* Übertragen der Änderungen an rm20 instance auf instance-template
-* Prüfen ob instance-Checkout evtl. falsche Branches anlegt (korrekt benannt, aber alle auf master)
+../../../../.homesick/repos/dotfiles-notes/home/.notes/obsmdlm/04 Archive/Migrate (2022-12-27)/BWTY-Automation.md
