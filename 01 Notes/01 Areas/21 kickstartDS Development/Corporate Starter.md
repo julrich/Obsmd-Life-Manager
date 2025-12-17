@@ -1,4 +1,6 @@
 
 ## TODO
 * [x] Where are `event-latest-teaser` and `event-list-teaser` components in section / Storyblok?
-* [ ] Downloads key duplicated in downloads component
+* [x] Downloads key duplicated in downloads component
+* [ ] `prepareProject` should be repeatable / idempotent
+* [ ] Change component previews to use light stage, not old DSA dark stage in preset screenshots
