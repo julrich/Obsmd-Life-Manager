@@ -17,3 +17,8 @@
 - [ ] Missing `ts-expect-errors` in `ComponentProviders.tsx`, `SectionProvider.tsx`, breaking `npm run build`
 - [ ] Update to newest `ds-agency-premium`-release
 - [ ] `npm run init` / `prepareProject.js` create `global` and `global_reference` in `components.123456.json`, which gets overwritten by subsequent `npm run create-storyblok-config` calls, should be unified
+- [ ] Small schema bugs after conversion + initialization:
+	- [ ] `Components` group only includes `info-table`, `split-even` and `split-weighted`
+	- [ ] Duplicated group for content components called `FirstComponents` (coming from Split Even)
+	- [ ] Groups in components `section`, `split-even` and `split-weighted` set incorrectly, should all be: ["Components", "Global"]
+- [ ] Add `.circleci` stuff for hooks
