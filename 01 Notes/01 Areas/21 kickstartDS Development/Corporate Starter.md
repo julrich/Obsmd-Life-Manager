@@ -6,6 +6,7 @@
 * [ ] Change component previews to use light stage, not old DSA dark stage in preset screenshots
 * [ ] Hunt + fix all `@ts-expect-error`
 * [ ] Dark bg in component previews, mis-aligned / -sized component previews
+* [ ] Update everything (project, Circle CI, Dockerfile, kamal, etc)
 * [ ] Events
 	* [ ] Event List Teaser not functional (nested components broken?)
 		* [ ] Specifically, tags are not working right now
