@@ -11,6 +11,7 @@
 	* [ ] Event List Teaser not functional (nested components broken?)
 		* [ ] Specifically, tags are not working right now
 * [ ] new favicon, meta image, title, descriptions
+* [ ] Hot reload for client js changes (e.g. changing `umami.client.js` necessitates stopping running dev server to first run `npm run bundle-static-assets`)
 
 ## First Checkout
 - [ ] `import calculated from "@/token/calculated"` failing initially because of missing `npm run build` before `npm run init`, double check README.md if this is actually well documented
@@ -23,3 +24,4 @@
 	- [ ] Duplicated group for content components called `FirstComponents` (coming from Split Even)
 	- [ ] Groups in components `section`, `split-even` and `split-weighted` set incorrectly, should all be: ["Components", "Global"]
 - [ ] Add `.circleci` stuff for hooks
+- [ ] Check for `window.umami` actually existing in `umami.client.js`
