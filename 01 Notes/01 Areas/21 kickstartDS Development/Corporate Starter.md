@@ -10,6 +10,7 @@
 * [ ] Events
 	* [ ] Event List Teaser not functional (nested components broken?)
 		* [ ] Specifically, tags are not working right now
+* [ ] new favicon, meta image, title, descriptions
 
 ## First Checkout
 - [ ] `import calculated from "@/token/calculated"` failing initially because of missing `npm run build` before `npm run init`, double check README.md if this is actually well documented
