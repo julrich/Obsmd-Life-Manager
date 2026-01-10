@@ -13,6 +13,7 @@
 * [ ] new favicon, meta image, title, descriptions
 * [ ] Hot reload for client js changes (e.g. changing `umami.client.js` necessitates stopping running dev server to first run `npm run bundle-static-assets`)
 * [ ] Icon integration, sprite and plugin don't seem to work any more
+* [ ] Change breadcrumb to have more semantic markup: https://developer.mozilla.org/en-US/docs/Web/CSS/How_to/Layout_cookbook/Breadcrumb_navigation#recipe
 
 ## First Checkout
 - [ ] `import calculated from "@/token/calculated"` failing initially because of missing `npm run build` before `npm run init`, double check README.md if this is actually well documented
