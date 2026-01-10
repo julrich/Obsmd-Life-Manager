@@ -12,6 +12,7 @@
 		* [ ] Specifically, tags are not working right now
 * [ ] new favicon, meta image, title, descriptions
 * [ ] Hot reload for client js changes (e.g. changing `umami.client.js` necessitates stopping running dev server to first run `npm run bundle-static-assets`)
+* [ ] Icon integration, sprite and plugin don't seem to work any more
 
 ## First Checkout
 - [ ] `import calculated from "@/token/calculated"` failing initially because of missing `npm run build` before `npm run init`, double check README.md if this is actually well documented
