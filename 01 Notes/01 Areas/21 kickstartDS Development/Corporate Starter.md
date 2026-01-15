@@ -25,5 +25,7 @@
 	- [ ] `Components` group only includes `info-table`, `split-even` and `split-weighted`
 	- [ ] Duplicated group for content components called `FirstComponents` (coming from Split Even)
 	- [ ] Groups in components `section`, `split-even` and `split-weighted` set incorrectly, should all be: ["Components", "Global"]
+	- [ ] `components` key in slider component missing, should be the exact same as for `section`
+	- [ ] default `mode` for section should be set to `list`, not `default`
 - [ ] Add `.circleci` stuff for hooks
 - [ ] Check for `window.umami` actually existing in `umami.client.js`
