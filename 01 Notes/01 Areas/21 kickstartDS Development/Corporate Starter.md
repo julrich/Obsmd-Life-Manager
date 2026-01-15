@@ -30,3 +30,5 @@
 	- [ ] default `mode` for section should be set to `list`, not `default`
 - [ ] Add `.circleci` stuff for hooks
 - [ ] Check for `window.umami` actually existing in `umami.client.js`
+- [ ] AI Draft-flag on `section.schema.json`
+- [ ] Add prompter to `page.schema.json` on field `section` as an alternative, allowed component type... next to the currently singular `section` being allowed
