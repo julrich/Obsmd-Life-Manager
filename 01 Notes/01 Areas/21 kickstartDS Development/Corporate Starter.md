@@ -16,6 +16,8 @@
 * [ ] Change breadcrumb to have more semantic markup: https://developer.mozilla.org/en-US/docs/Web/CSS/How_to/Layout_cookbook/Breadcrumb_navigation#recipe
 * [ ] Can't select icon in button component?
 * [ ] Prompter has hard-coded URL in it, needs to use env variables
+* [ ] Document fact that you need to change the used env variable `NEXT_PUBLIC_SECONDARY_PUBLIC_SITE_DOMAIN`to be `NEXT_PUBLIC_PRIMARY_PUBLIC_SITE_DOMAIN` if you're not using `www.`as your main domain
+* [ ] Fix `SecretsUsedInArgOrEnv`for the variables passed to the `Dockerfile`, need a more secure solution here
 
 ## First Checkout
 - [ ] `import calculated from "@/token/calculated"` failing initially because of missing `npm run build` before `npm run init`, double check README.md if this is actually well documented
