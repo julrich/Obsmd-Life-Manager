@@ -35,3 +35,12 @@
 - [ ] Check for `window.umami` actually existing in `umami.client.js`
 - [ ] AI Draft-flag on `section.schema.json`
 - [ ] Add prompter to `page.schema.json` on field `section` as an alternative, allowed component type... next to the currently singular `section` being allowed
+## Monorepo integration
+- [ ] Storybook Addons not working:
+	- [ ] Playroom (patch for `playroom` removed for now, storybook-addon-playroom patch still in)
+	- [ ] Design Tokens
+- [ ] Storybook Addons not upgraded:
+	- [ ] JSON Schema
+	- [ ] Component Tokens
+	- [ ] Markup Tracking
+## Starter evolution
