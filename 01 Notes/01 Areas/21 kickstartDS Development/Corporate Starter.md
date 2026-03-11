@@ -43,4 +43,7 @@
 	- [ ] JSON Schema
 	- [ ] Component Tokens
 	- [ ] Markup Tracking
-## Starter evolution
+## Starter evolution / Optoma
+- Need to re-run `pnpm install` after first `pnpm -r run build`
+- Initial `pnpm --filter @kickstartds/storyblok-starter-premium run init` fails because of missing `components.123456.json`. Needs a `pnpm --filter @kickstartds/storyblok-starter-premium run create-storyblok-config` before it
+- Needs step about `mkcert localhost` in `packages/website` before first `dev`
