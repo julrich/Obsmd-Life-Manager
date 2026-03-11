@@ -47,3 +47,7 @@
 - Need to re-run `pnpm install` after first `pnpm -r run build`
 - Initial `pnpm --filter @kickstartds/storyblok-starter-premium run init` fails because of missing `components.123456.json`. Needs a `pnpm --filter @kickstartds/storyblok-starter-premium run create-storyblok-config` before it
 - Needs step about `mkcert localhost` in `packages/website` before first `dev`
+- Credentials potentially needed:
+	  - OpenAI API key
+	  - Google Fonts API key
+	  - Docker Registry API Key / Token
