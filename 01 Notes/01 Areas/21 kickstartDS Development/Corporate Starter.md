@@ -51,3 +51,11 @@
 	  - OpenAI API key
 	  - Google Fonts API key
 	  - Docker Registry API Key / Token
+
+## WE List
+- Optoma-Theme + Font(!!) (Font sollte in allen Interfaces sein wo sie unterstützt wird)
+- Sync Component / Preset-Previews auf Stand bringen
+- Übergreifendes Theming von Storybook, Design Token Editor und Schema Layer Editor
+- Falkenberg -> Theme
+- CSS Custom Property-Overrides auch in Kaskade von Theme > Page > etc
+- Unsere Addons auf Storyblok 10 bringen (Component Tokens, JSON Schema, Markup)
