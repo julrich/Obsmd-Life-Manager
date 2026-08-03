@@ -2,3 +2,9 @@
 - https://docs.thesys.dev/guides/what-is-thesys-c1
 - https://github.com/narrowin/awesome-generative-ui
 - https://arxiv.org/html/2607.22928v1
+- https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents
+- https://github.com/storybookjs/mcp/tree/main/eval
+- https://uimodeling.github.io/uiclip/
+- https://github.com/microsoft/OmniParser
+	- https://www.microsoft.com/en-us/research/articles/omniparser-v2-turning-any-llm-into-a-computer-use-agent/
+	- https://github.com/microsoft/OmniParser/blob/master/demo.ipynb
