@@ -8,3 +8,5 @@
 - https://github.com/microsoft/OmniParser
 	- https://www.microsoft.com/en-us/research/articles/omniparser-v2-turning-any-llm-into-a-computer-use-agent/
 	- https://github.com/microsoft/OmniParser/blob/master/demo.ipynb
+- https://christophhellmuth.com/open-design-system-bench-aurora-improvements/
+- 
